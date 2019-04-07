@@ -1,0 +1,75 @@
+{
+  "id": 1293222667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.14908,14.58103,40.14908,14.58103",
+    "geom:latitude":14.58103,
+    "geom:longitude":40.14908,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Belessua",
+    "gn:country_code":"ER",
+    "gn:dem":-102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342422,
+    "gn:latitude":14.58103,
+    "gn:longitude":40.14908,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Belessua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u0441\u0441\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Belessowa",
+        "Belessova",
+        "Belessua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342422
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"f2646f1efc135b8b753d7f8a873f007c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1293222667,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1293222667,
+    "wof:lastmodified":1537621308,
+    "wof:name":"Belessua",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.14908,
+    14.58103,
+    40.14908,
+    14.58103
+],
+  "geometry": {"coordinates":[40.14908,14.58103],"type":"Point"}
+}

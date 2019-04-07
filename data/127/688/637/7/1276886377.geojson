@@ -1,0 +1,71 @@
+{
+  "id": 1276886377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.95306,14.8925,38.95306,14.8925",
+    "geom:latitude":14.8925,
+    "geom:longitude":38.95306,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nueh Zeban",
+    "gn:country_code":"ER",
+    "gn:dem":1731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6419380,
+    "gn:latitude":14.8925,
+    "gn:longitude":38.95306,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Nueh Zeban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nuekh Zeban",
+        "Nueh Zeban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6419380
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"02d429390b80cb4bcb91feeeae4c9d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758389,
+            "locality_id":1276886377,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1276886377,
+    "wof:lastmodified":1537621320,
+    "wof:name":"Nueh Zeban",
+    "wof:parent_id":1108758389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.95306,
+    14.8925,
+    38.95306,
+    14.8925
+],
+  "geometry": {"coordinates":[38.95306,14.8925],"type":"Point"}
+}

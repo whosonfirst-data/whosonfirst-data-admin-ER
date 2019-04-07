@@ -1,0 +1,71 @@
+{
+  "id": 1193140217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.18583,14.60333,39.18583,14.60333",
+    "geom:latitude":14.60333,
+    "geom:longitude":39.18583,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cudo Hoiva",
+    "gn:country_code":"ER",
+    "gn:dem":1620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340443,
+    "gn:latitude":14.60333,
+    "gn:longitude":39.18583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cudo Hoiva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kudo Khoysa",
+        "Cudo Hoiva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340443
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"5bd391a5cd6730693313abdf00e73d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758401,
+            "locality_id":1193140217,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1193140217,
+    "wof:lastmodified":1537621306,
+    "wof:name":"Cudo Hoiva",
+    "wof:parent_id":1108758401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.18583,
+    14.60333,
+    39.18583,
+    14.60333
+],
+  "geometry": {"coordinates":[39.18583,14.60333],"type":"Point"}
+}

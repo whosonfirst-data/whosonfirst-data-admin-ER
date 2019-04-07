@@ -1,0 +1,67 @@
+{
+  "id": 1276247003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.8,15.13611,38.8,15.13611",
+    "geom:latitude":15.13611,
+    "geom:longitude":38.8,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adi Agbay",
+    "gn:country_code":"ER",
+    "gn:dem":1995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345311,
+    "gn:latitude":15.13611,
+    "gn:longitude":38.8,
+    "gn:modification_date":"1997-10-28",
+    "gn:name":"\u0100d\u012b \u0100gbay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345311
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"6320786ea2772a66390c4d358eb56b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758383,
+            "locality_id":1276247003,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1276247003,
+    "wof:lastmodified":1536894059,
+    "wof:name":"Adi Agbay",
+    "wof:parent_id":1108758383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.8,
+    15.13611,
+    38.8,
+    15.13611
+],
+  "geometry": {"coordinates":[38.8,15.13611],"type":"Point"}
+}

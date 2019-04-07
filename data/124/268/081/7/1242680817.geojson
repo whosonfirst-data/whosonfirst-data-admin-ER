@@ -1,0 +1,67 @@
+{
+  "id": 1242680817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.98344,15.05842,38.98344,15.05842",
+    "geom:latitude":15.05842,
+    "geom:longitude":38.98344,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Arato",
+    "gn:country_code":"ER",
+    "gn:dem":2047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343683,
+    "gn:latitude":15.05842,
+    "gn:longitude":38.98344,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"\u0100rato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343683
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"fdf5149ae748d069b1080d11db0ff7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758385,
+            "locality_id":1242680817,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1242680817,
+    "wof:lastmodified":1536915567,
+    "wof:name":"Arato",
+    "wof:parent_id":1108758385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.98344,
+    15.05842,
+    38.98344,
+    15.05842
+],
+  "geometry": {"coordinates":[38.98344,15.05842],"type":"Point"}
+}

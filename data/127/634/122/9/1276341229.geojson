@@ -1,0 +1,67 @@
+{
+  "id": 1276341229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.33971,15.49352,38.33971,15.49352",
+    "geom:latitude":15.49352,
+    "geom:longitude":38.33971,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ad-Alli",
+    "gn:country_code":"ER",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8385584,
+    "gn:latitude":15.49352,
+    "gn:longitude":38.33971,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ad-Alli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8385584
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"eb318bf7670aa732ebe4a6312e6fe4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758331,
+            "locality_id":1276341229,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1276341229,
+    "wof:lastmodified":1536768304,
+    "wof:name":"Ad-Alli",
+    "wof:parent_id":1108758331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.33971,
+    15.49352,
+    38.33971,
+    15.49352
+],
+  "geometry": {"coordinates":[38.33971,15.49352],"type":"Point"}
+}

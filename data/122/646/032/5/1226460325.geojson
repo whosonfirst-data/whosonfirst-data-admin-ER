@@ -1,0 +1,67 @@
+{
+  "id": 1226460325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.48405,15.82052,38.48405,15.82052",
+    "geom:latitude":15.82052,
+    "geom:longitude":38.48405,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Adi Dzhel'",
+    "gn:country_code":"ER",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8385774,
+    "gn:latitude":15.82052,
+    "gn:longitude":38.48405,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Adi Dzhel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8385774
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"f8ea2f10e09396bc1e8c5b85e4a09fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758291,
+            "locality_id":1226460325,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1226460325,
+    "wof:lastmodified":1536622460,
+    "wof:name":"Adi Dzhel'",
+    "wof:parent_id":1108758291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.48405,
+    15.82052,
+    38.48405,
+    15.82052
+],
+  "geometry": {"coordinates":[38.48405,15.82052],"type":"Point"}
+}

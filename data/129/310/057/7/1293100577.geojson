@@ -1,0 +1,72 @@
+{
+  "id": 1293100577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.62486,14.05406,41.62486,14.05406",
+    "geom:latitude":14.05406,
+    "geom:longitude":41.62486,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Krum",
+    "gn:country_code":"ER",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333587,
+    "gn:latitude":14.05406,
+    "gn:longitude":41.62486,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Krum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karmu",
+        "Krum",
+        "Karum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333587
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"02533336e43224f7a644e4e13ab68080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758373,
+            "locality_id":1293100577,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1293100577,
+    "wof:lastmodified":1537621297,
+    "wof:name":"Krum",
+    "wof:parent_id":1108758373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.62486,
+    14.05406,
+    41.62486,
+    14.05406
+],
+  "geometry": {"coordinates":[41.62486,14.05406],"type":"Point"}
+}

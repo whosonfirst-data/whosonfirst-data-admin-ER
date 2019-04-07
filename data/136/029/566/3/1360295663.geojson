@@ -1,0 +1,71 @@
+{
+  "id": 1360295663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.43917,14.60472,39.43917,14.60472",
+    "geom:latitude":14.60472,
+    "geom:longitude":39.43917,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Barachit",
+    "gn:country_code":"ER",
+    "gn:dem":2347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342747,
+    "gn:latitude":14.60472,
+    "gn:longitude":39.43917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Barachit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barakit",
+        "Barachit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342747
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"dcdb819e3a9970a91025fbb08f2f7d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758399,
+            "locality_id":1360295663,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1360295663,
+    "wof:lastmodified":1537621308,
+    "wof:name":"Barachit",
+    "wof:parent_id":1108758399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.43917,
+    14.60472,
+    39.43917,
+    14.60472
+],
+  "geometry": {"coordinates":[39.43917,14.60472],"type":"Point"}
+}

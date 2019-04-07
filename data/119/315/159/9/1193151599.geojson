@@ -1,0 +1,71 @@
+{
+  "id": 1193151599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.45889,14.66139,39.45889,14.66139",
+    "geom:latitude":14.66139,
+    "geom:longitude":39.45889,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Cieffa",
+    "gn:country_code":"ER",
+    "gn:dem":2366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340592,
+    "gn:latitude":14.66139,
+    "gn:longitude":39.45889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cieffa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chieffa",
+        "Cieffa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340592
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"92a4010df18a28ec37dc7bf9ec5e1d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758399,
+            "locality_id":1193151599,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1193151599,
+    "wof:lastmodified":1537621306,
+    "wof:name":"Cieffa",
+    "wof:parent_id":1108758399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.45889,
+    14.66139,
+    39.45889,
+    14.66139
+],
+  "geometry": {"coordinates":[39.45889,14.66139],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225954397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.06222,15.29444,39.06222,15.29444",
+    "geom:latitude":15.29444,
+    "geom:longitude":39.06222,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"May-Habar",
+    "gn:cc2":"ER",
+    "gn:country_code":"ER",
+    "gn:dem":1591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331397,
+    "gn:latitude":15.29444,
+    "gn:longitude":39.06222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"May-H\u0101bar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "May H\u0101bar (1)",
+        "Mafaradalu",
+        "Maihabar",
+        "May-H\u0101bar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331397
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"d2ecf4ee3533488828269560f1fbb950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758355,
+            "locality_id":1225954397,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1225954397,
+    "wof:lastmodified":1537621294,
+    "wof:name":"May-Habar",
+    "wof:parent_id":1108758355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.06222,
+    15.29444,
+    39.06222,
+    15.29444
+],
+  "geometry": {"coordinates":[39.06222,15.29444],"type":"Point"}
+}

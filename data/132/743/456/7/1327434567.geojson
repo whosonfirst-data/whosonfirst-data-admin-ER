@@ -1,0 +1,71 @@
+{
+  "id": 1327434567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.52498,14.93603,39.52498,14.93603",
+    "geom:latitude":14.93603,
+    "geom:longitude":39.52498,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Maiam",
+    "gn:country_code":"ER",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331741,
+    "gn:latitude":14.93603,
+    "gn:longitude":39.52498,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maiam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayam",
+        "Maiam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331741
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"f513ecca007c4cedf3cdc3f02f51180e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758377,
+            "locality_id":1327434567,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1327434567,
+    "wof:lastmodified":1537621296,
+    "wof:name":"Maiam",
+    "wof:parent_id":1108758377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.52498,
+    14.93603,
+    39.52498,
+    14.93603
+],
+  "geometry": {"coordinates":[39.52498,14.93603],"type":"Point"}
+}

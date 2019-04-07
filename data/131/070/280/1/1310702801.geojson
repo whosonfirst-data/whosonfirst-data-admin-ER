@@ -1,0 +1,67 @@
+{
+  "id": 1310702801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.87163,15.5297,37.87163,15.5297",
+    "geom:latitude":15.5297,
+    "geom:longitude":37.87163,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bet Mahala",
+    "gn:country_code":"ER",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342226,
+    "gn:latitude":15.5297,
+    "gn:longitude":37.87163,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Bet Mahala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342226
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"505c9621ea17b3d0607cd4cac0d29a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758313,
+            "locality_id":1310702801,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1310702801,
+    "wof:lastmodified":1536630649,
+    "wof:name":"Bet Mahala",
+    "wof:parent_id":1108758313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.87163,
+    15.5297,
+    37.87163,
+    15.5297
+],
+  "geometry": {"coordinates":[37.87163,15.5297],"type":"Point"}
+}

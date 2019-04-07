@@ -1,0 +1,64 @@
+{
+  "id": 1209524293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.23485,15.07972,39.23485,15.07972",
+    "geom:latitude":15.07972,
+    "geom:longitude":39.23485,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akrur",
+    "gn:country_code":"ER",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345584,
+    "gn:latitude":15.07972,
+    "gn:longitude":39.23485,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Akrur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Acrur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345584
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"673b75b55deefc420c79befc045d10b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209524293
+        }
+    ],
+    "wof:id":1209524293,
+    "wof:lastmodified":1537621316,
+    "wof:name":"Akrur",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.23485,
+    15.07972,
+    39.23485,
+    15.07972
+],
+  "geometry": {"coordinates":[39.23485,15.07972],"type":"Point"}
+}

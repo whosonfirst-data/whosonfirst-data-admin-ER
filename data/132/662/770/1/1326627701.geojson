@@ -1,0 +1,67 @@
+{
+  "id": 1326627701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.08996,16.55023,38.08996,16.55023",
+    "geom:latitude":16.55023,
+    "geom:longitude":38.08996,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Malhas",
+    "gn:country_code":"ER",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331648,
+    "gn:latitude":16.55023,
+    "gn:longitude":38.08996,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Malhas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331648
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"0b80e7834c831adeed1b3afdc7c4bddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758281,
+            "locality_id":1326627701,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1326627701,
+    "wof:lastmodified":1536845304,
+    "wof:name":"Malhas",
+    "wof:parent_id":1108758281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.08996,
+    16.55023,
+    38.08996,
+    16.55023
+],
+  "geometry": {"coordinates":[38.08996,16.55023],"type":"Point"}
+}

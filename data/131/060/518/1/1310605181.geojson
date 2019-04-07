@@ -1,0 +1,71 @@
+{
+  "id": 1310605181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.71361,15.66278,38.71361,15.66278",
+    "geom:latitude":15.66278,
+    "geom:longitude":38.71361,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hayelo",
+    "gn:country_code":"ER",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334828,
+    "gn:latitude":15.66278,
+    "gn:longitude":38.71361,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Hayelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hayelo (1)",
+        "Hayelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334828
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"84a11bf1ab363baac0d6a8261838a4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758273,
+            "locality_id":1310605181,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1310605181,
+    "wof:lastmodified":1537621299,
+    "wof:name":"Hayelo",
+    "wof:parent_id":1108758273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.71361,
+    15.66278,
+    38.71361,
+    15.66278
+],
+  "geometry": {"coordinates":[38.71361,15.66278],"type":"Point"}
+}

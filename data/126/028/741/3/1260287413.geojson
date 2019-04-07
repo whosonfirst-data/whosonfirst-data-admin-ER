@@ -1,0 +1,67 @@
+{
+  "id": 1260287413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.48379,17.30134,38.48379,17.30134",
+    "geom:latitude":17.30134,
+    "geom:longitude":38.48379,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Alghiena",
+    "gn:country_code":"ER",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8381550,
+    "gn:latitude":17.30134,
+    "gn:longitude":38.48379,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Alghiena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8381550
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"728b746abfb0a855cc74be5f3e5fb8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758359,
+            "locality_id":1260287413,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1260287413,
+    "wof:lastmodified":1536706924,
+    "wof:name":"Alghiena",
+    "wof:parent_id":1108758359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.48379,
+    17.30134,
+    38.48379,
+    17.30134
+],
+  "geometry": {"coordinates":[38.48379,17.30134],"type":"Point"}
+}

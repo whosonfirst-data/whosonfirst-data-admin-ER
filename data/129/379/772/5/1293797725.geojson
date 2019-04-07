@@ -1,0 +1,67 @@
+{
+  "id": 1293797725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.59318,15.77207,38.59318,15.77207",
+    "geom:latitude":15.77207,
+    "geom:longitude":38.59318,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Azafa",
+    "gn:country_code":"ER",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8392462,
+    "gn:latitude":15.77207,
+    "gn:longitude":38.59318,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Azafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8392462
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"67a6c5e8f19df0d015be58433464d05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758277,
+            "locality_id":1293797725,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1293797725,
+    "wof:lastmodified":1536835775,
+    "wof:name":"Azafa",
+    "wof:parent_id":1108758277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.59318,
+    15.77207,
+    38.59318,
+    15.77207
+],
+  "geometry": {"coordinates":[38.59318,15.77207],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310229113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.67051,15.44097,38.67051,15.44097",
+    "geom:latitude":15.44097,
+    "geom:longitude":38.67051,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Moga Meray",
+    "gn:country_code":"ER",
+    "gn:dem":2054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391317,
+    "gn:latitude":15.44097,
+    "gn:longitude":38.67051,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Moga Meray",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391317
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"7c26c7d92ed4e344de1051bb662ceb56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758329,
+            "locality_id":1310229113,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1310229113,
+    "wof:lastmodified":1536817390,
+    "wof:name":"Moga Meray",
+    "wof:parent_id":1108758329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.67051,
+    15.44097,
+    38.67051,
+    15.44097
+],
+  "geometry": {"coordinates":[38.67051,15.44097],"type":"Point"}
+}

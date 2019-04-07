@@ -1,0 +1,61 @@
+{
+  "id": 1209227737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.03799,15.17016,39.03799,15.17016",
+    "geom:latitude":15.17016,
+    "geom:longitude":39.03799,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Semanit",
+    "gn:country_code":"ER",
+    "gn:dem":1740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391724,
+    "gn:latitude":15.17016,
+    "gn:longitude":39.03799,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Semanit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391724
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"9863b836a66a7644ffba9196bf270f52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209227737
+        }
+    ],
+    "wof:id":1209227737,
+    "wof:lastmodified":1536293741,
+    "wof:name":"Semanit",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.03799,
+    15.17016,
+    39.03799,
+    15.17016
+],
+  "geometry": {"coordinates":[39.03799,15.17016],"type":"Point"}
+}

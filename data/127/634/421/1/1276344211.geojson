@@ -1,0 +1,72 @@
+{
+  "id": 1276344211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.02222,14.78639,39.02222,14.78639",
+    "geom:latitude":14.78639,
+    "geom:longitude":39.02222,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Knafna",
+    "gn:country_code":"ER",
+    "gn:dem":1622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340900,
+    "gn:latitude":14.78639,
+    "gn:longitude":39.02222,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Knafna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chenafena",
+        "Kenafena",
+        "Knafna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340900
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"f9e61644523ac38267202abcdb094b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758389,
+            "locality_id":1276344211,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1276344211,
+    "wof:lastmodified":1537621306,
+    "wof:name":"Knafna",
+    "wof:parent_id":1108758389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.02222,
+    14.78639,
+    39.02222,
+    14.78639
+],
+  "geometry": {"coordinates":[39.02222,14.78639],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1293395923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.80306,14.7275,37.80306,14.7275",
+    "geom:latitude":14.7275,
+    "geom:longitude":37.80306,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Badme",
+    "gn:country_code":"ER",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449176,
+    "gn:latitude":14.7275,
+    "gn:longitude":37.80306,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Badme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tir_x_preferred":[
+        "\u1263\u12f5\u1218"
+    ],
+    "name:tir_x_variant":[
+        "Badme"
+    ],
+    "name:und_x_variant":[
+        "H\u0101d\u012bsh \u0100d\u012b",
+        "Khadish Addi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758341,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449176,
+        "wk:page":"Badme"
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"ed3d0538a7e9c9e15c556b9c9ff8fc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758341,
+            "locality_id":1293395923,
+            "region_id":85671101
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1293395923,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1293395923,
+    "wof:lastmodified":1537621317,
+    "wof:name":"Badme",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.80306,
+    14.7275,
+    37.80306,
+    14.7275
+],
+  "geometry": {"coordinates":[37.80306,14.7275],"type":"Point"}
+}

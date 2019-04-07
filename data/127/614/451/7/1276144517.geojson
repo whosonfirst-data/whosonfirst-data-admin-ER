@@ -1,0 +1,67 @@
+{
+  "id": 1276144517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.38293,15.72874,39.38293,15.72874",
+    "geom:latitude":15.72874,
+    "geom:longitude":39.38293,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Guayra",
+    "gn:country_code":"ER",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8389140,
+    "gn:latitude":15.72874,
+    "gn:longitude":39.38293,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Guayra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8389140
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"36fd0fab27aa30526e61b41967d8484a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758361,
+            "locality_id":1276144517,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1276144517,
+    "wof:lastmodified":1537030430,
+    "wof:name":"Guayra",
+    "wof:parent_id":1108758361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.38293,
+    15.72874,
+    39.38293,
+    15.72874
+],
+  "geometry": {"coordinates":[39.38293,15.72874],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209714673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.86673,15.40679,38.86673,15.40679",
+    "geom:latitude":15.40679,
+    "geom:longitude":38.86673,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sium Dzhumnuk",
+    "gn:country_code":"ER",
+    "gn:dem":2341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391269,
+    "gn:latitude":15.40679,
+    "gn:longitude":38.86673,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Sium Dzhumnuk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805925,
+        1108758297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391269
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"18198e99f7a802231cc9a7a42698de09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758297,
+            "locality_id":1209714673,
+            "region_id":1108805925
+        }
+    ],
+    "wof:id":1209714673,
+    "wof:lastmodified":1536389121,
+    "wof:name":"Sium Dzhumnuk",
+    "wof:parent_id":1108758297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.86673,
+    15.40679,
+    38.86673,
+    15.40679
+],
+  "geometry": {"coordinates":[38.86673,15.40679],"type":"Point"}
+}

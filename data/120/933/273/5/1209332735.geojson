@@ -1,0 +1,61 @@
+{
+  "id": 1209332735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.41111,14.59667,39.41111,14.59667",
+    "geom:latitude":14.59667,
+    "geom:longitude":39.41111,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Behat",
+    "gn:country_code":"ER",
+    "gn:dem":2240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342522,
+    "gn:latitude":14.59667,
+    "gn:longitude":39.41111,
+    "gn:modification_date":"2007-02-14",
+    "gn:name":"Behat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342522
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"f67ddcef8feefbec2ca8b08b659649f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209332735
+        }
+    ],
+    "wof:id":1209332735,
+    "wof:lastmodified":1536290322,
+    "wof:name":"Behat",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.41111,
+    14.59667,
+    39.41111,
+    14.59667
+],
+  "geometry": {"coordinates":[39.41111,14.59667],"type":"Point"}
+}

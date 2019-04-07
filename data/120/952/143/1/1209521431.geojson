@@ -1,0 +1,61 @@
+{
+  "id": 1209521431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.33803,15.55041,38.33803,15.55041",
+    "geom:latitude":15.55041,
+    "geom:longitude":38.33803,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Homed Issa",
+    "gn:country_code":"ER",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334646,
+    "gn:latitude":15.55041,
+    "gn:longitude":38.33803,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Homed Issa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334646
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"cd42dfb817e20aeeb15328a5a980d320",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209521431
+        }
+    ],
+    "wof:id":1209521431,
+    "wof:lastmodified":1536284567,
+    "wof:name":"Homed Issa",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.33803,
+    15.55041,
+    38.33803,
+    15.55041
+],
+  "geometry": {"coordinates":[38.33803,15.55041],"type":"Point"}
+}

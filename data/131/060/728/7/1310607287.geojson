@@ -1,0 +1,67 @@
+{
+  "id": 1310607287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.71379,15.39666,38.71379,15.39666",
+    "geom:latitude":15.39666,
+    "geom:longitude":38.71379,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Al'gata",
+    "gn:country_code":"ER",
+    "gn:dem":2208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8390992,
+    "gn:latitude":15.39666,
+    "gn:longitude":38.71379,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Al\u2019gata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390992
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"512681061fda6891dc79c16c97d12e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758329,
+            "locality_id":1310607287,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1310607287,
+    "wof:lastmodified":1536770562,
+    "wof:name":"Al'gata",
+    "wof:parent_id":1108758329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.71379,
+    15.39666,
+    38.71379,
+    15.39666
+],
+  "geometry": {"coordinates":[38.71379,15.39666],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293022897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.38632,15.80722,39.38632,15.80722",
+    "geom:latitude":15.80722,
+    "geom:longitude":39.38632,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Wedi-ledo",
+    "gn:country_code":"ER",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416449,
+    "gn:latitude":15.80722,
+    "gn:longitude":39.38632,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Wedi-ledo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416449
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"e659218fcae41e47a2eeee1a4de171c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758365,
+            "locality_id":1293022897,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1293022897,
+    "wof:lastmodified":1537621317,
+    "wof:name":"Wedi-ledo",
+    "wof:parent_id":1108758365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.38632,
+    15.80722,
+    39.38632,
+    15.80722
+],
+  "geometry": {"coordinates":[39.38632,15.80722],"type":"Point"}
+}

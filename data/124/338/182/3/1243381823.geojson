@@ -1,0 +1,71 @@
+{
+  "id": 1243381823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.34861,14.81111,38.34861,14.81111",
+    "geom:latitude":14.81111,
+    "geom:longitude":38.34861,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Addi Kuaho",
+    "gn:country_code":"ER",
+    "gn:dem":1626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6417441,
+    "gn:latitude":14.81111,
+    "gn:longitude":38.34861,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Addi Kuaho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Addi Kuakho",
+        "Addi Kuaho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6417441
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"da59e93fcde21e3dccbc01d83b2bffd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758335,
+            "locality_id":1243381823,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1243381823,
+    "wof:lastmodified":1537621318,
+    "wof:name":"Addi Kuaho",
+    "wof:parent_id":1108758335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.34861,
+    14.81111,
+    38.34861,
+    14.81111
+],
+  "geometry": {"coordinates":[38.34861,14.81111],"type":"Point"}
+}

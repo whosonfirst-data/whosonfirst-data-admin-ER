@@ -1,0 +1,67 @@
+{
+  "id": 1310212581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.79494,13.92151,41.79494,13.92151",
+    "geom:latitude":13.92151,
+    "geom:longitude":41.79494,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Halaba",
+    "gn:country_code":"ER",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335247,
+    "gn:latitude":13.92151,
+    "gn:longitude":41.79494,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"H\u0101laba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335247
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"79e2f660a0e2831d77e9e4c8ea3e20ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758373,
+            "locality_id":1310212581,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1310212581,
+    "wof:lastmodified":1536840940,
+    "wof:name":"Halaba",
+    "wof:parent_id":1108758373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.79494,
+    13.92151,
+    41.79494,
+    13.92151
+],
+  "geometry": {"coordinates":[41.79494,13.92151],"type":"Point"}
+}

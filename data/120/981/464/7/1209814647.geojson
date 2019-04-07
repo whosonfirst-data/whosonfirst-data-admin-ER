@@ -1,0 +1,67 @@
+{
+  "id": 1209814647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.86239,15.43163,38.86239,15.43163",
+    "geom:latitude":15.43163,
+    "geom:longitude":38.86239,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Khamesi",
+    "gn:country_code":"ER",
+    "gn:dem":2314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391281,
+    "gn:latitude":15.43163,
+    "gn:longitude":38.86239,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Khamesi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805925,
+        1108758297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391281
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"c4ad125b0c7555241c7c1100a7477863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758297,
+            "locality_id":1209814647,
+            "region_id":1108805925
+        }
+    ],
+    "wof:id":1209814647,
+    "wof:lastmodified":1536384868,
+    "wof:name":"Khamesi",
+    "wof:parent_id":1108758297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.86239000000001,
+    15.43163,
+    38.86239000000001,
+    15.43163
+],
+  "geometry": {"coordinates":[38.86239000000001,15.43163],"type":"Point"}
+}

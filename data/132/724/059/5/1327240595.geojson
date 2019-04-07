@@ -1,0 +1,67 @@
+{
+  "id": 1327240595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.12489,16.93142,38.12489,16.93142",
+    "geom:latitude":16.93142,
+    "geom:longitude":38.12489,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Khasta",
+    "gn:country_code":"ER",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8541047,
+    "gn:latitude":16.93142,
+    "gn:longitude":38.12489,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Khasta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8541047
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"818af1e13e3139301c9e421063a0f3f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758363,
+            "locality_id":1327240595,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1327240595,
+    "wof:lastmodified":1536957639,
+    "wof:name":"Khasta",
+    "wof:parent_id":1108758363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.12489,
+    16.93142000000001,
+    38.12489,
+    16.93142000000001
+],
+  "geometry": {"coordinates":[38.12489,16.93142000000001],"type":"Point"}
+}

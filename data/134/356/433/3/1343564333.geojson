@@ -1,0 +1,67 @@
+{
+  "id": 1343564333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.02288,15.10448,39.02288,15.10448",
+    "geom:latitude":15.10448,
+    "geom:longitude":39.02288,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dekamaso",
+    "gn:country_code":"ER",
+    "gn:dem":2119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391728,
+    "gn:latitude":15.10448,
+    "gn:longitude":39.02288,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Dekamaso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391728
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"ddd07d319015812a568667e373a136a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758385,
+            "locality_id":1343564333,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1343564333,
+    "wof:lastmodified":1537090638,
+    "wof:name":"Dekamaso",
+    "wof:parent_id":1108758385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.02288,
+    15.10448,
+    39.02288,
+    15.10448
+],
+  "geometry": {"coordinates":[39.02288,15.10448],"type":"Point"}
+}

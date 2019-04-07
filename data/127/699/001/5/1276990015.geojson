@@ -1,0 +1,71 @@
+{
+  "id": 1276990015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.65278,14.86056,38.65278,14.86056",
+    "geom:latitude":14.86056,
+    "geom:longitude":38.65278,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lahlayaddi",
+    "gn:country_code":"ER",
+    "gn:dem":1950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6419421,
+    "gn:latitude":14.86056,
+    "gn:longitude":38.65278,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Lahlayaddi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lakhlayaddi",
+        "Lahlayaddi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6419421
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"0a32cc6277c73dadbd143d5a63f417b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758381,
+            "locality_id":1276990015,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1276990015,
+    "wof:lastmodified":1537621321,
+    "wof:name":"Lahlayaddi",
+    "wof:parent_id":1108758381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.65278,
+    14.86056,
+    38.65278,
+    14.86056
+],
+  "geometry": {"coordinates":[38.65278,14.86056],"type":"Point"}
+}

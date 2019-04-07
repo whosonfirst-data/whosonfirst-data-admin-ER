@@ -1,0 +1,67 @@
+{
+  "id": 1310227109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.05872,15.29174,40.05872,15.29174",
+    "geom:latitude":15.29174,
+    "geom:longitude":40.05872,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dagabta",
+    "gn:country_code":"ER",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8382968,
+    "gn:latitude":15.29174,
+    "gn:longitude":40.05872,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Dagabta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8382968
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"770b7369fd5f223fa67ad9fdd4ab9478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1310227109,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1310227109,
+    "wof:lastmodified":1536820266,
+    "wof:name":"Dagabta",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.05872,
+    15.29174,
+    40.05872,
+    15.29174
+],
+  "geometry": {"coordinates":[40.05872,15.29174],"type":"Point"}
+}

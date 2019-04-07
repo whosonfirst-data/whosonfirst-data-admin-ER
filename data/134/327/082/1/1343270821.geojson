@@ -1,0 +1,67 @@
+{
+  "id": 1343270821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.56472,14.97417,38.56472,14.97417",
+    "geom:latitude":14.97417,
+    "geom:longitude":38.56472,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Sebaa",
+    "gn:country_code":"ER",
+    "gn:dem":2072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6419656,
+    "gn:latitude":14.97417,
+    "gn:longitude":38.56472,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Adi Sebaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6419656
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"c6ccd656d5778b69a38354bd42c80909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758381,
+            "locality_id":1343270821,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1343270821,
+    "wof:lastmodified":1537019040,
+    "wof:name":"Adi Sebaa",
+    "wof:parent_id":1108758381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.56472,
+    14.97417,
+    38.56472,
+    14.97417
+],
+  "geometry": {"coordinates":[38.56472,14.97417],"type":"Point"}
+}

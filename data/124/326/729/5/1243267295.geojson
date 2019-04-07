@@ -1,0 +1,67 @@
+{
+  "id": 1243267295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.63332,17.44873,38.63332,17.44873",
+    "geom:latitude":17.44873,
+    "geom:longitude":38.63332,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mahmimet",
+    "gn:country_code":"ER",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8385397,
+    "gn:latitude":17.44873,
+    "gn:longitude":38.63332,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Mahmimet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8385397
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"4ad543107cee6c109be8a04f4654ecfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758359,
+            "locality_id":1243267295,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1243267295,
+    "wof:lastmodified":1537061037,
+    "wof:name":"Mahmimet",
+    "wof:parent_id":1108758359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.63332,
+    17.44873,
+    38.63332,
+    17.44873
+],
+  "geometry": {"coordinates":[38.63332,17.44873],"type":"Point"}
+}

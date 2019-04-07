@@ -1,0 +1,77 @@
+{
+  "id": 1344260093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53333,14.5,39.53333,14.5",
+    "geom:latitude":14.5,
+    "geom:longitude":39.53333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Metich",
+    "gn:country_code":"ER",
+    "gn:dem":2028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330777,
+    "gn:latitude":14.5,
+    "gn:longitude":39.53333,
+    "gn:modification_date":"2008-03-28",
+    "gn:name":"Metich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758399,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330777
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"01dcfc22b7c05291da54d1e123aa904a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758399,
+            "locality_id":1344260093,
+            "region_id":85671109
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1344260093,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1344260093,
+    "wof:lastmodified":1537081501,
+    "wof:name":"Metich",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53333,
+    14.5,
+    39.53333,
+    14.5
+],
+  "geometry": {"coordinates":[39.53333,14.5],"type":"Point"}
+}

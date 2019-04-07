@@ -1,0 +1,67 @@
+{
+  "id": 1243181055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.72583,14.74583,38.72583,14.74583",
+    "geom:latitude":14.74583,
+    "geom:longitude":38.72583,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Gosse",
+    "gn:country_code":"ER",
+    "gn:dem":1913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6419283,
+    "gn:latitude":14.74583,
+    "gn:longitude":38.72583,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Adi Gosse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6419283
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"ff3125b6cc1075edb591ea986c6c4ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758387,
+            "locality_id":1243181055,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1243181055,
+    "wof:lastmodified":1536691235,
+    "wof:name":"Adi Gosse",
+    "wof:parent_id":1108758387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.72583,
+    14.74583,
+    38.72583,
+    14.74583
+],
+  "geometry": {"coordinates":[38.72583,14.74583],"type":"Point"}
+}

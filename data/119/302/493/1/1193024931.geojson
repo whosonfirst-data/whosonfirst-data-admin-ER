@@ -1,0 +1,67 @@
+{
+  "id": 1193024931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.6625,14.825,38.6625,14.825",
+    "geom:latitude":14.825,
+    "geom:longitude":38.6625,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Sagla",
+    "gn:country_code":"ER",
+    "gn:dem":1783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6419264,
+    "gn:latitude":14.825,
+    "gn:longitude":38.6625,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Adi Sagla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6419264
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"15116a19abf2aefcd77a6cfe6dce573d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758381,
+            "locality_id":1193024931,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1193024931,
+    "wof:lastmodified":1536369036,
+    "wof:name":"Adi Sagla",
+    "wof:parent_id":1108758381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.6625,
+    14.825,
+    38.6625,
+    14.825
+],
+  "geometry": {"coordinates":[38.6625,14.825],"type":"Point"}
+}

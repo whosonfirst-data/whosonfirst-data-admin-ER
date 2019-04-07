@@ -1,0 +1,67 @@
+{
+  "id": 1343784277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.02591,15.34246,40.02591,15.34246",
+    "geom:latitude":15.34246,
+    "geom:longitude":40.02591,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Enda Daka",
+    "gn:country_code":"ER",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8383513,
+    "gn:latitude":15.34246,
+    "gn:longitude":40.02591,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Enda Daka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8383513
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"2b8d481db39cda24038f1e1217d81e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1343784277,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1343784277,
+    "wof:lastmodified":1536777215,
+    "wof:name":"Enda Daka",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.02591,
+    15.34246,
+    40.02591,
+    15.34246
+],
+  "geometry": {"coordinates":[40.02591,15.34246],"type":"Point"}
+}

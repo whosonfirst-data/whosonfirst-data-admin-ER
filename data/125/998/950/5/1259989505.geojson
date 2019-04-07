@@ -1,0 +1,67 @@
+{
+  "id": 1259989505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.37639,14.73139,39.37639,14.73139",
+    "geom:latitude":14.73139,
+    "geom:longitude":39.37639,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Keshe'at",
+    "gn:country_code":"ER",
+    "gn:dem":2213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416483,
+    "gn:latitude":14.73139,
+    "gn:longitude":39.37639,
+    "gn:modification_date":"1999-06-17",
+    "gn:name":"Keshe\u2019at",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416483
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"a4e98cf79fd9edc4fc42d8a7b757217c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758399,
+            "locality_id":1259989505,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1259989505,
+    "wof:lastmodified":1536624418,
+    "wof:name":"Keshe'at",
+    "wof:parent_id":1108758399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.37639,
+    14.73139,
+    39.37639,
+    14.73139
+],
+  "geometry": {"coordinates":[39.37639,14.73139],"type":"Point"}
+}

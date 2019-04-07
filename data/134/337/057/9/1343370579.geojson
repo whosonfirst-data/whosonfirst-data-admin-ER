@@ -1,0 +1,73 @@
+{
+  "id": 1343370579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.34493,12.7001,42.34493,12.7001",
+    "geom:latitude":12.7001,
+    "geom:longitude":42.34493,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Deba-Sima",
+    "gn:country_code":"ER",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339817,
+    "gn:latitude":12.7001,
+    "gn:longitude":42.34493,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Deba-Sima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dahaissima",
+        "Dabaissima",
+        "Debays\u012bma",
+        "Deba-Sima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339817
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"e0bd3e6d6e2aca2a4a5b5d21f122f272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758371,
+            "locality_id":1343370579,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1343370579,
+    "wof:lastmodified":1537621305,
+    "wof:name":"Deba-Sima",
+    "wof:parent_id":1108758371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.34493,
+    12.7001,
+    42.34493,
+    12.7001
+],
+  "geometry": {"coordinates":[42.34493,12.7001],"type":"Point"}
+}

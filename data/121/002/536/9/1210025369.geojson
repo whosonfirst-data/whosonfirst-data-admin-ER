@@ -1,0 +1,73 @@
+{
+  "id": 1210025369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.68729,16.18834,38.68729,16.18834",
+    "geom:latitude":16.18834,
+    "geom:longitude":38.68729,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Af'abet",
+    "gn:country_code":"ER",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344783,
+    "gn:latitude":16.18834,
+    "gn:longitude":38.68729,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Af\u2019abet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Af Abeb",
+        "Af Abed",
+        "Af\u2019abet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344783,
+        "wk:page":"Afabet"
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"1e65a6e6ab18f800952df92b12f03551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758347,
+            "locality_id":1210025369,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1210025369,
+    "wof:lastmodified":1537621310,
+    "wof:name":"Af'abet",
+    "wof:parent_id":1108758347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.68729,
+    16.18834,
+    38.68729,
+    16.18834
+],
+  "geometry": {"coordinates":[38.68729,16.18834],"type":"Point"}
+}

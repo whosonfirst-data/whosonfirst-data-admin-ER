@@ -1,0 +1,67 @@
+{
+  "id": 1243556497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.73918,14.64253,40.73918,14.64253",
+    "geom:latitude":14.64253,
+    "geom:longitude":40.73918,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Firidello",
+    "gn:country_code":"ER",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337702,
+    "gn:latitude":14.64253,
+    "gn:longitude":40.73918,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Firidello",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337702
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"5d6f366d6c045ece60f993a0a246403a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758367,
+            "locality_id":1243556497,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1243556497,
+    "wof:lastmodified":1536646467,
+    "wof:name":"Firidello",
+    "wof:parent_id":1108758367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.73918,
+    14.64253,
+    40.73918,
+    14.64253
+],
+  "geometry": {"coordinates":[40.73918,14.64253],"type":"Point"}
+}

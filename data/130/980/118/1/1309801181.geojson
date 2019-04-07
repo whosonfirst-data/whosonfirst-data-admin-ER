@@ -1,0 +1,76 @@
+{
+  "id": 1309801181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.15214,15.5218,39.15214,15.5218",
+    "geom:latitude":15.5218,
+    "geom:longitude":39.15214,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gahtielay",
+    "gn:country_code":"ER",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337491,
+    "gn:latitude":15.5218,
+    "gn:longitude":39.15214,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Gahtielay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Dembe"
+    ],
+    "name:und_x_variant":[
+        "Gaht\u0113lay",
+        "Gahtielay",
+        "Dambe",
+        "Gahtella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337491
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"2918579ff47cd9cfd72ebe2ec2de9ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758355,
+            "locality_id":1309801181,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1309801181,
+    "wof:lastmodified":1537621302,
+    "wof:name":"Gahtielay",
+    "wof:parent_id":1108758355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.15214,
+    15.5218,
+    39.15214,
+    15.5218
+],
+  "geometry": {"coordinates":[39.15214,15.5218],"type":"Point"}
+}

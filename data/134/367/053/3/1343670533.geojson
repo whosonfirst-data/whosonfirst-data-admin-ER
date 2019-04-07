@@ -1,0 +1,72 @@
+{
+  "id": 1343670533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.81389,14.66528,38.81389,14.66528",
+    "geom:latitude":14.66528,
+    "geom:longitude":38.81389,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi K'eshi",
+    "gn:country_code":"ER",
+    "gn:dem":1968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345050,
+    "gn:latitude":14.66528,
+    "gn:longitude":38.81389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100d\u012b K\u2019esh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi Casci",
+        "Addi Keshi",
+        "\u0100d\u012b K\u2019esh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345050
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"ce87ddf3e0ed5f56a8b9d40fc4dfdb72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758379,
+            "locality_id":1343670533,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1343670533,
+    "wof:lastmodified":1537621312,
+    "wof:name":"Adi K'eshi",
+    "wof:parent_id":1108758379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.81389,
+    14.66528,
+    38.81389,
+    14.66528
+],
+  "geometry": {"coordinates":[38.81389,14.66528],"type":"Point"}
+}

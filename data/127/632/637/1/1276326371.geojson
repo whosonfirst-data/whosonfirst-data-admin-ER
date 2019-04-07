@@ -1,0 +1,67 @@
+{
+  "id": 1276326371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.36486,16.03698,38.36486,16.03698",
+    "geom:latitude":16.03698,
+    "geom:longitude":38.36486,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"En Harris",
+    "gn:country_code":"ER",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338072,
+    "gn:latitude":16.03698,
+    "gn:longitude":38.36486,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"En Harris",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338072
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"472a91b51b836f1afeb1a9b4a5c708fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758281,
+            "locality_id":1276326371,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1276326371,
+    "wof:lastmodified":1536788445,
+    "wof:name":"En Harris",
+    "wof:parent_id":1108758281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.36486,
+    16.03698,
+    38.36486,
+    16.03698
+],
+  "geometry": {"coordinates":[38.36486,16.03698],"type":"Point"}
+}

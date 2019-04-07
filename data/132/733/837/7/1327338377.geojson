@@ -1,0 +1,67 @@
+{
+  "id": 1327338377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.82305,15.38596,38.82305,15.38596",
+    "geom:latitude":15.38596,
+    "geom:longitude":38.82305,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Adi Yakob",
+    "gn:country_code":"ER",
+    "gn:dem":2314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391244,
+    "gn:latitude":15.38596,
+    "gn:longitude":38.82305,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Adi Yakob",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805925,
+        1108758297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391244
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"ee74098e37c5bcc04b9baa2e503633eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758297,
+            "locality_id":1327338377,
+            "region_id":1108805925
+        }
+    ],
+    "wof:id":1327338377,
+    "wof:lastmodified":1536815774,
+    "wof:name":"Adi Yakob",
+    "wof:parent_id":1108758297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.82305,
+    15.38596,
+    38.82305,
+    15.38596
+],
+  "geometry": {"coordinates":[38.82305,15.38596],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243005987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.22744,15.536,38.22744,15.536",
+    "geom:latitude":15.536,
+    "geom:longitude":38.22744,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ad Errei",
+    "gn:country_code":"ER",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345359,
+    "gn:latitude":15.536,
+    "gn:longitude":38.22744,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ad Errei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345359
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"31da095d654ac114c6d1ae54cc1c6ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758331,
+            "locality_id":1243005987,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1243005987,
+    "wof:lastmodified":1536944130,
+    "wof:name":"Ad Errei",
+    "wof:parent_id":1108758331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.22744,
+    15.536,
+    38.22744,
+    15.536
+],
+  "geometry": {"coordinates":[38.22744,15.536],"type":"Point"}
+}

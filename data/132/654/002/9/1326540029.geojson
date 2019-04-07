@@ -1,0 +1,67 @@
+{
+  "id": 1326540029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.23333,17.53333,37.23333,17.53333",
+    "geom:latitude":17.53333,
+    "geom:longitude":37.23333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Katai Garsa",
+    "gn:country_code":"ER",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333558,
+    "gn:latitude":17.53333,
+    "gn:longitude":37.23333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Katai Garsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091708733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333558
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"60dceaf9b0da790100d9070130a3e7c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708733,
+            "locality_id":1326540029,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1326540029,
+    "wof:lastmodified":1536972297,
+    "wof:name":"Katai Garsa",
+    "wof:parent_id":1091708733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.23333,
+    17.53333,
+    37.23333,
+    17.53333
+],
+  "geometry": {"coordinates":[37.23333,17.53333],"type":"Point"}
+}

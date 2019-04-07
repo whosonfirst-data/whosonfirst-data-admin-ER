@@ -1,0 +1,70 @@
+{
+  "id": 1276971997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.52002,15.39923,39.52002,15.39923",
+    "geom:latitude":15.39923,
+    "geom:longitude":39.52002,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tarua",
+    "gn:country_code":"ER",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327906,
+    "gn:latitude":15.39923,
+    "gn:longitude":39.52002,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Tarua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327906
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"48bd1b0fadda34ac820a823f0f5b721e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758351,
+            "locality_id":1276971997,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1276971997,
+    "wof:lastmodified":1537621289,
+    "wof:name":"Tarua",
+    "wof:parent_id":1108758351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.52002,
+    15.39923,
+    39.52002,
+    15.39923
+],
+  "geometry": {"coordinates":[39.52002,15.39923],"type":"Point"}
+}

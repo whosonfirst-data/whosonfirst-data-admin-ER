@@ -1,0 +1,72 @@
+{
+  "id": 1226456219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.5442,15.63214,38.5442,15.63214",
+    "geom:latitude":15.63214,
+    "geom:longitude":38.5442,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Iaholluf",
+    "gn:country_code":"ER",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334509,
+    "gn:latitude":15.63214,
+    "gn:longitude":38.5442,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Iaholluf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Johalluf",
+        "Jahalluf",
+        "Iaholluf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334509
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"5e6df5917d8c146b097631a013a3fdc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758277,
+            "locality_id":1226456219,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1226456219,
+    "wof:lastmodified":1537621299,
+    "wof:name":"Iaholluf",
+    "wof:parent_id":1108758277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.5442,
+    15.63214,
+    38.5442,
+    15.63214
+],
+  "geometry": {"coordinates":[38.5442,15.63214],"type":"Point"}
+}

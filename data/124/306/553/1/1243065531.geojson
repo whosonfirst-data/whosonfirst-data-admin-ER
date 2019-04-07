@@ -1,0 +1,67 @@
+{
+  "id": 1243065531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.20528,15.48167,39.20528,15.48167",
+    "geom:latitude":15.48167,
+    "geom:longitude":39.20528,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Agambusa/Tobo",
+    "gn:country_code":"ER",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416442,
+    "gn:latitude":15.48167,
+    "gn:longitude":39.20528,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Agambusa/Tobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416442
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"8abe62726e9614e4c4d98696b9e1c5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758355,
+            "locality_id":1243065531,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1243065531,
+    "wof:lastmodified":1536856453,
+    "wof:name":"Agambusa/Tobo",
+    "wof:parent_id":1108758355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.20528,
+    15.48167,
+    39.20528,
+    15.48167
+],
+  "geometry": {"coordinates":[39.20528,15.48167],"type":"Point"}
+}

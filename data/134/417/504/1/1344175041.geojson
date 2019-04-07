@@ -1,0 +1,71 @@
+{
+  "id": 1344175041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.3075,14.81583,37.3075,14.81583",
+    "geom:latitude":14.81583,
+    "geom:longitude":37.3075,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Alescifa",
+    "gn:country_code":"ER",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344264,
+    "gn:latitude":14.81583,
+    "gn:longitude":37.3075,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Alescifa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aleshifa",
+        "Alescifa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344264
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"0b37b71563ea0ab94c2b4743a3488900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758327,
+            "locality_id":1344175041,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1344175041,
+    "wof:lastmodified":1537621310,
+    "wof:name":"Alescifa",
+    "wof:parent_id":1108758327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3075,
+    14.81583,
+    37.3075,
+    14.81583
+],
+  "geometry": {"coordinates":[37.3075,14.81583],"type":"Point"}
+}

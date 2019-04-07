@@ -1,0 +1,72 @@
+{
+  "id": 1209637451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.47649,16.66726,38.47649,16.66726",
+    "geom:latitude":16.66726,
+    "geom:longitude":38.47649,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nak'fa",
+    "gn:country_code":"ER",
+    "gn:dem":1712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330216,
+    "gn:latitude":16.66726,
+    "gn:longitude":38.47649,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Nak\u2019fa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tir_x_preferred":[
+        "\u1293\u1250\u134b"
+    ],
+    "name:tir_x_variant":[
+        "Nak\u2019fa"
+    ],
+    "name:und_x_variant":[
+        "Nacfa",
+        "Nakfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330216,
+        "wk:page":"Nakfa%2C_Eritrea"
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"9e39a4ae61601e722c7447459a3cc795",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209637451
+        }
+    ],
+    "wof:id":1209637451,
+    "wof:lastmodified":1537621292,
+    "wof:name":"Nak'fa",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.47649000000001,
+    16.66726,
+    38.47649000000001,
+    16.66726
+],
+  "geometry": {"coordinates":[38.47649000000001,16.66726],"type":"Point"}
+}

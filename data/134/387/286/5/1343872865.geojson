@@ -1,0 +1,67 @@
+{
+  "id": 1343872865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.45778,14.81167,38.45778,14.81167",
+    "geom:latitude":14.81167,
+    "geom:longitude":38.45778,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adi Bal",
+    "gn:country_code":"ER",
+    "gn:dem":1516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6417454,
+    "gn:latitude":14.81167,
+    "gn:longitude":38.45778,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Adi Bal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6417454
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"ae9beb579c5bf50356e4e8158999e83c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758381,
+            "locality_id":1343872865,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1343872865,
+    "wof:lastmodified":1536648276,
+    "wof:name":"Adi Bal",
+    "wof:parent_id":1108758381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.45778,
+    14.81167,
+    38.45778,
+    14.81167
+],
+  "geometry": {"coordinates":[38.45778,14.81167],"type":"Point"}
+}

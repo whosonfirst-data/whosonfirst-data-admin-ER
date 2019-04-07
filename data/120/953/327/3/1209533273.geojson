@@ -1,0 +1,65 @@
+{
+  "id": 1209533273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.47932,15.76773,38.47932,15.76773",
+    "geom:latitude":15.76773,
+    "geom:longitude":38.47932,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hashela",
+    "gn:country_code":"ER",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334883,
+    "gn:latitude":15.76773,
+    "gn:longitude":38.47932,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Hashela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deghi",
+        "Hashela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334883
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"1928d53385c61b51fbab28e043868aef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209533273
+        }
+    ],
+    "wof:id":1209533273,
+    "wof:lastmodified":1537621299,
+    "wof:name":"Hashela",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.47932,
+    15.76773,
+    38.47932,
+    15.76773
+],
+  "geometry": {"coordinates":[38.47932,15.76773],"type":"Point"}
+}

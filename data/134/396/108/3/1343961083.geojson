@@ -1,0 +1,67 @@
+{
+  "id": 1343961083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28197,15.08318,39.28197,15.08318",
+    "geom:latitude":15.08318,
+    "geom:longitude":39.28197,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi May Ela",
+    "gn:country_code":"ER",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391625,
+    "gn:latitude":15.08318,
+    "gn:longitude":39.28197,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Adi May Ela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391625
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"5d982fe1376d90e0012093d6588ac775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758397,
+            "locality_id":1343961083,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1343961083,
+    "wof:lastmodified":1537018278,
+    "wof:name":"Adi May Ela",
+    "wof:parent_id":1108758397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28197,
+    15.08318,
+    39.28197,
+    15.08318
+],
+  "geometry": {"coordinates":[39.28197,15.08318],"type":"Point"}
+}

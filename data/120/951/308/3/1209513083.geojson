@@ -1,0 +1,70 @@
+{
+  "id": 1209513083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.82185,17.55638,38.82185,17.55638",
+    "geom:latitude":17.55638,
+    "geom:longitude":38.82185,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mersa Tek'lay",
+    "gn:country_code":"ER",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330880,
+    "gn:latitude":17.55638,
+    "gn:longitude":38.82185,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Mersa Tek\u2019lay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tir_x_preferred":[
+        "Mersa Tehlay"
+    ],
+    "name:und_x_variant":[
+        "Taclai",
+        "Taklai",
+        "Tek\u2019lay",
+        "Mersa Tek\u2019lay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330880
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"7db6fb526cf9b76a728db693ed4a2b09",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209513083
+        }
+    ],
+    "wof:id":1209513083,
+    "wof:lastmodified":1537621293,
+    "wof:name":"Mersa Tek'lay",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.82185,
+    17.55637999999999,
+    38.82185,
+    17.55637999999999
+],
+  "geometry": {"coordinates":[38.82185,17.55637999999999],"type":"Point"}
+}

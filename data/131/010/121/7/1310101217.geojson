@@ -1,0 +1,67 @@
+{
+  "id": 1310101217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.83583,15.27349,39.83583,15.27349",
+    "geom:latitude":15.27349,
+    "geom:longitude":39.83583,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bukhrali",
+    "gn:country_code":"ER",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8390958,
+    "gn:latitude":15.27349,
+    "gn:longitude":39.83583,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Bukhrali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390958
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"bca3a4f6541abc76b1bc9c5c953e5edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1310101217,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1310101217,
+    "wof:lastmodified":1537001939,
+    "wof:name":"Bukhrali",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.83583,
+    15.27349,
+    39.83583,
+    15.27349
+],
+  "geometry": {"coordinates":[39.83583,15.27349],"type":"Point"}
+}

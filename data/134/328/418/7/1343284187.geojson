@@ -1,0 +1,71 @@
+{
+  "id": 1343284187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.20869,15.47257,39.20869,15.47257",
+    "geom:latitude":15.47257,
+    "geom:longitude":39.20869,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Damas",
+    "gn:country_code":"ER",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340087,
+    "gn:latitude":15.47257,
+    "gn:longitude":39.20869,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Damas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Demes",
+        "Damas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340087
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"dbf4b5a8f5828f2d30081276afe2416e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758355,
+            "locality_id":1343284187,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1343284187,
+    "wof:lastmodified":1537621305,
+    "wof:name":"Damas",
+    "wof:parent_id":1108758355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.20869,
+    15.47257,
+    39.20869,
+    15.47257
+],
+  "geometry": {"coordinates":[39.20869,15.47257],"type":"Point"}
+}

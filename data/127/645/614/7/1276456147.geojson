@@ -1,0 +1,67 @@
+{
+  "id": 1276456147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.71667,14.73389,38.71667,14.73389",
+    "geom:latitude":14.73389,
+    "geom:longitude":38.71667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Madiya",
+    "gn:country_code":"ER",
+    "gn:dem":1920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6419280,
+    "gn:latitude":14.73389,
+    "gn:longitude":38.71667,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Adi Madiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6419280
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"5b650c6a9eb90c1287d84f36e28dcf38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758387,
+            "locality_id":1276456147,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1276456147,
+    "wof:lastmodified":1536611557,
+    "wof:name":"Adi Madiya",
+    "wof:parent_id":1108758387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.71667,
+    14.73389,
+    38.71667,
+    14.73389
+],
+  "geometry": {"coordinates":[38.71667,14.73389],"type":"Point"}
+}

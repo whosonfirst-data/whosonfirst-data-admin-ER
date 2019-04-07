@@ -1,0 +1,78 @@
+{
+  "id": 421170025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.07626,15.39864,39.07626,15.39864",
+    "geom:latitude":15.39864,
+    "geom:longitude":39.07626,
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Imbatekala"
+    ],
+    "qs:gn_country":"ER",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":334317,
+    "qs:gn_pop":0,
+    "qs:name":"Imbatikala",
+    "qs:name_adm0":"Eritrea",
+    "qs:name_adm1":"Semien-Keih-Bahri",
+    "qs:photos":98,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":98,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211603,
+    "qs:woe_adm0":23424806,
+    "qs:woe_id":1312393,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334317,
+        "gp:id":1312393,
+        "qs:id":211603
+    },
+    "wof:country":"ER",
+    "wof:created":1459008834,
+    "wof:geomhash":"d386b06020266b448e8bc27660e3a4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758355,
+            "locality_id":421170025,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":421170025,
+    "wof:lastmodified":1501213980,
+    "wof:name":"Imbatikala",
+    "wof:parent_id":1108758355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.07626,
+    15.39864,
+    39.07626,
+    15.39864
+],
+  "geometry": {"coordinates":[39.07626,15.39864],"type":"Point"}
+}

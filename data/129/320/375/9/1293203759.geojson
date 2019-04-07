@@ -1,0 +1,80 @@
+{
+  "id": 1293203759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.42229,14.70013,39.42229,14.70013",
+    "geom:latitude":14.70013,
+    "geom:longitude":39.42229,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sen`afe",
+    "gn:country_code":"ER",
+    "gn:dem":2437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328893,
+    "gn:latitude":14.70013,
+    "gn:longitude":39.42229,
+    "gn:modification_date":"2018-04-03",
+    "gn:name":"Sen\u2018afe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_historical":[
+        "Sanaf\u00e8"
+    ],
+    "name:ita_x_preferred":[
+        "Sanaf\u00e8"
+    ],
+    "name:tir_x_preferred":[
+        "\u1230\u1295\u12d3\u1348"
+    ],
+    "name:tir_x_variant":[
+        "Sen\u2018afe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328893,
+        "wk:page":"Senafe"
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"9959396621506d8b9b3844f6369af723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758399,
+            "locality_id":1293203759,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1293203759,
+    "wof:lastmodified":1537621290,
+    "wof:name":"Sen`afe",
+    "wof:parent_id":1108758399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.42229,
+    14.70013,
+    39.42229,
+    14.70013
+],
+  "geometry": {"coordinates":[39.42229,14.70013],"type":"Point"}
+}

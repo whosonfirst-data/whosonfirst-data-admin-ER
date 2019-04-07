@@ -1,0 +1,73 @@
+{
+  "id": 1242592325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.36667,17.7,38.36667,17.7",
+    "geom:latitude":17.7,
+    "geom:longitude":38.36667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kerora",
+    "gn:cc2":"ER",
+    "gn:country_code":"ER",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333237,
+    "gn:latitude":17.7,
+    "gn:longitude":38.36667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kerora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carora",
+        "Karora",
+        "Kerora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632751,
+        85676867,
+        1091711003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333237
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"61243760e9b5b76183adb333eb6b832b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091711003,
+            "locality_id":1242592325,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1242592325,
+    "wof:lastmodified":1537621297,
+    "wof:name":"Kerora",
+    "wof:parent_id":1091711003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.36667,
+    17.7,
+    38.36667,
+    17.7
+],
+  "geometry": {"coordinates":[38.36667,17.7],"type":"Point"}
+}

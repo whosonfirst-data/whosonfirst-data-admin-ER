@@ -1,0 +1,69 @@
+{
+  "id": 1209326127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.95882,14.68965,40.95882,14.68965",
+    "geom:latitude":14.68965,
+    "geom:longitude":40.95882,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tio",
+    "gn:country_code":"ER",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327506,
+    "gn:latitude":14.68965,
+    "gn:longitude":40.95882,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Tio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thio",
+        "Tiyo",
+        "T\u2019\u012b\u2019o",
+        "Ticho",
+        "Tio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327506,
+        "wk:page":"Tiyo"
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"e766b45f12faad193e13c1cd933e7baa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209326127
+        }
+    ],
+    "wof:id":1209326127,
+    "wof:lastmodified":1537621288,
+    "wof:name":"Tio",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.95882,
+    14.68965,
+    40.95882,
+    14.68965
+],
+  "geometry": {"coordinates":[40.95882,14.68965],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327126849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.4043,15.61376,39.4043,15.61376",
+    "geom:latitude":15.61376,
+    "geom:longitude":39.4043,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Hit'ublo",
+    "gn:country_code":"ER",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334690,
+    "gn:latitude":15.61376,
+    "gn:longitude":39.4043,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Hit\u2019ublo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moncullo",
+        "Hit\u2019ublo",
+        "Monkulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334690
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"72ca033b0624b526b08411488ad1eebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758361,
+            "locality_id":1327126849,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1327126849,
+    "wof:lastmodified":1537621299,
+    "wof:name":"Hit'ublo",
+    "wof:parent_id":1108758361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.4043,
+    15.61376,
+    39.4043,
+    15.61376
+],
+  "geometry": {"coordinates":[39.4043,15.61376],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259904031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.6945,15.40522,38.6945,15.40522",
+    "geom:latitude":15.40522,
+    "geom:longitude":38.6945,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ad Agay",
+    "gn:country_code":"ER",
+    "gn:dem":2118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8390990,
+    "gn:latitude":15.40522,
+    "gn:longitude":38.6945,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ad Agay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390990
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"cc191e87acdf549e88e4820a6bdb89f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758329,
+            "locality_id":1259904031,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1259904031,
+    "wof:lastmodified":1536749401,
+    "wof:name":"Ad Agay",
+    "wof:parent_id":1108758329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.6945,
+    15.40522,
+    38.6945,
+    15.40522
+],
+  "geometry": {"coordinates":[38.6945,15.40522],"type":"Point"}
+}

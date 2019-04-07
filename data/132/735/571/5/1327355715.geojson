@@ -1,0 +1,67 @@
+{
+  "id": 1327355715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.52453,15.12081,39.52453,15.12081",
+    "geom:latitude":15.12081,
+    "geom:longitude":39.52453,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sacatare",
+    "gn:country_code":"ER",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329477,
+    "gn:latitude":15.12081,
+    "gn:longitude":39.52453,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Sacatare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329477
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"6bfaaeda5b951c0ae70fe74b8d2f01d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758351,
+            "locality_id":1327355715,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1327355715,
+    "wof:lastmodified":1536791961,
+    "wof:name":"Sacatare",
+    "wof:parent_id":1108758351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.52453,
+    15.12081,
+    39.52453,
+    15.12081
+],
+  "geometry": {"coordinates":[39.52453,15.12081],"type":"Point"}
+}

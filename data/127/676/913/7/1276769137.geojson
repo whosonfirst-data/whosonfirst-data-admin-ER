@@ -1,0 +1,67 @@
+{
+  "id": 1276769137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.8417,15.5501,37.8417,15.5501",
+    "geom:latitude":15.5501,
+    "geom:longitude":37.8417,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Algheden",
+    "gn:country_code":"ER",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344235,
+    "gn:latitude":15.5501,
+    "gn:longitude":37.8417,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Algheden",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344235
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"5da9c92c3c2895951884d3e7b4f87e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758313,
+            "locality_id":1276769137,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1276769137,
+    "wof:lastmodified":1536692036,
+    "wof:name":"Algheden",
+    "wof:parent_id":1108758313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.8417,
+    15.5501,
+    37.8417,
+    15.5501
+],
+  "geometry": {"coordinates":[37.8417,15.5501],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259676265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.51351,15.5148,39.51351,15.5148",
+    "geom:latitude":15.5148,
+    "geom:longitude":39.51351,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nauret",
+    "gn:country_code":"ER",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330190,
+    "gn:latitude":15.5148,
+    "gn:longitude":39.51351,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Nauret",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330190
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"c92cd65a8957bf13160dece83d08fd3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758351,
+            "locality_id":1259676265,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1259676265,
+    "wof:lastmodified":1537074358,
+    "wof:name":"Nauret",
+    "wof:parent_id":1108758351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.51351,
+    15.5148,
+    39.51351,
+    15.5148
+],
+  "geometry": {"coordinates":[39.51351,15.5148],"type":"Point"}
+}

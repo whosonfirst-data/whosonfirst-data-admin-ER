@@ -1,0 +1,73 @@
+{
+  "id": 1309722019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48333,15.11667,36.48333,15.11667",
+    "geom:latitude":15.11667,
+    "geom:longitude":36.48333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aligider",
+    "gn:cc2":"ER",
+    "gn:country_code":"ER",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344211,
+    "gn:latitude":15.11667,
+    "gn:longitude":36.48333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aligider",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aligidir",
+        "Aligider"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344211,
+        "wk:page":"Aligider"
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"f7b1d7ad1a757fc8ae5011c1ebc74af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758343,
+            "locality_id":1309722019,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1309722019,
+    "wof:lastmodified":1537621310,
+    "wof:name":"Aligider",
+    "wof:parent_id":1108758343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48333,
+    15.11667,
+    36.48333,
+    15.11667
+],
+  "geometry": {"coordinates":[36.48333,15.11667],"type":"Point"}
+}

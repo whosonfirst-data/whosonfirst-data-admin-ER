@@ -1,0 +1,70 @@
+{
+  "id": 1310709189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.35714,14.37782,41.35714,14.37782",
+    "geom:latitude":14.37782,
+    "geom:longitude":41.35714,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Debba",
+    "gn:country_code":"ER",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339816,
+    "gn:latitude":14.37782,
+    "gn:longitude":41.35714,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Debba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339816
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"e6e0d1dc71258c306dd47be907677853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758367,
+            "locality_id":1310709189,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1310709189,
+    "wof:lastmodified":1537621305,
+    "wof:name":"Debba",
+    "wof:parent_id":1108758367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.35714,
+    14.37782,
+    41.35714,
+    14.37782
+],
+  "geometry": {"coordinates":[41.35714,14.37782],"type":"Point"}
+}

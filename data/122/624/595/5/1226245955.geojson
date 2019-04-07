@@ -1,0 +1,67 @@
+{
+  "id": 1226245955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.51944,14.95583,38.51944,14.95583",
+    "geom:latitude":14.95583,
+    "geom:longitude":38.51944,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dembe Amukusti",
+    "gn:country_code":"ER",
+    "gn:dem":1631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6419625,
+    "gn:latitude":14.95583,
+    "gn:longitude":38.51944,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dembe Amukusti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6419625
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"dba7e6e6c6f25c934a4ac4e934822d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758381,
+            "locality_id":1226245955,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1226245955,
+    "wof:lastmodified":1536934045,
+    "wof:name":"Dembe Amukusti",
+    "wof:parent_id":1108758381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.51944,
+    14.95583,
+    38.51944,
+    14.95583
+],
+  "geometry": {"coordinates":[38.51944,14.95583],"type":"Point"}
+}

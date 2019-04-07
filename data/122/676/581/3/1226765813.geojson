@@ -1,0 +1,72 @@
+{
+  "id": 1226765813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.06111,13.44806,38.06111,13.44806",
+    "geom:latitude":13.44806,
+    "geom:longitude":38.06111,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adi Ark'ay",
+    "gn:country_code":"ER",
+    "gn:dem":1558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345279,
+    "gn:latitude":13.44806,
+    "gn:longitude":38.06111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100d\u012b \u0100rk\u2019ay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi Arkai",
+        "Adi Arcai",
+        "\u0100d\u012b \u0100rk\u2019ay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671121,
+        1108695193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345279
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"04ff23f9149c007abcefc8c4c9059072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695193,
+            "locality_id":1226765813,
+            "region_id":85671121
+        }
+    ],
+    "wof:id":1226765813,
+    "wof:lastmodified":1537621314,
+    "wof:name":"Adi Ark'ay",
+    "wof:parent_id":1108695193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.06111,
+    13.44806,
+    38.06111,
+    13.44806
+],
+  "geometry": {"coordinates":[38.06111,13.44806],"type":"Point"}
+}

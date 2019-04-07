@@ -1,0 +1,72 @@
+{
+  "id": 1276121387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.26469,15.05495,39.26469,15.05495",
+    "geom:latitude":15.05495,
+    "geom:longitude":39.26469,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hibo",
+    "gn:country_code":"ER",
+    "gn:dem":1886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334756,
+    "gn:latitude":15.05495,
+    "gn:longitude":39.26469,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"H\u012bbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hebo",
+        "H\u012bbo",
+        "Khebo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334756
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"d1efa905c9b4f1c015384849d95dbbc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758397,
+            "locality_id":1276121387,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1276121387,
+    "wof:lastmodified":1537621299,
+    "wof:name":"Hibo",
+    "wof:parent_id":1108758397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26469,
+    15.05495,
+    39.26469,
+    15.05495
+],
+  "geometry": {"coordinates":[39.26469,15.05495],"type":"Point"}
+}

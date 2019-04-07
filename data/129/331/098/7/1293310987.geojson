@@ -1,0 +1,67 @@
+{
+  "id": 1293310987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.81667,14.95,38.81667,14.95",
+    "geom:latitude":14.95,
+    "geom:longitude":38.81667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gina Bala",
+    "gn:country_code":"ER",
+    "gn:dem":2022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":336477,
+    "gn:latitude":14.95,
+    "gn:longitude":38.81667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Gina Bala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":336477
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"4ec4e67475b291cf0e72b6c6330f7ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758395,
+            "locality_id":1293310987,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1293310987,
+    "wof:lastmodified":1537039812,
+    "wof:name":"Gina Bala",
+    "wof:parent_id":1108758395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.81667,
+    14.95,
+    38.81667,
+    14.95
+],
+  "geometry": {"coordinates":[38.81667,14.95],"type":"Point"}
+}

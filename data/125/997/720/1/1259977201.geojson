@@ -1,0 +1,70 @@
+{
+  "id": 1259977201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.44764,15.08864,39.44764,15.08864",
+    "geom:latitude":15.08864,
+    "geom:longitude":39.44764,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tukul' Billal'",
+    "gn:country_code":"ER",
+    "gn:dem":2047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391538,
+    "gn:latitude":15.08864,
+    "gn:longitude":39.44764,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Tukul\u2019 Billal\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tukul\u2019 Billal\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391538
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"9806d526afe3c265965986b8f245aa22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758351,
+            "locality_id":1259977201,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1259977201,
+    "wof:lastmodified":1537621324,
+    "wof:name":"Tukul' Billal'",
+    "wof:parent_id":1108758351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.44764,
+    15.08864,
+    39.44764,
+    15.08864
+],
+  "geometry": {"coordinates":[39.44764,15.08864],"type":"Point"}
+}

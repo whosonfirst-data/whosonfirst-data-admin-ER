@@ -1,0 +1,67 @@
+{
+  "id": 1276666365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.52768,14.91707,39.52768,14.91707",
+    "geom:latitude":14.91707,
+    "geom:longitude":39.52768,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Galline Faraone",
+    "gn:country_code":"ER",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6660116,
+    "gn:latitude":14.91707,
+    "gn:longitude":39.52768,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Galline Faraone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6660116
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"887b925bec8dacb8f368785ee1c29425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758399,
+            "locality_id":1276666365,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1276666365,
+    "wof:lastmodified":1536828483,
+    "wof:name":"Galline Faraone",
+    "wof:parent_id":1108758399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.52768,
+    14.91707,
+    39.52768,
+    14.91707
+],
+  "geometry": {"coordinates":[39.52768,14.91707],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310709219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.0834,12.72852,43.0834,12.72852",
+    "geom:latitude":12.72852,
+    "geom:longitude":43.0834,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Raheita",
+    "gn:country_code":"ER",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329665,
+    "gn:latitude":12.72852,
+    "gn:longitude":43.0834,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Raheita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rahayta",
+        "Rehayto",
+        "Rahita",
+        "Ra\u1e96ayto",
+        "Raheita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329665,
+        "wk:page":"Rahayta"
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"0d78537cae756aed4506f945d0cf4cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758371,
+            "locality_id":1310709219,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1310709219,
+    "wof:lastmodified":1537621291,
+    "wof:name":"Raheita",
+    "wof:parent_id":1108758371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.0834,
+    12.72852,
+    43.0834,
+    12.72852
+],
+  "geometry": {"coordinates":[43.0834,12.72852],"type":"Point"}
+}

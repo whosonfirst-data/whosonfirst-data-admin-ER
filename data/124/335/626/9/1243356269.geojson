@@ -1,0 +1,72 @@
+{
+  "id": 1243356269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.40859,15.78442,38.40859,15.78442",
+    "geom:latitude":15.78442,
+    "geom:longitude":38.40859,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Megarih",
+    "gn:country_code":"ER",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331251,
+    "gn:latitude":15.78442,
+    "gn:longitude":38.40859,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Megarih",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mogareh",
+        "Magareh",
+        "Megarih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331251
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"78e169b99c4b7396caebe9410c90e3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758291,
+            "locality_id":1243356269,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1243356269,
+    "wof:lastmodified":1537621294,
+    "wof:name":"Megarih",
+    "wof:parent_id":1108758291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.40859,
+    15.78442,
+    38.40859,
+    15.78442
+],
+  "geometry": {"coordinates":[38.40859,15.78442],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360089795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.76849,15.33203,38.76849,15.33203",
+    "geom:latitude":15.33203,
+    "geom:longitude":38.76849,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Adi Gebru",
+    "gn:country_code":"ER",
+    "gn:dem":2308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345189,
+    "gn:latitude":15.33203,
+    "gn:longitude":38.76849,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"\u0100d\u012b Gebru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805925,
+        1108758297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345189
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"e3d333270ac94930a393c6d5e6e93c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758297,
+            "locality_id":1360089795,
+            "region_id":1108805925
+        }
+    ],
+    "wof:id":1360089795,
+    "wof:lastmodified":1536939554,
+    "wof:name":"Adi Gebru",
+    "wof:parent_id":1108758297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.76849,
+    15.33203,
+    38.76849,
+    15.33203
+],
+  "geometry": {"coordinates":[38.76849,15.33203],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125923717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.87825,15.50914,38.87825,15.50914",
+    "geom:latitude":15.50914,
+    "geom:longitude":38.87825,
+    "gn:gn_country":"ER",
+    "gn:gn_fcode":"PPLF",
+    "gn:gn_pop":1000,
+    "gn:population":1000,
+    "iso:country":"ER",
+    "lbl:latitude":15.50914,
+    "lbl:longitude":38.87825,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"ER",
+    "qs_pg:gn_country":"ER",
+    "qs_pg:gn_fcode":"PPLF",
+    "qs_pg:gn_id":7115028,
+    "qs_pg:gn_pop":1000,
+    "qs_pg:name":"Quandeba",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":656656,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805925,
+        1108758311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7115028,
+        "qs_pg:id":656656
+    },
+    "wof:country":"ER",
+    "wof:created":1497296564,
+    "wof:geomhash":"1d46294f90f8c254d260f945ec7afb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758311,
+            "locality_id":1125923717,
+            "region_id":1108805925
+        }
+    ],
+    "wof:id":1125923717,
+    "wof:lastmodified":1509400967,
+    "wof:name":"Quandeba",
+    "wof:parent_id":1108758311,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.87825,
+    15.50914,
+    38.87825,
+    15.50914
+],
+  "geometry": {"coordinates":[38.87825,15.50914],"type":"Point"}
+}

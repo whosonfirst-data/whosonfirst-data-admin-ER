@@ -1,0 +1,67 @@
+{
+  "id": 1242782547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.03767,15.26005,39.03767,15.26005",
+    "geom:latitude":15.26005,
+    "geom:longitude":39.03767,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Makabirungida",
+    "gn:country_code":"ER",
+    "gn:dem":1703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391594,
+    "gn:latitude":15.26005,
+    "gn:longitude":39.03767,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Makabirungida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805925,
+        1108758305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391594
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"81056ab0db44f2f869234e842a81b9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758305,
+            "locality_id":1242782547,
+            "region_id":1108805925
+        }
+    ],
+    "wof:id":1242782547,
+    "wof:lastmodified":1536768893,
+    "wof:name":"Makabirungida",
+    "wof:parent_id":1108758305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.03767,
+    15.26005,
+    39.03767,
+    15.26005
+],
+  "geometry": {"coordinates":[39.03767,15.26005],"type":"Point"}
+}

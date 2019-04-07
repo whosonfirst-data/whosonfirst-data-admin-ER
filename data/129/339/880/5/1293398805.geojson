@@ -1,0 +1,71 @@
+{
+  "id": 1293398805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.84333,14.69972,38.84333,14.69972",
+    "geom:latitude":14.69972,
+    "geom:longitude":38.84333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dengolo",
+    "gn:country_code":"ER",
+    "gn:dem":1946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339357,
+    "gn:latitude":14.69972,
+    "gn:longitude":38.84333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dengolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongollo",
+        "Dengolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339357
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"166eb7c8694cd3e9abd0974b4558fa3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758379,
+            "locality_id":1293398805,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1293398805,
+    "wof:lastmodified":1537621304,
+    "wof:name":"Dengolo",
+    "wof:parent_id":1108758379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.84333,
+    14.69972,
+    38.84333,
+    14.69972
+],
+  "geometry": {"coordinates":[38.84333,14.69972],"type":"Point"}
+}

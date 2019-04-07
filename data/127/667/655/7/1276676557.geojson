@@ -1,0 +1,73 @@
+{
+  "id": 1276676557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.38333,16.96667,38.38333,16.96667",
+    "geom:latitude":16.96667,
+    "geom:longitude":38.38333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Medruriet",
+    "gn:cc2":"ER",
+    "gn:country_code":"ER",
+    "gn:dem":1430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331269,
+    "gn:latitude":16.96667,
+    "gn:longitude":38.38333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Medruriet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madruri\u00e8t",
+        "Madroriet",
+        "Medruriet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331269
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"732d9e966c18f863d495dabcc86ed6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758363,
+            "locality_id":1276676557,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1276676557,
+    "wof:lastmodified":1537621294,
+    "wof:name":"Medruriet",
+    "wof:parent_id":1108758363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.38333,
+    16.96667,
+    38.38333,
+    16.96667
+],
+  "geometry": {"coordinates":[38.38333,16.96667],"type":"Point"}
+}

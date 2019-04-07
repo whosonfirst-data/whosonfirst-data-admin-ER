@@ -1,0 +1,71 @@
+{
+  "id": 1276875723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.48528,14.99722,38.48528,14.99722",
+    "geom:latitude":14.99722,
+    "geom:longitude":38.48528,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Aychegevna",
+    "gn:country_code":"ER",
+    "gn:dem":1620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6417660,
+    "gn:latitude":14.99722,
+    "gn:longitude":38.48528,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Aychegevna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Achchogona",
+        "Aychegevna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6417660
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"029e4786825cc8c91b80110a911ea9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758381,
+            "locality_id":1276875723,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1276875723,
+    "wof:lastmodified":1537621318,
+    "wof:name":"Aychegevna",
+    "wof:parent_id":1108758381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.48528,
+    14.99722,
+    38.48528,
+    14.99722
+],
+  "geometry": {"coordinates":[38.48528,14.99722],"type":"Point"}
+}

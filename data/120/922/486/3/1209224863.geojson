@@ -1,0 +1,65 @@
+{
+  "id": 1209224863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.45417,14.59444,38.45417,14.59444",
+    "geom:latitude":14.59444,
+    "geom:longitude":38.45417,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mai Assa",
+    "gn:country_code":"ER",
+    "gn:dem":1769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331737,
+    "gn:latitude":14.59444,
+    "gn:longitude":38.45417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mai Assa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "May Assa",
+        "Mai Assa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331737
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"f011ae9574d1df465fdb36548d96271b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209224863
+        }
+    ],
+    "wof:id":1209224863,
+    "wof:lastmodified":1537621296,
+    "wof:name":"Mai Assa",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.45417,
+    14.59444,
+    38.45417,
+    14.59444
+],
+  "geometry": {"coordinates":[38.45417,14.59444],"type":"Point"}
+}

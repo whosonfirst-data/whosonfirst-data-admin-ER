@@ -1,0 +1,67 @@
+{
+  "id": 1326633157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.19588,17.10818,38.19588,17.10818",
+    "geom:latitude":17.10818,
+    "geom:longitude":38.19588,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Itaro",
+    "gn:country_code":"ER",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8379907,
+    "gn:latitude":17.10818,
+    "gn:longitude":38.19588,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Itaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8379907
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"1636fc9bf918829b6b7f66bba0fa42fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758345,
+            "locality_id":1326633157,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1326633157,
+    "wof:lastmodified":1536837396,
+    "wof:name":"Itaro",
+    "wof:parent_id":1108758345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.19588,
+    17.10817999999999,
+    38.19588,
+    17.10817999999999
+],
+  "geometry": {"coordinates":[38.19588,17.10817999999999],"type":"Point"}
+}

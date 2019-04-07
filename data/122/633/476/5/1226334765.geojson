@@ -1,0 +1,71 @@
+{
+  "id": 1226334765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.3943,15.75089,38.3943,15.75089",
+    "geom:latitude":15.75089,
+    "geom:longitude":38.3943,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ascidira",
+    "gn:country_code":"ER",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343392,
+    "gn:latitude":15.75089,
+    "gn:longitude":38.3943,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ascidira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asciadira",
+        "Ascidira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343392
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"58be512d00b6aca77ca4ffa127b2f23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758283,
+            "locality_id":1226334765,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1226334765,
+    "wof:lastmodified":1537621309,
+    "wof:name":"Ascidira",
+    "wof:parent_id":1108758283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.3943,
+    15.75089,
+    38.3943,
+    15.75089
+],
+  "geometry": {"coordinates":[38.3943,15.75089],"type":"Point"}
+}

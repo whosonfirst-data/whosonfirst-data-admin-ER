@@ -1,0 +1,74 @@
+{
+  "id": 1293698325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.06474,13.69979,42.06474,13.69979",
+    "geom:latitude":13.69979,
+    "geom:longitude":42.06474,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bahliya",
+    "gn:country_code":"ER",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342517,
+    "gn:latitude":13.69979,
+    "gn:longitude":42.06474,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Bahliya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bel\u2019d"
+    ],
+    "name:und_x_variant":[
+        "Behld",
+        "Bahled"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342517
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"a08a38f9e46042ff7989e6de8e9c0581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758371,
+            "locality_id":1293698325,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1293698325,
+    "wof:lastmodified":1537621308,
+    "wof:name":"Bahliya",
+    "wof:parent_id":1108758371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.06474,
+    13.69979,
+    42.06474,
+    13.69979
+],
+  "geometry": {"coordinates":[42.06474,13.69979],"type":"Point"}
+}

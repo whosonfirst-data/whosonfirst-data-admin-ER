@@ -1,0 +1,67 @@
+{
+  "id": 1326943279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.69454,15.18954,38.69454,15.18954",
+    "geom:latitude":15.18954,
+    "geom:longitude":38.69454,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bambuco",
+    "gn:country_code":"ER",
+    "gn:dem":2073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342784,
+    "gn:latitude":15.18954,
+    "gn:longitude":38.69454,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Bambuco",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342784
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"93f0cfb44fe0b06e4d857eeaf0a5c7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758383,
+            "locality_id":1326943279,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1326943279,
+    "wof:lastmodified":1536888391,
+    "wof:name":"Bambuco",
+    "wof:parent_id":1108758383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.69454,
+    15.18954,
+    38.69454,
+    15.18954
+],
+  "geometry": {"coordinates":[38.69454,15.18954],"type":"Point"}
+}

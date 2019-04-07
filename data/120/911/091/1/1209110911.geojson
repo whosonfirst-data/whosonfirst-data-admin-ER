@@ -1,0 +1,61 @@
+{
+  "id": 1209110911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.76045,15.47698,38.76045,15.47698",
+    "geom:latitude":15.47698,
+    "geom:longitude":38.76045,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Aiti Aber",
+    "gn:country_code":"ER",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391353,
+    "gn:latitude":15.47698,
+    "gn:longitude":38.76045,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Aiti Aber",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391353
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"e7d45c227601fbd1e23ffca09d39738c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209110911
+        }
+    ],
+    "wof:id":1209110911,
+    "wof:lastmodified":1536297410,
+    "wof:name":"Aiti Aber",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.76045,
+    15.47698,
+    38.76045,
+    15.47698
+],
+  "geometry": {"coordinates":[38.76045,15.47698],"type":"Point"}
+}

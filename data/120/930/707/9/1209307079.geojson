@@ -1,0 +1,61 @@
+{
+  "id": 1209307079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2041,15.66614,38.2041,15.66614",
+    "geom:latitude":15.66614,
+    "geom:longitude":38.2041,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ad Issa",
+    "gn:country_code":"ER",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8384916,
+    "gn:latitude":15.66614,
+    "gn:longitude":38.2041,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ad Issa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8384916
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"a21f6149a075d18c10f739808599cb71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209307079
+        }
+    ],
+    "wof:id":1209307079,
+    "wof:lastmodified":1536291158,
+    "wof:name":"Ad Issa",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2041,
+    15.66614,
+    38.2041,
+    15.66614
+],
+  "geometry": {"coordinates":[38.2041,15.66614],"type":"Point"}
+}

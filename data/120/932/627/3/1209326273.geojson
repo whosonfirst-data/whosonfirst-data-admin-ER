@@ -1,0 +1,65 @@
+{
+  "id": 1209326273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.07191,14.41581,41.07191,14.41581",
+    "geom:latitude":14.41581,
+    "geom:longitude":41.07191,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hallol",
+    "gn:country_code":"ER",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335194,
+    "gn:latitude":14.41581,
+    "gn:longitude":41.07191,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Hallol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haloll",
+        "H\u00e0lol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335194
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"cd835e41c40a968bbbdb0edb65f92221",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209326273
+        }
+    ],
+    "wof:id":1209326273,
+    "wof:lastmodified":1537621300,
+    "wof:name":"Hallol",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.07191,
+    14.41581,
+    41.07191,
+    14.41581
+],
+  "geometry": {"coordinates":[41.07191,14.41581],"type":"Point"}
+}

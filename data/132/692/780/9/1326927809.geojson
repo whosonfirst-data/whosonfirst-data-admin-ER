@@ -1,0 +1,71 @@
+{
+  "id": 1326927809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.83681,14.82317,39.83681,14.82317",
+    "geom:latitude":14.82317,
+    "geom:longitude":39.83681,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Buya",
+    "gn:country_code":"ER",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341507,
+    "gn:latitude":14.82317,
+    "gn:longitude":39.83681,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Buya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buia",
+        "Buya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341507
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"2956ff312333162579bdf5c78b8b4c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1326927809,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1326927809,
+    "wof:lastmodified":1537621307,
+    "wof:name":"Buya",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.83681,
+    14.82317,
+    39.83681,
+    14.82317
+],
+  "geometry": {"coordinates":[39.83681,14.82317],"type":"Point"}
+}

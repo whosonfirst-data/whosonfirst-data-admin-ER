@@ -1,0 +1,72 @@
+{
+  "id": 1226143589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2675,14.98667,38.2675,14.98667",
+    "geom:latitude":14.98667,
+    "geom:longitude":38.2675,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"May-Mefals",
+    "gn:country_code":"ER",
+    "gn:dem":1587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331711,
+    "gn:latitude":14.98667,
+    "gn:longitude":38.2675,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"May-Mefals",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mai Mefales",
+        "May Mekhales",
+        "May-Mefals"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331711
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"5fc36637a664447bf06c6847f4a039f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758335,
+            "locality_id":1226143589,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1226143589,
+    "wof:lastmodified":1537621295,
+    "wof:name":"May-Mefals",
+    "wof:parent_id":1108758335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2675,
+    14.98667,
+    38.2675,
+    14.98667
+],
+  "geometry": {"coordinates":[38.2675,14.98667],"type":"Point"}
+}

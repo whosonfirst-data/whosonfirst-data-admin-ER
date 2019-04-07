@@ -1,0 +1,67 @@
+{
+  "id": 1310414857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.24167,14.84389,39.24167,14.84389",
+    "geom:latitude":14.84389,
+    "geom:longitude":39.24167,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Merkats",
+    "gn:country_code":"ER",
+    "gn:dem":1867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6421059,
+    "gn:latitude":14.84389,
+    "gn:longitude":39.24167,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Merkats",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6421059
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"ca25601e2379fba2fcc05e55ab3389d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758389,
+            "locality_id":1310414857,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1310414857,
+    "wof:lastmodified":1537045803,
+    "wof:name":"Merkats",
+    "wof:parent_id":1108758389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.24167,
+    14.84389,
+    39.24167,
+    14.84389
+],
+  "geometry": {"coordinates":[39.24167,14.84389],"type":"Point"}
+}

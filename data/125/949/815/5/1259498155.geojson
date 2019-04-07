@@ -1,0 +1,73 @@
+{
+  "id": 1259498155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.91667,16.06667,38.91667,16.06667",
+    "geom:latitude":16.06667,
+    "geom:longitude":38.91667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kelmet",
+    "gn:cc2":"ER",
+    "gn:country_code":"ER",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333394,
+    "gn:latitude":16.06667,
+    "gn:longitude":38.91667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kelmet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chelamet",
+        "Kelamet",
+        "Kelmet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333394
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"59e8efef17da1d9a1a6cf6b95300ede2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758347,
+            "locality_id":1259498155,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1259498155,
+    "wof:lastmodified":1537621297,
+    "wof:name":"Kelmet",
+    "wof:parent_id":1108758347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.91667,
+    16.06667,
+    38.91667,
+    16.06667
+],
+  "geometry": {"coordinates":[38.91667,16.06667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343471909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.65647,15.09445,38.65647,15.09445",
+    "geom:latitude":15.09445,
+    "geom:longitude":38.65647,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Addi Keli",
+    "gn:country_code":"ER",
+    "gn:dem":1879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8388940,
+    "gn:latitude":15.09445,
+    "gn:longitude":38.65647,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Addi Keli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8388940
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"56f9057a7778252901c5e899912778f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758383,
+            "locality_id":1343471909,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1343471909,
+    "wof:lastmodified":1536729901,
+    "wof:name":"Addi Keli",
+    "wof:parent_id":1108758383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.65647,
+    15.09445,
+    38.65647,
+    15.09445
+],
+  "geometry": {"coordinates":[38.65647,15.09445],"type":"Point"}
+}

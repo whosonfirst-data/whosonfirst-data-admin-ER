@@ -1,0 +1,74 @@
+{
+  "id": 1243546937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.06194,14.70694,40.06194,14.70694",
+    "geom:latitude":14.70694,
+    "geom:longitude":40.06194,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Samoti",
+    "gn:country_code":"ER",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329337,
+    "gn:latitude":14.70694,
+    "gn:longitude":40.06194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Samoti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0442\u0438"
+    ],
+    "name:und_x_variant":[
+        "Simoti",
+        "Samoti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329337
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"75349b6a9365b7d0713f5bfc794c08cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1243546937,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1243546937,
+    "wof:lastmodified":1537621291,
+    "wof:name":"Samoti",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.06194,
+    14.70694,
+    40.06194,
+    14.70694
+],
+  "geometry": {"coordinates":[40.06194,14.70694],"type":"Point"}
+}

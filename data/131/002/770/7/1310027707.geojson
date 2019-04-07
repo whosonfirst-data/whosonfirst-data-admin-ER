@@ -1,0 +1,72 @@
+{
+  "id": 1310027707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.42134,15.62513,39.42134,15.62513",
+    "geom:latitude":15.62513,
+    "geom:longitude":39.42134,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Hit'imlo",
+    "gn:country_code":"ER",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334692,
+    "gn:latitude":15.62513,
+    "gn:longitude":39.42134,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Hit\u2019imlo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otumlo",
+        "Hitmulo",
+        "Hit\u2019imlo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334692
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"d67fc254d085f60c98168d159302c4f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758361,
+            "locality_id":1310027707,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1310027707,
+    "wof:lastmodified":1537621299,
+    "wof:name":"Hit'imlo",
+    "wof:parent_id":1108758361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.42134,
+    15.62513,
+    39.42134,
+    15.62513
+],
+  "geometry": {"coordinates":[39.42134,15.62513],"type":"Point"}
+}

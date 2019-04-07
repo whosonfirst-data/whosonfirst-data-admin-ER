@@ -1,0 +1,70 @@
+{
+  "id": 1343564063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.39893,15.00984,39.39893,15.00984",
+    "geom:latitude":15.00984,
+    "geom:longitude":39.39893,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mahio",
+    "gn:country_code":"ER",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331709,
+    "gn:latitude":15.00984,
+    "gn:longitude":39.39893,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Mahio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331709
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"6b32b9b030cdafcae5be0b3fda2808c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758377,
+            "locality_id":1343564063,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1343564063,
+    "wof:lastmodified":1537621295,
+    "wof:name":"Mahio",
+    "wof:parent_id":1108758377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.39893,
+    15.00984,
+    39.39893,
+    15.00984
+],
+  "geometry": {"coordinates":[39.39893,15.00984],"type":"Point"}
+}

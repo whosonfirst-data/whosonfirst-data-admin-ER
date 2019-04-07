@@ -1,0 +1,67 @@
+{
+  "id": 1243361117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.31424,15.61517,39.31424,15.61517",
+    "geom:latitude":15.61517,
+    "geom:longitude":39.31424,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mehatel Jebal",
+    "gn:country_code":"ER",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331219,
+    "gn:latitude":15.61517,
+    "gn:longitude":39.31424,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Meh\u0101tel Jebal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331219
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"9c5b080dc9bd80c8d78d6b6895d5fdcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758361,
+            "locality_id":1243361117,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1243361117,
+    "wof:lastmodified":1536929359,
+    "wof:name":"Mehatel Jebal",
+    "wof:parent_id":1108758361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.31424000000001,
+    15.61517,
+    39.31424000000001,
+    15.61517
+],
+  "geometry": {"coordinates":[39.31424000000001,15.61517],"type":"Point"}
+}

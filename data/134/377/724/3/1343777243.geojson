@@ -1,0 +1,66 @@
+{
+  "id": 1343777243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.46204,14.89837,38.46204,14.89837",
+    "geom:latitude":14.89837,
+    "geom:longitude":38.46204,
+    "gn:asciiname":"May Dima",
+    "gn:country_code":"ER",
+    "gn:dem":1545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10628602,
+    "gn:latitude":14.89837,
+    "gn:longitude":38.46204,
+    "gn:modification_date":"2015-08-18",
+    "gn:name":"May Dima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10628602
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"9f6422deadcc89ed2753ee247504c1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758381,
+            "locality_id":1343777243,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1343777243,
+    "wof:lastmodified":1536787131,
+    "wof:name":"May Dima",
+    "wof:parent_id":1108758381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.46204,
+    14.89837,
+    38.46204,
+    14.89837
+],
+  "geometry": {"coordinates":[38.46204,14.89837],"type":"Point"}
+}

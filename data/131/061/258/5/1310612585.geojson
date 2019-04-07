@@ -1,0 +1,70 @@
+{
+  "id": 1310612585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.78048,12.83361,42.78048,12.83361",
+    "geom:latitude":12.83361,
+    "geom:longitude":42.78048,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Aylu",
+    "gn:country_code":"ER",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343039,
+    "gn:latitude":12.83361,
+    "gn:longitude":42.78048,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Aylu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100ylu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343039
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"2b86684796e39e376c3862cca5ca44cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758371,
+            "locality_id":1310612585,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1310612585,
+    "wof:lastmodified":1537621308,
+    "wof:name":"Aylu",
+    "wof:parent_id":1108758371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.78048,
+    12.83361,
+    42.78048,
+    12.83361
+],
+  "geometry": {"coordinates":[42.78048,12.83361],"type":"Point"}
+}

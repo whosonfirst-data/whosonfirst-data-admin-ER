@@ -1,0 +1,67 @@
+{
+  "id": 1243476529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.91786,15.42779,39.91786,15.42779",
+    "geom:latitude":15.42779,
+    "geom:longitude":39.91786,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Follocle",
+    "gn:country_code":"ER",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337656,
+    "gn:latitude":15.42779,
+    "gn:longitude":39.91786,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Follocle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337656
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"6d20ec0fa90c96ddf443e05f533b054a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1243476529,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1243476529,
+    "wof:lastmodified":1536762453,
+    "wof:name":"Follocle",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.91786,
+    15.42779,
+    39.91786,
+    15.42779
+],
+  "geometry": {"coordinates":[39.91786,15.42779],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310103019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53333,15.1,39.53333,15.1",
+    "geom:latitude":15.1,
+    "geom:longitude":39.53333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Suru Inferiore",
+    "gn:country_code":"ER",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328048,
+    "gn:latitude":15.1,
+    "gn:longitude":39.53333,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Suru Inferiore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328048
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"e10346cbdd2191257da36b59a1253dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758351,
+            "locality_id":1310103019,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1310103019,
+    "wof:lastmodified":1536999350,
+    "wof:name":"Suru Inferiore",
+    "wof:parent_id":1108758351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53333,
+    15.1,
+    39.53333,
+    15.1
+],
+  "geometry": {"coordinates":[39.53333,15.1],"type":"Point"}
+}

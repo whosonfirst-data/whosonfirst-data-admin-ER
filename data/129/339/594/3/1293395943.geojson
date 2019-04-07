@@ -1,0 +1,81 @@
+{
+  "id": 1293395943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.3509,14.40713,37.3509,14.40713",
+    "geom:latitude":14.40713,
+    "geom:longitude":37.3509,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sitona",
+    "gn:country_code":"ER",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328275,
+    "gn:latitude":14.40713,
+    "gn:longitude":37.3509,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sitona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sittona",
+        "Sitona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758327,
+        85632257,
+        85671125,
+        1108695229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328275
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"f614f50bc1a7d5c50c5d94cc69dd66f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758327,
+            "locality_id":1293395943,
+            "region_id":85671101
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695229,
+            "locality_id":1293395943,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1293395943,
+    "wof:lastmodified":1537621289,
+    "wof:name":"Sitona",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.3509,
+    14.40713,
+    37.3509,
+    14.40713
+],
+  "geometry": {"coordinates":[37.3509,14.40713],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242591689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.77608,15.72196,38.77608,15.72196",
+    "geom:latitude":15.72196,
+    "geom:longitude":38.77608,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Curoh",
+    "gn:country_code":"ER",
+    "gn:dem":1500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340394,
+    "gn:latitude":15.72196,
+    "gn:longitude":38.77608,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Curoh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuro",
+        "Kurokh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340394
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"a6ca6b68bc01152b08ad590066b4678a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758279,
+            "locality_id":1242591689,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1242591689,
+    "wof:lastmodified":1537621306,
+    "wof:name":"Curoh",
+    "wof:parent_id":1108758279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.77608,
+    15.72196,
+    38.77608,
+    15.72196
+],
+  "geometry": {"coordinates":[38.77608,15.72196],"type":"Point"}
+}

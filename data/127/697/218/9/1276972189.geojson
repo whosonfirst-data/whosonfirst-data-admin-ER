@@ -1,0 +1,67 @@
+{
+  "id": 1276972189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.04853,15.85307,39.04853,15.85307",
+    "geom:latitude":15.85307,
+    "geom:longitude":39.04853,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sh'eb/Mensheb",
+    "gn:country_code":"ER",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416455,
+    "gn:latitude":15.85307,
+    "gn:longitude":39.04853,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Sh\u2019eb/Mensheb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416455
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"89584a01ee48f4aa58139a4a702b8977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758365,
+            "locality_id":1276972189,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1276972189,
+    "wof:lastmodified":1536918119,
+    "wof:name":"Sh'eb/Mensheb",
+    "wof:parent_id":1108758365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.04853,
+    15.85307,
+    39.04853,
+    15.85307
+],
+  "geometry": {"coordinates":[39.04853,15.85307],"type":"Point"}
+}

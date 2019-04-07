@@ -1,0 +1,67 @@
+{
+  "id": 1259886045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.64313,15.00504,37.64313,15.00504",
+    "geom:latitude":15.00504,
+    "geom:longitude":37.64313,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Katenda",
+    "gn:country_code":"ER",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8383510,
+    "gn:latitude":15.00504,
+    "gn:longitude":37.64313,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Katenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8383510
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"952c448e57f7fd6f6cf9d94852982cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758323,
+            "locality_id":1259886045,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1259886045,
+    "wof:lastmodified":1536776002,
+    "wof:name":"Katenda",
+    "wof:parent_id":1108758323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.64313,
+    15.00504,
+    37.64313,
+    15.00504
+],
+  "geometry": {"coordinates":[37.64313,15.00504],"type":"Point"}
+}

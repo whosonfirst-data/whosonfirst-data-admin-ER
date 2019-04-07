@@ -1,0 +1,67 @@
+{
+  "id": 1226243651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.42902,15.16151,37.42902,15.16151",
+    "geom:latitude":15.16151,
+    "geom:longitude":37.42902,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Eymasa",
+    "gn:country_code":"ER",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8382706,
+    "gn:latitude":15.16151,
+    "gn:longitude":37.42902,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Eymasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8382706
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"632564a4c669df716454823862d91b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758323,
+            "locality_id":1226243651,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1226243651,
+    "wof:lastmodified":1536937385,
+    "wof:name":"Eymasa",
+    "wof:parent_id":1108758323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.42902,
+    15.16151,
+    37.42902,
+    15.16151
+],
+  "geometry": {"coordinates":[37.42902,15.16151],"type":"Point"}
+}

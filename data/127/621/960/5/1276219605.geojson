@@ -1,0 +1,67 @@
+{
+  "id": 1276219605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53621,15.22671,39.53621,15.22671",
+    "geom:latitude":15.22671,
+    "geom:longitude":39.53621,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bukara",
+    "gn:country_code":"ER",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391818,
+    "gn:latitude":15.22671,
+    "gn:longitude":39.53621,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Bukara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391818
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"cba9585181c22e38cf71dbefaa2c2c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758351,
+            "locality_id":1276219605,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1276219605,
+    "wof:lastmodified":1536932101,
+    "wof:name":"Bukara",
+    "wof:parent_id":1108758351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53621,
+    15.22671,
+    39.53621,
+    15.22671
+],
+  "geometry": {"coordinates":[39.53621,15.22671],"type":"Point"}
+}

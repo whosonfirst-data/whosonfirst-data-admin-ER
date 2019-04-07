@@ -1,0 +1,67 @@
+{
+  "id": 1260188481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.66012,15.55631,38.66012,15.55631",
+    "geom:latitude":15.55631,
+    "geom:longitude":38.66012,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dersenei",
+    "gn:country_code":"ER",
+    "gn:dem":1867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339226,
+    "gn:latitude":15.55631,
+    "gn:longitude":38.66012,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Dersenei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339226
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"c9e84ce16300e573c0b15070054cdbe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758329,
+            "locality_id":1260188481,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1260188481,
+    "wof:lastmodified":1536840045,
+    "wof:name":"Dersenei",
+    "wof:parent_id":1108758329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.66012,
+    15.55631,
+    38.66012,
+    15.55631
+],
+  "geometry": {"coordinates":[38.66012,15.55631],"type":"Point"}
+}

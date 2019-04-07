@@ -1,0 +1,67 @@
+{
+  "id": 1344067145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.41028,14.86167,39.41028,14.86167",
+    "geom:latitude":14.86167,
+    "geom:longitude":39.41028,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Safira",
+    "gn:country_code":"ER",
+    "gn:dem":2591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409493,
+    "gn:latitude":14.86167,
+    "gn:longitude":39.41028,
+    "gn:modification_date":"1999-06-17",
+    "gn:name":"Safira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409493
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"941f487d7d303cf8e258258518949f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758377,
+            "locality_id":1344067145,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1344067145,
+    "wof:lastmodified":1536864499,
+    "wof:name":"Safira",
+    "wof:parent_id":1108758377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.41028,
+    14.86167,
+    39.41028,
+    14.86167
+],
+  "geometry": {"coordinates":[39.41028,14.86167],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276550561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.79556,14.56167,38.79556,14.56167",
+    "geom:latitude":14.56167,
+    "geom:longitude":38.79556,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Scium Ascale",
+    "gn:country_code":"ER",
+    "gn:dem":1737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6418863,
+    "gn:latitude":14.56167,
+    "gn:longitude":38.79556,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Adi Scium Ascale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi Shum Ashale",
+        "Adi Scium Ascale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6418863
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"c9bd3d4e3f0c2a1b54d007c7b5b2def6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758379,
+            "locality_id":1276550561,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1276550561,
+    "wof:lastmodified":1537621318,
+    "wof:name":"Adi Scium Ascale",
+    "wof:parent_id":1108758379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.79556,
+    14.56167,
+    38.79556,
+    14.56167
+],
+  "geometry": {"coordinates":[38.79556,14.56167],"type":"Point"}
+}

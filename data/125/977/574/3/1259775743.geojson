@@ -1,0 +1,67 @@
+{
+  "id": 1259775743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.16645,15.30474,39.16645,15.30474",
+    "geom:latitude":15.30474,
+    "geom:longitude":39.16645,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kukub",
+    "gn:country_code":"ER",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391386,
+    "gn:latitude":15.30474,
+    "gn:longitude":39.16645,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Kukub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391386
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"51875e8e6e45678711de3d8781aacad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758355,
+            "locality_id":1259775743,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1259775743,
+    "wof:lastmodified":1536935082,
+    "wof:name":"Kukub",
+    "wof:parent_id":1108758355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.16645,
+    15.30474,
+    39.16645,
+    15.30474
+],
+  "geometry": {"coordinates":[39.16645,15.30474],"type":"Point"}
+}

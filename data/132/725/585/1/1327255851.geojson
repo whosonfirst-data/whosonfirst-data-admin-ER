@@ -1,0 +1,71 @@
+{
+  "id": 1327255851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.05,14.76667,40.05,14.76667",
+    "geom:latitude":14.76667,
+    "geom:longitude":40.05,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Haddohalle",
+    "gn:country_code":"ER",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335325,
+    "gn:latitude":14.76667,
+    "gn:longitude":40.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Haddohalle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoddohall\u00e8",
+        "Haddohalle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335325
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"cdac41fd07e5beeed7729ba6ba5cc478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1327255851,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1327255851,
+    "wof:lastmodified":1537621300,
+    "wof:name":"Haddohalle",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.05,
+    14.76667,
+    40.05,
+    14.76667
+],
+  "geometry": {"coordinates":[40.05,14.76667],"type":"Point"}
+}

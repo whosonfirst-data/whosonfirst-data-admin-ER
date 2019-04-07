@@ -1,0 +1,72 @@
+{
+  "id": 1327337647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.54716,15.74261,38.54716,15.74261",
+    "geom:latitude":15.74261,
+    "geom:longitude":38.54716,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Halib-Mentel",
+    "gn:country_code":"ER",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335310,
+    "gn:latitude":15.74261,
+    "gn:longitude":38.54716,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Hal\u012bb-Mentel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hadis",
+        "Habi Mantel",
+        "Hal\u012bb-Mentel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335310
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"691095203438e64bd6e75218d74b9d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758277,
+            "locality_id":1327337647,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1327337647,
+    "wof:lastmodified":1537621300,
+    "wof:name":"Halib-Mentel",
+    "wof:parent_id":1108758277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.54716,
+    15.74261,
+    38.54716,
+    15.74261
+],
+  "geometry": {"coordinates":[38.54716,15.74261],"type":"Point"}
+}

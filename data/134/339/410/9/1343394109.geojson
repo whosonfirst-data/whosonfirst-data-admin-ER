@@ -1,0 +1,74 @@
+{
+  "id": 1343394109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.20579,15.62722,37.20579,15.62722",
+    "geom:latitude":15.62722,
+    "geom:longitude":37.20579,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kieru",
+    "gn:country_code":"ER",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333194,
+    "gn:latitude":15.62722,
+    "gn:longitude":37.20579,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Kieru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cheru",
+        "Keru",
+        "Gheru",
+        "Kieru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333194,
+        "wk:page":"Keru"
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"1f54ad1c1a6dbedc6c5ae3818666f275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758317,
+            "locality_id":1343394109,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1343394109,
+    "wof:lastmodified":1537621297,
+    "wof:name":"Kieru",
+    "wof:parent_id":1108758317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.20579,
+    15.62722,
+    37.20579,
+    15.62722
+],
+  "geometry": {"coordinates":[37.20579,15.62722],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276229399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.73981,12.63887,42.73981,12.63887",
+    "geom:latitude":12.63887,
+    "geom:longitude":42.73981,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Andale",
+    "gn:country_code":"ER",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340294,
+    "gn:latitude":12.63887,
+    "gn:longitude":42.73981,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Andale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340294
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"249b9bc66b9807fbb96ecb74bd24aebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758371,
+            "locality_id":1276229399,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1276229399,
+    "wof:lastmodified":1536918686,
+    "wof:name":"Andale",
+    "wof:parent_id":1108758371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.73981,
+    12.63887,
+    42.73981,
+    12.63887
+],
+  "geometry": {"coordinates":[42.73981,12.63887],"type":"Point"}
+}

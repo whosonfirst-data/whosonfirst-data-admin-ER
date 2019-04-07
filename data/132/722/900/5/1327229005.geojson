@@ -1,0 +1,67 @@
+{
+  "id": 1327229005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.41989,15.21266,39.41989,15.21266",
+    "geom:latitude":15.21266,
+    "geom:longitude":39.41989,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bakayti",
+    "gn:country_code":"ER",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391299,
+    "gn:latitude":15.21266,
+    "gn:longitude":39.41989,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Bakayti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391299
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"1044742c8f50a1e246a048375b07c594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758351,
+            "locality_id":1327229005,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1327229005,
+    "wof:lastmodified":1536974069,
+    "wof:name":"Bakayti",
+    "wof:parent_id":1108758351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.41989,
+    15.21266,
+    39.41989,
+    15.21266
+],
+  "geometry": {"coordinates":[39.41989,15.21266],"type":"Point"}
+}

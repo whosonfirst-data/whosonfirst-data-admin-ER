@@ -1,0 +1,67 @@
+{
+  "id": 1344254907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.94154,15.79515,38.94154,15.79515",
+    "geom:latitude":15.79515,
+    "geom:longitude":38.94154,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Khizhiny",
+    "gn:country_code":"ER",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8392520,
+    "gn:latitude":15.79515,
+    "gn:longitude":38.94154,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Khizhiny",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8392520
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"71a631c9114c2c923202b2106a9b8faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758365,
+            "locality_id":1344254907,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1344254907,
+    "wof:lastmodified":1537089048,
+    "wof:name":"Khizhiny",
+    "wof:parent_id":1108758365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.94154,
+    15.79515,
+    38.94154,
+    15.79515
+],
+  "geometry": {"coordinates":[38.94154,15.79515],"type":"Point"}
+}

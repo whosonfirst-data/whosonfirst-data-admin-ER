@@ -1,0 +1,67 @@
+{
+  "id": 1344169767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.31524,15.00373,38.31524,15.00373",
+    "geom:latitude":15.00373,
+    "geom:longitude":38.31524,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi-Liban",
+    "gn:country_code":"ER",
+    "gn:dem":1822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8392078,
+    "gn:latitude":15.00373,
+    "gn:longitude":38.31524,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Adi-Liban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8392078
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"a18c160398175f0be47256f65c227e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758335,
+            "locality_id":1344169767,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1344169767,
+    "wof:lastmodified":1536718142,
+    "wof:name":"Adi-Liban",
+    "wof:parent_id":1108758335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.31524,
+    15.00373,
+    38.31524,
+    15.00373
+],
+  "geometry": {"coordinates":[38.31524,15.00373],"type":"Point"}
+}

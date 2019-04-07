@@ -1,0 +1,71 @@
+{
+  "id": 1242699811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.32816,15.74224,38.32816,15.74224",
+    "geom:latitude":15.74224,
+    "geom:longitude":38.32816,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Hummet",
+    "gn:country_code":"ER",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334558,
+    "gn:latitude":15.74224,
+    "gn:longitude":38.32816,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Hummet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hummed",
+        "Hummet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334558
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"6d30df8badc5795e02d451858522d2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758283,
+            "locality_id":1242699811,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1242699811,
+    "wof:lastmodified":1537621299,
+    "wof:name":"Hummet",
+    "wof:parent_id":1108758283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.32816,
+    15.74224,
+    38.32816,
+    15.74224
+],
+  "geometry": {"coordinates":[38.32816,15.74224],"type":"Point"}
+}

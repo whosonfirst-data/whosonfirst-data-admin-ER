@@ -1,0 +1,71 @@
+{
+  "id": 1226653369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.90798,14.64158,40.90798,14.64158",
+    "geom:latitude":14.64158,
+    "geom:longitude":40.90798,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Daraivo",
+    "gn:country_code":"ER",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342637,
+    "gn:latitude":14.64158,
+    "gn:longitude":40.90798,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Daraivo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dafaivo",
+        "Dafayvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342637
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"c90cc2860a9ff527278d6816c21106ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758367,
+            "locality_id":1226653369,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1226653369,
+    "wof:lastmodified":1537621323,
+    "wof:name":"Daraivo",
+    "wof:parent_id":1108758367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.90798,
+    14.64158,
+    40.90798,
+    14.64158
+],
+  "geometry": {"coordinates":[40.90798,14.64158],"type":"Point"}
+}

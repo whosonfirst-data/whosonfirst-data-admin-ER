@@ -1,0 +1,67 @@
+{
+  "id": 1293603575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.35056,14.85583,38.35056,14.85583",
+    "geom:latitude":14.85583,
+    "geom:longitude":38.35056,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Addi Feton Siga",
+    "gn:country_code":"ER",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6417437,
+    "gn:latitude":14.85583,
+    "gn:longitude":38.35056,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Addi Feton Siga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6417437
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"1ee291587a698765c3bee37d29db1023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758381,
+            "locality_id":1293603575,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1293603575,
+    "wof:lastmodified":1536617508,
+    "wof:name":"Addi Feton Siga",
+    "wof:parent_id":1108758381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.35056,
+    14.85583,
+    38.35056,
+    14.85583
+],
+  "geometry": {"coordinates":[38.35056,14.85583],"type":"Point"}
+}

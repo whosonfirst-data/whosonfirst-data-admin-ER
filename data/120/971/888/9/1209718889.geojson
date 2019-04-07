@@ -1,0 +1,71 @@
+{
+  "id": 1209718889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.84278,14.79694,38.84278,14.79694",
+    "geom:latitude":14.79694,
+    "geom:longitude":38.84278,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"K'ine Hayela",
+    "gn:country_code":"ER",
+    "gn:dem":1907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":333021,
+    "gn:latitude":14.79694,
+    "gn:longitude":38.84278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u2019ine H\u0101yela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ona Yala",
+        "K\u2019ine H\u0101yela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":333021
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"d6c87be9fe7fc1009fda805f774a8035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758395,
+            "locality_id":1209718889,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1209718889,
+    "wof:lastmodified":1537621297,
+    "wof:name":"K'ine Hayela",
+    "wof:parent_id":1108758395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.84278,
+    14.79694,
+    38.84278,
+    14.79694
+],
+  "geometry": {"coordinates":[38.84278,14.79694],"type":"Point"}
+}

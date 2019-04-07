@@ -1,0 +1,92 @@
+{
+  "id": 1343254431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.35149,14.37474,40.35149,14.37474",
+    "geom:latitude":14.37474,
+    "geom:longitude":40.35149,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kulul",
+    "gn:country_code":"ER",
+    "gn:dem":-112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":332527,
+    "gn:latitude":14.37474,
+    "gn:longitude":40.35149,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Kulul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Cululli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0443\u043b\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Culculli",
+        "Kululli",
+        "Colulli",
+        "Kolulli",
+        "Kulul",
+        "Kuleli",
+        "Colluli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353,
+        85632257,
+        85671129,
+        1108695245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":332527
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"d48e744c23b1d22232a4ab0798d28167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1343254431,
+            "region_id":85671105
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695245,
+            "locality_id":1343254431,
+            "region_id":85671129
+        }
+    ],
+    "wof:id":1343254431,
+    "wof:lastmodified":1537621296,
+    "wof:name":"Kulul",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.35149000000001,
+    14.37474,
+    40.35149000000001,
+    14.37474
+],
+  "geometry": {"coordinates":[40.35149000000001,14.37474],"type":"Point"}
+}

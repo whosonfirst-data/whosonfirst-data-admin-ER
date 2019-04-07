@@ -1,0 +1,67 @@
+{
+  "id": 1243566049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.05714,12.97294,42.05714,12.97294",
+    "geom:latitude":12.97294,
+    "geom:longitude":42.05714,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dabu",
+    "gn:country_code":"ER",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416388,
+    "gn:latitude":12.97294,
+    "gn:longitude":42.05714,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Dabu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416388
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"cfef4d4e4162d22a0b474f5d7ca802dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758371,
+            "locality_id":1243566049,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1243566049,
+    "wof:lastmodified":1536631616,
+    "wof:name":"Dabu",
+    "wof:parent_id":1108758371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.05714,
+    12.97294,
+    42.05714,
+    12.97294
+],
+  "geometry": {"coordinates":[42.05714,12.97294],"type":"Point"}
+}

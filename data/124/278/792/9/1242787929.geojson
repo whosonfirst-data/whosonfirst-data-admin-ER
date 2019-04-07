@@ -1,0 +1,67 @@
+{
+  "id": 1242787929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.47833,14.6675,39.47833,14.6675",
+    "geom:latitude":14.6675,
+    "geom:longitude":39.47833,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ksad Emba",
+    "gn:country_code":"ER",
+    "gn:dem":2344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420808,
+    "gn:latitude":14.6675,
+    "gn:longitude":39.47833,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ksad Emba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420808
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"0ec4542aa2697d3c64cff6f0c85a727d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758399,
+            "locality_id":1242787929,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1242787929,
+    "wof:lastmodified":1536760807,
+    "wof:name":"Ksad Emba",
+    "wof:parent_id":1108758399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.47833,
+    14.6675,
+    39.47833,
+    14.6675
+],
+  "geometry": {"coordinates":[39.47833,14.6675],"type":"Point"}
+}

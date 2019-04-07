@@ -1,0 +1,67 @@
+{
+  "id": 1310107747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.11681,14.14616,41.11681,14.14616",
+    "geom:latitude":14.14616,
+    "geom:longitude":41.11681,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dara",
+    "gn:country_code":"ER",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339963,
+    "gn:latitude":14.14616,
+    "gn:longitude":41.11681,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Dara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339963
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"83b10e5d5a2e2052779cf05ac8314e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758367,
+            "locality_id":1310107747,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1310107747,
+    "wof:lastmodified":1536992405,
+    "wof:name":"Dara",
+    "wof:parent_id":1108758367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.11681,
+    14.14616,
+    41.11681,
+    14.14616
+],
+  "geometry": {"coordinates":[41.11681,14.14616],"type":"Point"}
+}

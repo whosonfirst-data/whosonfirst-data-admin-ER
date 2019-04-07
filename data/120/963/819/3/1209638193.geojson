@@ -1,0 +1,61 @@
+{
+  "id": 1209638193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.88665,15.53284,38.88665,15.53284",
+    "geom:latitude":15.53284,
+    "geom:longitude":38.88665,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dersep",
+    "gn:country_code":"ER",
+    "gn:dem":2539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8390894,
+    "gn:latitude":15.53284,
+    "gn:longitude":38.88665,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Dersep",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390894
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"e0073cd33f14ee47e219d7d2cc2e1564",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209638193
+        }
+    ],
+    "wof:id":1209638193,
+    "wof:lastmodified":1536280972,
+    "wof:name":"Dersep",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.88665,
+    15.53284,
+    38.88665,
+    15.53284
+],
+  "geometry": {"coordinates":[38.88665,15.53284],"type":"Point"}
+}

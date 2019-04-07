@@ -1,0 +1,72 @@
+{
+  "id": 1242775505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.81667,15.43333,39.81667,15.43333",
+    "geom:latitude":15.43333,
+    "geom:longitude":39.81667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Croto",
+    "gn:country_code":"ER",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340458,
+    "gn:latitude":15.43333,
+    "gn:longitude":39.81667,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Croto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gruta",
+        "Crota",
+        "Croto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340458
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"c92a39cea6ed51644454c45bbd4d8fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1242775505,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1242775505,
+    "wof:lastmodified":1537621306,
+    "wof:name":"Croto",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.81667,
+    15.43333,
+    39.81667,
+    15.43333
+],
+  "geometry": {"coordinates":[39.81667,15.43333],"type":"Point"}
+}

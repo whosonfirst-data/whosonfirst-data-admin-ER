@@ -1,0 +1,70 @@
+{
+  "id": 1225842765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.82541,16.63168,37.82541,16.63168",
+    "geom:latitude":16.63168,
+    "geom:longitude":37.82541,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sherit",
+    "gn:country_code":"ER",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329212,
+    "gn:latitude":16.63168,
+    "gn:longitude":37.82541,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Sherit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Scerit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329212
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"03c340d7f30284b221dad9f321e8c804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758275,
+            "locality_id":1225842765,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1225842765,
+    "wof:lastmodified":1537621290,
+    "wof:name":"Sherit",
+    "wof:parent_id":1108758275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.82541,
+    16.63168,
+    37.82541,
+    16.63168
+],
+  "geometry": {"coordinates":[37.82541,16.63168],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1292901087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.89265,15.49386,39.89265,15.49386",
+    "geom:latitude":15.49386,
+    "geom:longitude":39.89265,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dilemmi",
+    "gn:country_code":"ER",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338974,
+    "gn:latitude":15.49386,
+    "gn:longitude":39.89265,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Dilemmi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Delemme",
+        "Dilemmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338974
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"c4ac6d1a11b6470cb4f0e56f1e07a66a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1292901087,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1292901087,
+    "wof:lastmodified":1537621304,
+    "wof:name":"Dilemmi",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.89265,
+    15.49386,
+    39.89265,
+    15.49386
+],
+  "geometry": {"coordinates":[39.89265,15.49386],"type":"Point"}
+}

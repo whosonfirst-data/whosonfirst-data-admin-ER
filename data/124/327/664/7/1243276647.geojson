@@ -1,0 +1,67 @@
+{
+  "id": 1243276647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.73,14.68333,38.73,14.68333",
+    "geom:latitude":14.68333,
+    "geom:longitude":38.73,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Aloat",
+    "gn:country_code":"ER",
+    "gn:dem":2033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6419100,
+    "gn:latitude":14.68333,
+    "gn:longitude":38.73,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Adi Aloat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6419100
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"eafd25c151140b067f263fbbbe9cc92c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758387,
+            "locality_id":1243276647,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1243276647,
+    "wof:lastmodified":1537048222,
+    "wof:name":"Adi Aloat",
+    "wof:parent_id":1108758387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.73,
+    14.68333,
+    38.73,
+    14.68333
+],
+  "geometry": {"coordinates":[38.73,14.68333],"type":"Point"}
+}

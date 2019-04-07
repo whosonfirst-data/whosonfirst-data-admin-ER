@@ -1,0 +1,67 @@
+{
+  "id": 1344165671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.04049,15.08267,39.04049,15.08267",
+    "geom:latitude":15.08267,
+    "geom:longitude":39.04049,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hadamu",
+    "gn:country_code":"ER",
+    "gn:dem":2085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335330,
+    "gn:latitude":15.08267,
+    "gn:longitude":39.04049,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"H\u0101damu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335330
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"585c408699b9806d3b018ab35099e733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758385,
+            "locality_id":1344165671,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1344165671,
+    "wof:lastmodified":1536724048,
+    "wof:name":"Hadamu",
+    "wof:parent_id":1108758385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.04049000000001,
+    15.08267,
+    39.04049000000001,
+    15.08267
+],
+  "geometry": {"coordinates":[39.04049000000001,15.08267],"type":"Point"}
+}

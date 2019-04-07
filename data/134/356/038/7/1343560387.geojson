@@ -1,0 +1,71 @@
+{
+  "id": 1343560387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.7364,15.21144,38.7364,15.21144",
+    "geom:latitude":15.21144,
+    "geom:longitude":38.7364,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Adi Gebray",
+    "gn:country_code":"ER",
+    "gn:dem":2281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345191,
+    "gn:latitude":15.21144,
+    "gn:longitude":38.7364,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"\u0100d\u012b Gebray",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grar Gabru",
+        "\u0100d\u012b Gebray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345191
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"0f06f489d974aa5234a5ab00abe338f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758383,
+            "locality_id":1343560387,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1343560387,
+    "wof:lastmodified":1537621313,
+    "wof:name":"Adi Gebray",
+    "wof:parent_id":1108758383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.7364,
+    15.21144,
+    38.7364,
+    15.21144
+],
+  "geometry": {"coordinates":[38.7364,15.21144],"type":"Point"}
+}

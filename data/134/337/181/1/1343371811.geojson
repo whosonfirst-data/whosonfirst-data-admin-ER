@@ -1,0 +1,67 @@
+{
+  "id": 1343371811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.52821,14.44698,38.52821,14.44698",
+    "geom:latitude":14.44698,
+    "geom:longitude":38.52821,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Moage",
+    "gn:country_code":"ER",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6742312,
+    "gn:latitude":14.44698,
+    "gn:longitude":38.52821,
+    "gn:modification_date":"2009-01-03",
+    "gn:name":"\u0100d\u012b Moage",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6742312
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"30ed356d00c4d64b4bb8f2d8538a96d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758391,
+            "locality_id":1343371811,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1343371811,
+    "wof:lastmodified":1536873067,
+    "wof:name":"Adi Moage",
+    "wof:parent_id":1108758391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.52821,
+    14.44698,
+    38.52821,
+    14.44698
+],
+  "geometry": {"coordinates":[38.52821,14.44698],"type":"Point"}
+}

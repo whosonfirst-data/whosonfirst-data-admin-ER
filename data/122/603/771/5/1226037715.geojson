@@ -1,0 +1,67 @@
+{
+  "id": 1226037715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.25598,15.5793,39.25598,15.5793",
+    "geom:latitude":15.5793,
+    "geom:longitude":39.25598,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Saati",
+    "gn:country_code":"ER",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329501,
+    "gn:latitude":15.5793,
+    "gn:longitude":39.25598,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Saati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329501
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"0bde3b67a7fa7138d8a1f8ce7a33e08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758355,
+            "locality_id":1226037715,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1226037715,
+    "wof:lastmodified":1536736778,
+    "wof:name":"Saati",
+    "wof:parent_id":1108758355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.25598,
+    15.5793,
+    39.25598,
+    15.5793
+],
+  "geometry": {"coordinates":[39.25598,15.5793],"type":"Point"}
+}

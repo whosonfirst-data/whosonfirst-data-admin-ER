@@ -1,0 +1,72 @@
+{
+  "id": 1259878857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.89861,15.43417,38.89861,15.43417",
+    "geom:latitude":15.43417,
+    "geom:longitude":38.89861,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Emba-Derho",
+    "gn:country_code":"ER",
+    "gn:dem":2379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334277,
+    "gn:latitude":15.43417,
+    "gn:longitude":38.89861,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Emba-Derho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inba Dorho",
+        "Amba Derho",
+        "Emba-Derho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805925,
+        1108758311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334277
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"9edc72ffab985c859f2e1f040dbd5179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758311,
+            "locality_id":1259878857,
+            "region_id":1108805925
+        }
+    ],
+    "wof:id":1259878857,
+    "wof:lastmodified":1537621298,
+    "wof:name":"Emba-Derho",
+    "wof:parent_id":1108758311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.89861,
+    15.43417,
+    38.89861,
+    15.43417
+],
+  "geometry": {"coordinates":[38.89861,15.43417],"type":"Point"}
+}

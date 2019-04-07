@@ -1,0 +1,71 @@
+{
+  "id": 1293208031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.63101,14.52442,40.63101,14.52442",
+    "geom:latitude":14.52442,
+    "geom:longitude":40.63101,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bilieta",
+    "gn:country_code":"ER",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342437,
+    "gn:latitude":14.52442,
+    "gn:longitude":40.63101,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Bilieta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beleita",
+        "Bilieta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342437
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"ccbe42a471c055f2dd936d19f8fb241d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758367,
+            "locality_id":1293208031,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1293208031,
+    "wof:lastmodified":1537621308,
+    "wof:name":"Bilieta",
+    "wof:parent_id":1108758367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.63101,
+    14.52442,
+    40.63101,
+    14.52442
+],
+  "geometry": {"coordinates":[40.63101,14.52442],"type":"Point"}
+}

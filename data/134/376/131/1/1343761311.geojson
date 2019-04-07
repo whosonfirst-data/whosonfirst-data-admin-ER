@@ -1,0 +1,72 @@
+{
+  "id": 1343761311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.89607,15.17476,38.89607,15.17476",
+    "geom:latitude":15.17476,
+    "geom:longitude":38.89607,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Embeyto",
+    "gn:country_code":"ER",
+    "gn:dem":2128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334310,
+    "gn:latitude":15.17476,
+    "gn:longitude":38.89607,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Embeyto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imbeyto",
+        "Embeito",
+        "Embeyto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334310
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"9d68a837d05f6df195d691c37ad16e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758383,
+            "locality_id":1343761311,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1343761311,
+    "wof:lastmodified":1537621298,
+    "wof:name":"Embeyto",
+    "wof:parent_id":1108758383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.89607,
+    15.17476,
+    38.89607,
+    15.17476
+],
+  "geometry": {"coordinates":[38.89607,15.17476],"type":"Point"}
+}

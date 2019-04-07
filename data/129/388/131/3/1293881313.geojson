@@ -1,0 +1,71 @@
+{
+  "id": 1293881313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.93722,15.63444,38.93722,15.63444",
+    "geom:latitude":15.63444,
+    "geom:longitude":38.93722,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Filfil",
+    "gn:country_code":"ER",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337747,
+    "gn:latitude":15.63444,
+    "gn:longitude":38.93722,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Filfil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043b\u044c\u0444\u0438\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337747,
+        "wk:page":"Filfil"
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"06d5a11c042d7de115ffcd3b0fbadb84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758365,
+            "locality_id":1293881313,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1293881313,
+    "wof:lastmodified":1537621302,
+    "wof:name":"Filfil",
+    "wof:parent_id":1108758365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.93722,
+    15.63444,
+    38.93722,
+    15.63444
+],
+  "geometry": {"coordinates":[38.93722,15.63444],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209619903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.81392,15.46003,38.81392,15.46003",
+    "geom:latitude":15.46003,
+    "geom:longitude":38.81392,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"T'a'areshi",
+    "gn:country_code":"ER",
+    "gn:dem":2292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":328034,
+    "gn:latitude":15.46003,
+    "gn:longitude":38.81392,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"T\u2019a\u2019\u0101resh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciaresci",
+        "T\u2019a\u2019\u0101resh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":328034
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"a8c43fcd1191411a0c6321ad124ed7a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209619903
+        }
+    ],
+    "wof:id":1209619903,
+    "wof:lastmodified":1537621289,
+    "wof:name":"T'a'areshi",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.81392,
+    15.46003,
+    38.81392,
+    15.46003
+],
+  "geometry": {"coordinates":[38.81392,15.46003],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293314615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.8551,15.27473,39.8551,15.27473",
+    "geom:latitude":15.27473,
+    "geom:longitude":39.8551,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dekhebina",
+    "gn:country_code":"ER",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8388568,
+    "gn:latitude":15.27473,
+    "gn:longitude":39.8551,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Dekhebina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8388568
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"f280f5662a17e2a869a44c31b4f9e978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1293314615,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1293314615,
+    "wof:lastmodified":1537034804,
+    "wof:name":"Dekhebina",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.8551,
+    15.27473,
+    39.8551,
+    15.27473
+],
+  "geometry": {"coordinates":[39.8551,15.27473],"type":"Point"}
+}

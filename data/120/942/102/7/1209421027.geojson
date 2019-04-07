@@ -1,0 +1,64 @@
+{
+  "id": 1209421027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.14582,15.70263,38.14582,15.70263",
+    "geom:latitude":15.70263,
+    "geom:longitude":38.14582,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Assambra",
+    "gn:country_code":"ER",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8385565,
+    "gn:latitude":15.70263,
+    "gn:longitude":38.14582,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Assambra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashekh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8385565
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"5c5390dc85446c50a1be5579f71e68e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209421027
+        }
+    ],
+    "wof:id":1209421027,
+    "wof:lastmodified":1537621323,
+    "wof:name":"Assambra",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.14582,
+    15.70263,
+    38.14582,
+    15.70263
+],
+  "geometry": {"coordinates":[38.14582,15.70263],"type":"Point"}
+}

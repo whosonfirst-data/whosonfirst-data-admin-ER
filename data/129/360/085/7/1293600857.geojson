@@ -1,0 +1,67 @@
+{
+  "id": 1293600857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.56976,12.61917,42.56976,12.61917",
+    "geom:latitude":12.61917,
+    "geom:longitude":42.56976,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hancul",
+    "gn:country_code":"ER",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335127,
+    "gn:latitude":12.61917,
+    "gn:longitude":42.56976,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Hancul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335127
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"a33529dfba9bbda91dd7eb9d463a19e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758371,
+            "locality_id":1293600857,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1293600857,
+    "wof:lastmodified":1536621579,
+    "wof:name":"Hancul",
+    "wof:parent_id":1108758371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.56976,
+    12.61917,
+    42.56976,
+    12.61917
+],
+  "geometry": {"coordinates":[42.56976,12.61917],"type":"Point"}
+}

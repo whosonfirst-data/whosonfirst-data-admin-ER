@@ -1,0 +1,71 @@
+{
+  "id": 1326538883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.7875,14.95611,38.7875,14.95611",
+    "geom:latitude":14.95611,
+    "geom:longitude":38.7875,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Goda'iti",
+    "gn:country_code":"ER",
+    "gn:dem":2071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345163,
+    "gn:latitude":14.95611,
+    "gn:longitude":38.7875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100d\u012b Goda\u2019it\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi Godati",
+        "\u0100d\u012b Goda\u2019it\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345163
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"589ccb8352fee73b79bbd45d439965db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758395,
+            "locality_id":1326538883,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1326538883,
+    "wof:lastmodified":1537621313,
+    "wof:name":"Adi Goda'iti",
+    "wof:parent_id":1108758395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.7875,
+    14.95611,
+    38.7875,
+    14.95611
+],
+  "geometry": {"coordinates":[38.7875,14.95611],"type":"Point"}
+}

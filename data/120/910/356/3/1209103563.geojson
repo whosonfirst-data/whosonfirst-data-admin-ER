@@ -1,0 +1,66 @@
+{
+  "id": 1209103563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.30174,15.59753,39.30174,15.59753",
+    "geom:latitude":15.59753,
+    "geom:longitude":39.30174,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dogali",
+    "gn:country_code":"ER",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338715,
+    "gn:latitude":15.59753,
+    "gn:longitude":39.30174,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Dogal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Degol\u0113",
+        "Dogal\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338715,
+        "wk:page":"Dogali"
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"216d59f4c04cc59d3a06bc3143a9df02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209103563
+        }
+    ],
+    "wof:id":1209103563,
+    "wof:lastmodified":1537621303,
+    "wof:name":"Dogali",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.30174,
+    15.59753,
+    39.30174,
+    15.59753
+],
+  "geometry": {"coordinates":[39.30174,15.59753],"type":"Point"}
+}

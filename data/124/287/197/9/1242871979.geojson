@@ -1,0 +1,67 @@
+{
+  "id": 1242871979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.88333,15.41667,39.88333,15.41667",
+    "geom:latitude":15.41667,
+    "geom:longitude":39.88333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gandeli",
+    "gn:country_code":"ER",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337373,
+    "gn:latitude":15.41667,
+    "gn:longitude":39.88333,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Gandeli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337373
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"05b78ea2e0b735830f413666270ab149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1242871979,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1242871979,
+    "wof:lastmodified":1536638659,
+    "wof:name":"Gandeli",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.88333,
+    15.41667,
+    39.88333,
+    15.41667
+],
+  "geometry": {"coordinates":[39.88333,15.41667],"type":"Point"}
+}

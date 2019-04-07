@@ -1,0 +1,65 @@
+{
+  "id": 1209326305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.78087,13.68093,41.78087,13.68093",
+    "geom:latitude":13.68093,
+    "geom:longitude":41.78087,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Diddale",
+    "gn:country_code":"ER",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339096,
+    "gn:latitude":13.68093,
+    "gn:longitude":41.78087,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Diddale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diddate",
+        "Diddale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339096
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"e4fe1aa9b7c9a892257fc944dafe1eb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209326305
+        }
+    ],
+    "wof:id":1209326305,
+    "wof:lastmodified":1537621304,
+    "wof:name":"Diddale",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.78087,
+    13.68093,
+    41.78087,
+    13.68093
+],
+  "geometry": {"coordinates":[41.78087,13.68093],"type":"Point"}
+}

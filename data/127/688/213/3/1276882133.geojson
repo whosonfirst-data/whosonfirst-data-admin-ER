@@ -1,0 +1,67 @@
+{
+  "id": 1276882133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.20063,17.4978,38.20063,17.4978",
+    "geom:latitude":17.4978,
+    "geom:longitude":38.20063,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ghile'e La'elay",
+    "gn:country_code":"ER",
+    "gn:dem":1854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8381590,
+    "gn:latitude":17.4978,
+    "gn:longitude":38.20063,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ghile\u2019e La\u2019elay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8381590
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"5174f0007b4e2576750ea52f5bda6b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758345,
+            "locality_id":1276882133,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1276882133,
+    "wof:lastmodified":1537036435,
+    "wof:name":"Ghile'e La'elay",
+    "wof:parent_id":1108758345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.20063,
+    17.4978,
+    38.20063,
+    17.4978
+],
+  "geometry": {"coordinates":[38.20063,17.4978],"type":"Point"}
+}

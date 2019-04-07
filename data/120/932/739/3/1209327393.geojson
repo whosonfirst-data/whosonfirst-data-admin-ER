@@ -1,0 +1,61 @@
+{
+  "id": 1209327393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.65361,14.88056,38.65361,14.88056",
+    "geom:latitude":14.88056,
+    "geom:longitude":38.65361,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Neduk",
+    "gn:country_code":"ER",
+    "gn:dem":2081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6419584,
+    "gn:latitude":14.88056,
+    "gn:longitude":38.65361,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Adi Neduk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6419584
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"e1b400b3ddecf0211cd714a4f49bd335",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209327393
+        }
+    ],
+    "wof:id":1209327393,
+    "wof:lastmodified":1536290487,
+    "wof:name":"Adi Neduk",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.65361,
+    14.88056,
+    38.65361,
+    14.88056
+],
+  "geometry": {"coordinates":[38.65361,14.88056],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259593097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.86667,15.3,36.86667,15.3",
+    "geom:latitude":15.3,
+    "geom:longitude":36.86667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bitama",
+    "gn:country_code":"ER",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341964,
+    "gn:latitude":15.3,
+    "gn:longitude":36.86667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bitama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341964,
+        "wk:page":"Bitama"
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"056bc8a4b7ae2111049c8148978223fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758325,
+            "locality_id":1259593097,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1259593097,
+    "wof:lastmodified":1537562641,
+    "wof:name":"Bitama",
+    "wof:parent_id":1108758325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.86667,
+    15.3,
+    36.86667,
+    15.3
+],
+  "geometry": {"coordinates":[36.86667,15.3],"type":"Point"}
+}

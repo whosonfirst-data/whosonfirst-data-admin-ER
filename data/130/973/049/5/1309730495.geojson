@@ -1,0 +1,72 @@
+{
+  "id": 1309730495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.84833,14.97389,38.84833,14.97389",
+    "geom:latitude":14.97389,
+    "geom:longitude":38.84833,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Haserlibo",
+    "gn:cc2":"ER",
+    "gn:country_code":"ER",
+    "gn:dem":2087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334887,
+    "gn:latitude":14.97389,
+    "gn:longitude":38.84833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Haserlibo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u0101serelbo",
+        "Haserlibo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334887
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"b8f8ae8019b0056189970bc1ff3356f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758395,
+            "locality_id":1309730495,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1309730495,
+    "wof:lastmodified":1537621300,
+    "wof:name":"Haserlibo",
+    "wof:parent_id":1108758395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.84833,
+    14.97389,
+    38.84833,
+    14.97389
+],
+  "geometry": {"coordinates":[38.84833,14.97389],"type":"Point"}
+}

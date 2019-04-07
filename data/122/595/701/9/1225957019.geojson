@@ -1,0 +1,71 @@
+{
+  "id": 1225957019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.22361,14.8075,39.22361,14.8075",
+    "geom:latitude":14.8075,
+    "geom:longitude":39.22361,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Merra Nahayne",
+    "gn:country_code":"ER",
+    "gn:dem":1888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6421035,
+    "gn:latitude":14.8075,
+    "gn:longitude":39.22361,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Merra Nahayne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Merra Nakhayne",
+        "Merra Nahayne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6421035
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"5cbb3e80b4db7ceb8151f0e9abb58da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758389,
+            "locality_id":1225957019,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1225957019,
+    "wof:lastmodified":1537621322,
+    "wof:name":"Merra Nahayne",
+    "wof:parent_id":1108758389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.22361,
+    14.8075,
+    39.22361,
+    14.8075
+],
+  "geometry": {"coordinates":[39.22361,14.8075],"type":"Point"}
+}

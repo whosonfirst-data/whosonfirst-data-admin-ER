@@ -1,0 +1,67 @@
+{
+  "id": 1243281967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.5668,14.46675,38.5668,14.46675",
+    "geom:latitude":14.46675,
+    "geom:longitude":38.5668,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adi-Atsida",
+    "gn:country_code":"ER",
+    "gn:dem":1531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416477,
+    "gn:latitude":14.46675,
+    "gn:longitude":38.5668,
+    "gn:modification_date":"2008-03-25",
+    "gn:name":"Adi-Atsida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416477
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"b6f5a371f18297c4a12aedd51dfe502b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758391,
+            "locality_id":1243281967,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1243281967,
+    "wof:lastmodified":1537040914,
+    "wof:name":"Adi-Atsida",
+    "wof:parent_id":1108758391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.5668,
+    14.46675,
+    38.5668,
+    14.46675
+],
+  "geometry": {"coordinates":[38.5668,14.46675],"type":"Point"}
+}

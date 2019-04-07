@@ -1,0 +1,67 @@
+{
+  "id": 1310420271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.55288,15.679,38.55288,15.679",
+    "geom:latitude":15.679,
+    "geom:longitude":38.55288,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khembel'",
+    "gn:country_code":"ER",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8393875,
+    "gn:latitude":15.679,
+    "gn:longitude":38.55288,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Khembel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8393875
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"b1306d82e3f8de2f0ae87fd22ca3418d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758277,
+            "locality_id":1310420271,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1310420271,
+    "wof:lastmodified":1537038236,
+    "wof:name":"Khembel'",
+    "wof:parent_id":1108758277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.55288,
+    15.679,
+    38.55288,
+    15.679
+],
+  "geometry": {"coordinates":[38.55288,15.679],"type":"Point"}
+}

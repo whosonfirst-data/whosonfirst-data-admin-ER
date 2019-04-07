@@ -1,0 +1,67 @@
+{
+  "id": 1276765963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.92763,16.05275,38.92763,16.05275",
+    "geom:latitude":16.05275,
+    "geom:longitude":38.92763,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abarara",
+    "gn:country_code":"ER",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8382420,
+    "gn:latitude":16.05275,
+    "gn:longitude":38.92763,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Abarara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8382420
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"352947713c85cca1c6eaaaa577ad3502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758347,
+            "locality_id":1276765963,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1276765963,
+    "wof:lastmodified":1536696315,
+    "wof:name":"Abarara",
+    "wof:parent_id":1108758347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.92763,
+    16.05275,
+    38.92763,
+    16.05275
+],
+  "geometry": {"coordinates":[38.92763,16.05275],"type":"Point"}
+}

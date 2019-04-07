@@ -1,0 +1,67 @@
+{
+  "id": 1343276499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.9,13.1,41.9,13.1",
+    "geom:latitude":13.1,
+    "geom:longitude":41.9,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Musa Ela",
+    "gn:country_code":"ER",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330299,
+    "gn:latitude":13.1,
+    "gn:longitude":41.9,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Musa Ela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330299
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"585ae23a647390ac1b7b6d2737df51aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758371,
+            "locality_id":1343276499,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1343276499,
+    "wof:lastmodified":1537010981,
+    "wof:name":"Musa Ela",
+    "wof:parent_id":1108758371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.9,
+    13.1,
+    41.9,
+    13.1
+],
+  "geometry": {"coordinates":[41.9,13.1],"type":"Point"}
+}

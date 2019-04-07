@@ -1,0 +1,70 @@
+{
+  "id": 1276544309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.1505,15.40067,39.1505,15.40067",
+    "geom:latitude":15.40067,
+    "geom:longitude":39.1505,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dalaulo",
+    "gn:country_code":"ER",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":340170,
+    "gn:latitude":15.40067,
+    "gn:longitude":39.1505,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Dalaulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dondolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":340170
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"5b6d5ae2e11493fd300d8eb509cdbb3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758355,
+            "locality_id":1276544309,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1276544309,
+    "wof:lastmodified":1537621305,
+    "wof:name":"Dalaulo",
+    "wof:parent_id":1108758355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.1505,
+    15.40067,
+    39.1505,
+    15.40067
+],
+  "geometry": {"coordinates":[39.1505,15.40067],"type":"Point"}
+}

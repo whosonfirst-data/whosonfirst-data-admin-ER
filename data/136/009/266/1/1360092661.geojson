@@ -1,0 +1,67 @@
+{
+  "id": 1360092661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.30865,13.24278,42.30865,13.24278",
+    "geom:latitude":13.24278,
+    "geom:longitude":42.30865,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bihde",
+    "gn:country_code":"ER",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342161,
+    "gn:latitude":13.24278,
+    "gn:longitude":42.30865,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"B\u012bhd\u0113",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342161
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"d876b08c9350a4eb1b446a022ba0ca84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758371,
+            "locality_id":1360092661,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1360092661,
+    "wof:lastmodified":1536935430,
+    "wof:name":"Bihde",
+    "wof:parent_id":1108758371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.30865,
+    13.24278,
+    42.30865,
+    13.24278
+],
+  "geometry": {"coordinates":[42.30865,13.24278],"type":"Point"}
+}

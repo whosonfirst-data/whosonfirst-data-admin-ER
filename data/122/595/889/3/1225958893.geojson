@@ -1,0 +1,72 @@
+{
+  "id": 1225958893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.49861,14.53833,38.49861,14.53833",
+    "geom:latitude":14.53833,
+    "geom:longitude":38.49861,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adi-Ketina",
+    "gn:cc2":"ER",
+    "gn:country_code":"ER",
+    "gn:dem":1799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345231,
+    "gn:latitude":14.53833,
+    "gn:longitude":38.49861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Adi-Ketina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi Catina",
+        "Adi-Ketina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345231
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"2fd5515cfbcae46ea644e89b4dc9f98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758391,
+            "locality_id":1225958893,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1225958893,
+    "wof:lastmodified":1537621314,
+    "wof:name":"Adi-Ketina",
+    "wof:parent_id":1108758391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.49861,
+    14.53833,
+    38.49861,
+    14.53833
+],
+  "geometry": {"coordinates":[38.49861,14.53833],"type":"Point"}
+}

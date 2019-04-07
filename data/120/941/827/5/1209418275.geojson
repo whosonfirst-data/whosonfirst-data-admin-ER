@@ -1,0 +1,65 @@
+{
+  "id": 1209418275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.33528,14.6825,39.33528,14.6825",
+    "geom:latitude":14.6825,
+    "geom:longitude":39.33528,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zeban-Abuh",
+    "gn:country_code":"ER",
+    "gn:dem":2295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420574,
+    "gn:latitude":14.6825,
+    "gn:longitude":39.33528,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zeban-Abuh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zeban-Abukh",
+        "Zeban-Abuh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420574
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"f06c4261a258c0add1b84676a4281a9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209418275
+        }
+    ],
+    "wof:id":1209418275,
+    "wof:lastmodified":1537621322,
+    "wof:name":"Zeban-Abuh",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.33528,
+    14.6825,
+    39.33528,
+    14.6825
+],
+  "geometry": {"coordinates":[39.33528,14.6825],"type":"Point"}
+}

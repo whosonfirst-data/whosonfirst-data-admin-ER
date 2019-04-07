@@ -1,0 +1,77 @@
+{
+  "id": 1259982885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.15619,16.41747,39.15619,16.41747",
+    "geom:latitude":16.41747,
+    "geom:longitude":39.15619,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mersa Gulbub",
+    "gn:country_code":"ER",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330885,
+    "gn:latitude":16.41747,
+    "gn:longitude":39.15619,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Mersa Gulbub",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tir_x_preferred":[
+        "\u1218\u122d\u1233 \u1309\u120d\u1261\u1265"
+    ],
+    "name:tir_x_variant":[
+        "Mersa Gulbub"
+    ],
+    "name:und_x_variant":[
+        "Marsa Gulbub",
+        "Gulbub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330885
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"ff2c1124b7b64ef50d03efa1afa1d9cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758347,
+            "locality_id":1259982885,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1259982885,
+    "wof:lastmodified":1537621293,
+    "wof:name":"Mersa Gulbub",
+    "wof:parent_id":1108758347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.15619,
+    16.41747,
+    39.15619,
+    16.41747
+],
+  "geometry": {"coordinates":[39.15619,16.41747],"type":"Point"}
+}

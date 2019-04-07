@@ -1,0 +1,67 @@
+{
+  "id": 1276439345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.52327,15.35818,39.52327,15.35818",
+    "geom:latitude":15.35818,
+    "geom:longitude":39.52327,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Betalifuru",
+    "gn:country_code":"ER",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342250,
+    "gn:latitude":15.35818,
+    "gn:longitude":39.52327,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Betalifuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342250
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"b00bb52520c060996bba8b8e73f3b317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758351,
+            "locality_id":1276439345,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1276439345,
+    "wof:lastmodified":1536635326,
+    "wof:name":"Betalifuru",
+    "wof:parent_id":1108758351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.52327,
+    15.35818,
+    39.52327,
+    15.35818
+],
+  "geometry": {"coordinates":[39.52327,15.35818],"type":"Point"}
+}

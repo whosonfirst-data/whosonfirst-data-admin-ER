@@ -1,0 +1,67 @@
+{
+  "id": 1327229119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.36173,15.8948,38.36173,15.8948",
+    "geom:latitude":15.8948,
+    "geom:longitude":38.36173,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kafa",
+    "gn:country_code":"ER",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8385620,
+    "gn:latitude":15.8948,
+    "gn:longitude":38.36173,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Kafa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8385620
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"f4720e54c8838317e5d4e39fb8967bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758289,
+            "locality_id":1327229119,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1327229119,
+    "wof:lastmodified":1536973913,
+    "wof:name":"Kafa",
+    "wof:parent_id":1108758289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.36173,
+    15.8948,
+    38.36173,
+    15.8948
+],
+  "geometry": {"coordinates":[38.36173,15.8948],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1259997599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.405,14.53333,39.405,14.53333",
+    "geom:latitude":14.53333,
+    "geom:longitude":39.405,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kokobay",
+    "gn:country_code":"ER",
+    "gn:dem":2343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416484,
+    "gn:latitude":14.53333,
+    "gn:longitude":39.405,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kokobay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Enda Gaber Cocobai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758399,
+        85632257,
+        85671125,
+        1108695161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416484
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"3e0a42aefa475781c2db0ffca6856287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758399,
+            "locality_id":1259997599,
+            "region_id":85671109
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695161,
+            "locality_id":1259997599,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1259997599,
+    "wof:lastmodified":1537621317,
+    "wof:name":"Kokobay",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.405,
+    14.53333,
+    39.405,
+    14.53333
+],
+  "geometry": {"coordinates":[39.405,14.53333],"type":"Point"}
+}

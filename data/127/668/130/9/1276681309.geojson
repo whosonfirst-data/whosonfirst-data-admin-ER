@@ -1,0 +1,67 @@
+{
+  "id": 1276681309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.80272,15.54366,38.80272,15.54366",
+    "geom:latitude":15.54366,
+    "geom:longitude":38.80272,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dek'i Zer`u",
+    "gn:country_code":"ER",
+    "gn:dem":2223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339532,
+    "gn:latitude":15.54366,
+    "gn:longitude":38.80272,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Dek\u2019\u012b Zer\u2018u",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339532
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"8186b8951640328fb582e320a2ab5b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758273,
+            "locality_id":1276681309,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1276681309,
+    "wof:lastmodified":1536809101,
+    "wof:name":"Dek'i Zer`u",
+    "wof:parent_id":1108758273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.80272,
+    15.54366,
+    38.80272,
+    15.54366
+],
+  "geometry": {"coordinates":[38.80272,15.54366],"type":"Point"}
+}

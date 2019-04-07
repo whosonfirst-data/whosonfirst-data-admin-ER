@@ -1,0 +1,71 @@
+{
+  "id": 1243273745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.60528,15.72944,38.60528,15.72944",
+    "geom:latitude":15.72944,
+    "geom:longitude":38.60528,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yigi'ar",
+    "gn:country_code":"ER",
+    "gn:dem":1535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325803,
+    "gn:latitude":15.72944,
+    "gn:longitude":38.60528,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Yigi\u2019\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ygi\u2019ar",
+        "Yigi\u2019\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325803
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"342eea8c0965b80cca5135b8638ad7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758277,
+            "locality_id":1243273745,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1243273745,
+    "wof:lastmodified":1537621287,
+    "wof:name":"Yigi'ar",
+    "wof:parent_id":1108758277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.60528,
+    15.72944,
+    38.60528,
+    15.72944
+],
+  "geometry": {"coordinates":[38.60528,15.72944],"type":"Point"}
+}

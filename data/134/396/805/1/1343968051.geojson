@@ -1,0 +1,71 @@
+{
+  "id": 1343968051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.1812,14.42232,39.1812,14.42232",
+    "geom:latitude":14.42232,
+    "geom:longitude":39.1812,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Endaga Robo",
+    "gn:country_code":"ER",
+    "gn:dem":2032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338094,
+    "gn:latitude":14.42232,
+    "gn:longitude":39.1812,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Endaga Robo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Edaga Rob\u00f2",
+        "Endaga Robo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671125,
+        1108695145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338094
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"98c850ebe6eb0180b20baca75647edd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695145,
+            "locality_id":1343968051,
+            "region_id":85671125
+        }
+    ],
+    "wof:id":1343968051,
+    "wof:lastmodified":1537621303,
+    "wof:name":"Endaga Robo",
+    "wof:parent_id":1108695145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.1812,
+    14.42232,
+    39.1812,
+    14.42232
+],
+  "geometry": {"coordinates":[39.1812,14.42232],"type":"Point"}
+}

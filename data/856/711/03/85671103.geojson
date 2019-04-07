@@ -1,0 +1,95 @@
+{
+  "id": 85671103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-31",
+    "edtf:inception":"uuuu",
+    "geom:area":0.131446,
+    "geom:area_square_m":1567581602.908823,
+    "geom:bbox":"38.7862943868,15.1537781845,39.3262614284,15.5756904163",
+    "geom:latitude":15.320939,
+    "geom:longitude":38.967002,
+    "gn:population":766534,
+    "iso:country":"ER",
+    "lbl:latitude":15.302854,
+    "lbl:longitude":38.940412,
+    "mps:latitude":15.302854,
+    "mps:longitude":38.940412,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:eng_x_preferred":[
+        "Maekel"
+    ],
+    "qs:a0":"Eritrea",
+    "qs:a0_lc":"ER",
+    "qs:a1":"Anseba",
+    "qs:a1_lc":"ERI-1561",
+    "qs:adm0":"Eritrea",
+    "qs:adm0_a3":"ERI",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Region",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448501,
+        "gp:id":24549682,
+        "qs:id":1287876,
+        "wd:id":"Q27710",
+        "wk:page":"Central Region (Eritrea)"
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"c328ca6620a0bb1ed6ac3ddf2466113e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "region_id":85671103
+        }
+    ],
+    "wof:id":85671103,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "tir",
+        "eng",
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "tir",
+        "eng",
+        "ara"
+    ],
+    "wof:lastmodified":1529540204,
+    "wof:name":"Anseba",
+    "wof:parent_id":85632781,
+    "wof:placetype":"region",
+    "wof:population":766534,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[
+        1108805925
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.7862943867766,
+    15.15377818451566,
+    39.32626142842224,
+    15.57569041627971
+],
+  "geometry": {"coordinates":[[[39.32626142842224,15.17602488933721],[39.3154093767414,15.16320913289519],[39.30734785302104,15.15817068113211],[39.29479047989679,15.15377818451566],[39.28440351710867,15.15576772679918],[38.7881547378509,15.15561269806761],[38.7862943867766,15.55680268019955],[38.79807661264562,15.56569102621995],[38.80629316599686,15.56662120220676],[38.81978071510798,15.56437327750479],[38.8275321795665,15.56034251609429],[38.83905602391644,15.55135081638713],[38.84680748927428,15.55073069876278],[38.85812462714989,15.55284943315485],[38.89553836410425,15.56558767343245],[38.95868696493153,15.57569041627971],[38.97605024582225,15.53163625710761],[39.00044152165896,15.48616099733221],[39.09149539579596,15.35022614172311],[39.14999311668902,15.2880077168827],[39.19794884606245,15.24689911530197],[39.28455854673962,15.20235403151338],[39.32626142842224,15.17602488933721]]],"type":"Polygon"}
+}

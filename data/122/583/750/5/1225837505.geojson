@@ -1,0 +1,70 @@
+{
+  "id": 1225837505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.0741,16.16879,38.0741,16.16879",
+    "geom:latitude":16.16879,
+    "geom:longitude":38.0741,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Asmat",
+    "gn:country_code":"ER",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342985,
+    "gn:latitude":16.16879,
+    "gn:longitude":38.0741,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Asmat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azmat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342985
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"6a8e766bb831aa77dc0832b763ec0668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758275,
+            "locality_id":1225837505,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1225837505,
+    "wof:lastmodified":1537621308,
+    "wof:name":"Asmat",
+    "wof:parent_id":1108758275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.0741,
+    16.16879,
+    38.0741,
+    16.16879
+],
+  "geometry": {"coordinates":[38.0741,16.16879],"type":"Point"}
+}

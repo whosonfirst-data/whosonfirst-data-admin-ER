@@ -1,0 +1,70 @@
+{
+  "id": 1242866629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.40355,15.26872,39.40355,15.26872",
+    "geom:latitude":15.26872,
+    "geom:longitude":39.40355,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sabsobal'",
+    "gn:country_code":"ER",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391229,
+    "gn:latitude":15.26872,
+    "gn:longitude":39.40355,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Sabsobal\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sabsobal\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391229
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"8a5daec97aaff22f67aae4aca2c5146e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758351,
+            "locality_id":1242866629,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1242866629,
+    "wof:lastmodified":1537621323,
+    "wof:name":"Sabsobal'",
+    "wof:parent_id":1108758351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.40355,
+    15.26872,
+    39.40355,
+    15.26872
+],
+  "geometry": {"coordinates":[39.40355,15.26872],"type":"Point"}
+}

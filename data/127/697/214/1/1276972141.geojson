@@ -1,0 +1,67 @@
+{
+  "id": 1276972141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.24663,15.28758,39.24663,15.28758",
+    "geom:latitude":15.28758,
+    "geom:longitude":39.24663,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Aigherre",
+    "gn:country_code":"ER",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344517,
+    "gn:latitude":15.28758,
+    "gn:longitude":39.24663,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Aigherre",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344517
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"78d128dc2a24244f7582bd9fe9ee63d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758355,
+            "locality_id":1276972141,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1276972141,
+    "wof:lastmodified":1536918184,
+    "wof:name":"Aigherre",
+    "wof:parent_id":1108758355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.24663,
+    15.28758,
+    39.24663,
+    15.28758
+],
+  "geometry": {"coordinates":[39.24663,15.28758],"type":"Point"}
+}

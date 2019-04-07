@@ -1,0 +1,67 @@
+{
+  "id": 1310514621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.10575,17.25396,38.10575,17.25396",
+    "geom:latitude":17.25396,
+    "geom:longitude":38.10575,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ila Babu",
+    "gn:country_code":"ER",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8381592,
+    "gn:latitude":17.25396,
+    "gn:longitude":38.10575,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ila Babu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8381592
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"7cf121ff0e174a25434552967952e79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758345,
+            "locality_id":1310514621,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1310514621,
+    "wof:lastmodified":1536903828,
+    "wof:name":"Ila Babu",
+    "wof:parent_id":1108758345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.10575,
+    17.25396,
+    38.10575,
+    17.25396
+],
+  "geometry": {"coordinates":[38.10575,17.25396],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327356197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.92549,15.42551,38.92549,15.42551",
+    "geom:latitude":15.42551,
+    "geom:longitude":38.92549,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Beleza",
+    "gn:country_code":"ER",
+    "gn:dem":2428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":342412,
+    "gn:latitude":15.42551,
+    "gn:longitude":38.92549,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Beleza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belesa",
+        "Beleza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805925,
+        1108758311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":342412
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"58319c421eca64eb8eac7ba8e3ab18ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758311,
+            "locality_id":1327356197,
+            "region_id":1108805925
+        }
+    ],
+    "wof:id":1327356197,
+    "wof:lastmodified":1537621307,
+    "wof:name":"Beleza",
+    "wof:parent_id":1108758311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.92549,
+    15.42551,
+    38.92549,
+    15.42551
+],
+  "geometry": {"coordinates":[38.92549,15.42551],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292938897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.56632,15.20626,37.56632,15.20626",
+    "geom:latitude":15.20626,
+    "geom:longitude":37.56632,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kekeda",
+    "gn:country_code":"ER",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8382948,
+    "gn:latitude":15.20626,
+    "gn:longitude":37.56632,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Kekeda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8382948
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"3bbc013871d1c22a5ac161cd43b51610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758333,
+            "locality_id":1292938897,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1292938897,
+    "wof:lastmodified":1537077892,
+    "wof:name":"Kekeda",
+    "wof:parent_id":1108758333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.56632000000001,
+    15.20626,
+    37.56632000000001,
+    15.20626
+],
+  "geometry": {"coordinates":[37.56632000000001,15.20626],"type":"Point"}
+}

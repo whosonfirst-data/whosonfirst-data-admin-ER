@@ -1,0 +1,67 @@
+{
+  "id": 1309828355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.51374,15.3061,39.51374,15.3061",
+    "geom:latitude":15.3061,
+    "geom:longitude":39.51374,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Wi'a",
+    "gn:country_code":"ER",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416446,
+    "gn:latitude":15.3061,
+    "gn:longitude":39.51374,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Wi\u2019a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416446
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"b2c0a90c0a2934247e30150c269fbc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758351,
+            "locality_id":1309828355,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1309828355,
+    "wof:lastmodified":1536898579,
+    "wof:name":"Wi'a",
+    "wof:parent_id":1108758351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.51374000000001,
+    15.3061,
+    39.51374000000001,
+    15.3061
+],
+  "geometry": {"coordinates":[39.51374000000001,15.3061],"type":"Point"}
+}

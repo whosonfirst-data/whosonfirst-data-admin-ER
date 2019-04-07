@@ -1,0 +1,67 @@
+{
+  "id": 1344179213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.4,15.6,39.4,15.6",
+    "geom:latitude":15.6,
+    "geom:longitude":39.4,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zaga",
+    "gn:country_code":"ER",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325754,
+    "gn:latitude":15.6,
+    "gn:longitude":39.4,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Zaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325754
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"b137316329e9c607eb72b732c68b9be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758361,
+            "locality_id":1344179213,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1344179213,
+    "wof:lastmodified":1536704557,
+    "wof:name":"Zaga",
+    "wof:parent_id":1108758361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.4,
+    15.6,
+    39.4,
+    15.6
+],
+  "geometry": {"coordinates":[39.4,15.6],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310418799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.29813,14.47655,39.29813,14.47655",
+    "geom:latitude":14.47655,
+    "geom:longitude":39.29813,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bok'lo",
+    "gn:country_code":"ER",
+    "gn:dem":1922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341827,
+    "gn:latitude":14.47655,
+    "gn:longitude":39.29813,
+    "gn:modification_date":"2008-02-14",
+    "gn:name":"Bok\u2019lo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341827
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"1facdc783160e6a4e5762057eead051c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758401,
+            "locality_id":1310418799,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1310418799,
+    "wof:lastmodified":1537040318,
+    "wof:name":"Bok'lo",
+    "wof:parent_id":1108758401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.29813,
+    14.47655,
+    39.29813,
+    14.47655
+],
+  "geometry": {"coordinates":[39.29813,14.47655],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310413415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.96046,14.55772,40.96046,14.55772",
+    "geom:latitude":14.55772,
+    "geom:longitude":40.96046,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ona",
+    "gn:country_code":"ER",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329877,
+    "gn:latitude":14.55772,
+    "gn:longitude":40.96046,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329877
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"1453f8bd0a6af711c1cd6592b9b6fe77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758367,
+            "locality_id":1310413415,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1310413415,
+    "wof:lastmodified":1537047775,
+    "wof:name":"Ona",
+    "wof:parent_id":1108758367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.96046,
+    14.55772,
+    40.96046,
+    14.55772
+],
+  "geometry": {"coordinates":[40.96046,14.55772],"type":"Point"}
+}

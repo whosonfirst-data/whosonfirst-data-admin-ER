@@ -1,0 +1,67 @@
+{
+  "id": 1243276681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.94244,16.14018,38.94244,16.14018",
+    "geom:latitude":16.14018,
+    "geom:longitude":38.94244,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Obellet",
+    "gn:country_code":"ER",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330016,
+    "gn:latitude":16.14018,
+    "gn:longitude":38.94244,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Obellet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330016
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"341eb1edce6d0acaa4d115752c2157eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758347,
+            "locality_id":1243276681,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1243276681,
+    "wof:lastmodified":1537048180,
+    "wof:name":"Obellet",
+    "wof:parent_id":1108758347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.94244000000001,
+    16.14017999999999,
+    38.94244000000001,
+    16.14017999999999
+],
+  "geometry": {"coordinates":[38.94244000000001,16.14017999999999],"type":"Point"}
+}

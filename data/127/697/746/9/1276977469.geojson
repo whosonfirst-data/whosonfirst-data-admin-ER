@@ -1,0 +1,71 @@
+{
+  "id": 1276977469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.46685,15.92657,38.46685,15.92657",
+    "geom:latitude":15.92657,
+    "geom:longitude":38.46685,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gabena Gonfalon",
+    "gn:country_code":"ER",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337556,
+    "gn:latitude":15.92657,
+    "gn:longitude":38.46685,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Gabena Gonfalon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gabena",
+        "Gabena Gonfalon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337556
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"0b1b27f29a3e3ce50e6e83e5d77ff71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758289,
+            "locality_id":1276977469,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1276977469,
+    "wof:lastmodified":1537621302,
+    "wof:name":"Gabena Gonfalon",
+    "wof:parent_id":1108758289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.46685,
+    15.92657,
+    38.46685,
+    15.92657
+],
+  "geometry": {"coordinates":[38.46685,15.92657],"type":"Point"}
+}

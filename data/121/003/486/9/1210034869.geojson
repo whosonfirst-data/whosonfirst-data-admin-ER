@@ -1,0 +1,66 @@
+{
+  "id": 1210034869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.44,14.54,39.44,14.54",
+    "geom:latitude":14.54,
+    "geom:longitude":39.44,
+    "gn:asciiname":"Gulomahda",
+    "gn:country_code":"ER",
+    "gn:dem":2184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643641,
+    "gn:latitude":14.54,
+    "gn:longitude":39.44,
+    "gn:modification_date":"2013-12-04",
+    "gn:name":"Gulomahda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643641
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"d6b1e72797e635cc61e1e641db7b025c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758399,
+            "locality_id":1210034869,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1210034869,
+    "wof:lastmodified":1536386940,
+    "wof:name":"Gulomahda",
+    "wof:parent_id":1108758399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.44,
+    14.54,
+    39.44,
+    14.54
+],
+  "geometry": {"coordinates":[39.44,14.54],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293888485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.87972,15.3675,38.87972,15.3675",
+    "geom:latitude":15.3675,
+    "geom:longitude":38.87972,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Wek Diba",
+    "gn:country_code":"ER",
+    "gn:dem":2351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326448,
+    "gn:latitude":15.3675,
+    "gn:longitude":38.87972,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Wek Diba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805925,
+        1108758297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326448
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"52eb84ce01f14bbdfe98f3e24d7080dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758297,
+            "locality_id":1293888485,
+            "region_id":1108805925
+        }
+    ],
+    "wof:id":1293888485,
+    "wof:lastmodified":1536706395,
+    "wof:name":"Wek Diba",
+    "wof:parent_id":1108758297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.87972,
+    15.3675,
+    38.87972,
+    15.3675
+],
+  "geometry": {"coordinates":[38.87972,15.3675],"type":"Point"}
+}

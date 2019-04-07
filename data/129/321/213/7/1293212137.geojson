@@ -1,0 +1,75 @@
+{
+  "id": 1293212137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.33114,13.78676,41.33114,13.78676",
+    "geom:latitude":13.78676,
+    "geom:longitude":41.33114,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bel'ebuy",
+    "gn:country_code":"ER",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":341459,
+    "gn:latitude":13.78676,
+    "gn:longitude":41.33114,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Bel\u2019ebuy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buluc Bu\u012b",
+        "Buluc Buij",
+        "Buluk-Buydzh",
+        "Bel\u2019ebuy",
+        "Balobi",
+        "Buluo Buij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":341459
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"535e09c3da71a3c99958a1e2a981e024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758373,
+            "locality_id":1293212137,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1293212137,
+    "wof:lastmodified":1537621307,
+    "wof:name":"Bel'ebuy",
+    "wof:parent_id":1108758373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.33114000000001,
+    13.78676,
+    41.33114000000001,
+    13.78676
+],
+  "geometry": {"coordinates":[41.33114000000001,13.78676],"type":"Point"}
+}

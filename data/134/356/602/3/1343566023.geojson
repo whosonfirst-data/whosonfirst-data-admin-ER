@@ -1,0 +1,67 @@
+{
+  "id": 1343566023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.84381,15.54674,38.84381,15.54674",
+    "geom:latitude":15.54674,
+    "geom:longitude":38.84381,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Guritat",
+    "gn:country_code":"ER",
+    "gn:dem":2295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335443,
+    "gn:latitude":15.54674,
+    "gn:longitude":38.84381,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Gur\u012btat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805925,
+        1108758311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335443
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"15c29af31e59da2070c7d66176e25125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758311,
+            "locality_id":1343566023,
+            "region_id":1108805925
+        }
+    ],
+    "wof:id":1343566023,
+    "wof:lastmodified":1537088185,
+    "wof:name":"Guritat",
+    "wof:parent_id":1108758311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.84381,
+    15.54674,
+    38.84381,
+    15.54674
+],
+  "geometry": {"coordinates":[38.84381,15.54674],"type":"Point"}
+}

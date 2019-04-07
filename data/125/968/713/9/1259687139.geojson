@@ -1,0 +1,67 @@
+{
+  "id": 1259687139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.65944,14.66972,38.65944,14.66972",
+    "geom:latitude":14.66972,
+    "geom:longitude":38.65944,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Eur",
+    "gn:country_code":"ER",
+    "gn:dem":1636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6419092,
+    "gn:latitude":14.66972,
+    "gn:longitude":38.65944,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Adi Eur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6419092
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"f8803eb3991da0c150eb119cb90c3fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758387,
+            "locality_id":1259687139,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1259687139,
+    "wof:lastmodified":1537059131,
+    "wof:name":"Adi Eur",
+    "wof:parent_id":1108758387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.65944,
+    14.66972,
+    38.65944,
+    14.66972
+],
+  "geometry": {"coordinates":[38.65944,14.66972],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310118837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.64128,15.20921,38.64128,15.20921",
+    "geom:latitude":15.20921,
+    "geom:longitude":38.64128,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Grar Gabru",
+    "gn:country_code":"ER",
+    "gn:dem":1941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335810,
+    "gn:latitude":15.20921,
+    "gn:longitude":38.64128,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Grar Gabru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grat Gabru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335810
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"cde197c137a9edafe8249c30af12d86b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758335,
+            "locality_id":1310118837,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1310118837,
+    "wof:lastmodified":1537621301,
+    "wof:name":"Grar Gabru",
+    "wof:parent_id":1108758335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.64128,
+    15.20921,
+    38.64128,
+    15.20921
+],
+  "geometry": {"coordinates":[38.64128,15.20921],"type":"Point"}
+}

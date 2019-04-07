@@ -1,0 +1,70 @@
+{
+  "id": 1226051479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.36563,15.0392,39.36563,15.0392",
+    "geom:latitude":15.0392,
+    "geom:longitude":39.36563,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tukul' Tobolo",
+    "gn:country_code":"ER",
+    "gn:dem":1564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391581,
+    "gn:latitude":15.0392,
+    "gn:longitude":39.36563,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Tukul\u2019 Tobolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tukul\u2019 Tobolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391581
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"6145720ba37b9fee22f357a006f5cf2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758377,
+            "locality_id":1226051479,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1226051479,
+    "wof:lastmodified":1537621324,
+    "wof:name":"Tukul' Tobolo",
+    "wof:parent_id":1108758377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.36563,
+    15.0392,
+    39.36563,
+    15.0392
+],
+  "geometry": {"coordinates":[39.36563,15.0392],"type":"Point"}
+}

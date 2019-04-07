@@ -1,0 +1,71 @@
+{
+  "id": 1276439133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.75483,15.47781,39.75483,15.47781",
+    "geom:latitude":15.47781,
+    "geom:longitude":39.75483,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dissei",
+    "gn:country_code":"ER",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":338794,
+    "gn:latitude":15.47781,
+    "gn:longitude":39.75483,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Dissei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Disei",
+        "Dissei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":338794
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"5a2ee08cbc6dc9671cc0daf32fd4c3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1276439133,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1276439133,
+    "wof:lastmodified":1537621303,
+    "wof:name":"Dissei",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.75483,
+    15.47781,
+    39.75483,
+    15.47781
+],
+  "geometry": {"coordinates":[39.75483,15.47781],"type":"Point"}
+}

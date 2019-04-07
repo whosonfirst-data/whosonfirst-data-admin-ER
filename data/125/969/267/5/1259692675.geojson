@@ -1,0 +1,67 @@
+{
+  "id": 1259692675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.87361,14.59694,38.87361,14.59694",
+    "geom:latitude":14.59694,
+    "geom:longitude":38.87361,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Edug",
+    "gn:country_code":"ER",
+    "gn:dem":2031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6418897,
+    "gn:latitude":14.59694,
+    "gn:longitude":38.87361,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Adi Edug",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6418897
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"30bca03bb044245dc1a437ed881b9529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758379,
+            "locality_id":1259692675,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1259692675,
+    "wof:lastmodified":1537051519,
+    "wof:name":"Adi Edug",
+    "wof:parent_id":1108758379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.87361,
+    14.59694,
+    38.87361,
+    14.59694
+],
+  "geometry": {"coordinates":[38.87361,14.59694],"type":"Point"}
+}

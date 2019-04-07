@@ -1,0 +1,71 @@
+{
+  "id": 1293096139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.97167,15.76417,39.97167,15.76417",
+    "geom:latitude":15.76417,
+    "geom:longitude":39.97167,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Melil",
+    "gn:country_code":"ER",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331115,
+    "gn:latitude":15.76417,
+    "gn:longitude":39.97167,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Mel\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Melill",
+        "Mel\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331115
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"72f97869118a3520e5e6ebcf64d1c612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758349,
+            "locality_id":1293096139,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1293096139,
+    "wof:lastmodified":1537621293,
+    "wof:name":"Melil",
+    "wof:parent_id":1108758349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.97167,
+    15.76417,
+    39.97167,
+    15.76417
+],
+  "geometry": {"coordinates":[39.97167,15.76417],"type":"Point"}
+}

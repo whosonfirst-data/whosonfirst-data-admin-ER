@@ -1,0 +1,74 @@
+{
+  "id": 1309801097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.04424,14.76381,40.04424,14.76381",
+    "geom:latitude":14.76381,
+    "geom:longitude":40.04424,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mocolba",
+    "gn:country_code":"ER",
+    "gn:dem":-18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330523,
+    "gn:latitude":14.76381,
+    "gn:longitude":40.04424,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mocolba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043a\u043e\u043b\u044c\u0431\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mokol'ba",
+        "Mocolba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330523
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"6e3f13fec431ff0ab1c12cf6ef193060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1309801097,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1309801097,
+    "wof:lastmodified":1537621293,
+    "wof:name":"Mocolba",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.04424,
+    14.76381,
+    40.04424,
+    14.76381
+],
+  "geometry": {"coordinates":[40.04424,14.76381],"type":"Point"}
+}

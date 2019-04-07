@@ -1,0 +1,61 @@
+{
+  "id": 1209507557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.59052,14.93172,39.59052,14.93172",
+    "geom:latitude":14.93172,
+    "geom:longitude":39.59052,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ferkala",
+    "gn:country_code":"ER",
+    "gn:dem":1403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6661319,
+    "gn:latitude":14.93172,
+    "gn:longitude":39.59052,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ferkala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6661319
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"cb7fe53d4225728d86238531224bcd06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209507557
+        }
+    ],
+    "wof:id":1209507557,
+    "wof:lastmodified":1536284986,
+    "wof:name":"Ferkala",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.59052,
+    14.93172,
+    39.59052,
+    14.93172
+],
+  "geometry": {"coordinates":[39.59052,14.93172],"type":"Point"}
+}

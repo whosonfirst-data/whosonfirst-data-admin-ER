@@ -1,0 +1,67 @@
+{
+  "id": 1327229023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.25163,15.25293,39.25163,15.25293",
+    "geom:latitude":15.25293,
+    "geom:longitude":39.25163,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mara",
+    "gn:country_code":"ER",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331565,
+    "gn:latitude":15.25293,
+    "gn:longitude":39.25163,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Mara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331565
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"b5804a9375ef962d7af5be24945fb4e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758351,
+            "locality_id":1327229023,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1327229023,
+    "wof:lastmodified":1536974044,
+    "wof:name":"Mara",
+    "wof:parent_id":1108758351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.25163,
+    15.25293,
+    39.25163,
+    15.25293
+],
+  "geometry": {"coordinates":[39.25163,15.25293],"type":"Point"}
+}

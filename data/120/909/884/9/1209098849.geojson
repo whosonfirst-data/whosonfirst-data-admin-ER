@@ -1,0 +1,61 @@
+{
+  "id": 1209098849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.46952,15.20592,39.46952,15.20592",
+    "geom:latitude":15.20592,
+    "geom:longitude":39.46952,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kaktakar",
+    "gn:country_code":"ER",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391302,
+    "gn:latitude":15.20592,
+    "gn:longitude":39.46952,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Kaktakar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391302
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"1b1cd2bb28bf5b84e73c649cd06263e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209098849
+        }
+    ],
+    "wof:id":1209098849,
+    "wof:lastmodified":1536297799,
+    "wof:name":"Kaktakar",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.46952,
+    15.20592,
+    39.46952,
+    15.20592
+],
+  "geometry": {"coordinates":[39.46952,15.20592],"type":"Point"}
+}

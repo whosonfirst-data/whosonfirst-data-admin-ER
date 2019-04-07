@@ -1,0 +1,67 @@
+{
+  "id": 1226782559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.44723,15.1744,37.44723,15.1744",
+    "geom:latitude":15.1744,
+    "geom:longitude":37.44723,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Logodat",
+    "gn:country_code":"ER",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8382436,
+    "gn:latitude":15.1744,
+    "gn:longitude":37.44723,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Logodat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8382436
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"dc75ad4a291262982fbb0fc80f3e90b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758323,
+            "locality_id":1226782559,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1226782559,
+    "wof:lastmodified":1536662572,
+    "wof:name":"Logodat",
+    "wof:parent_id":1108758323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.44723,
+    15.1744,
+    37.44723,
+    15.1744
+],
+  "geometry": {"coordinates":[37.44723,15.1744],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242580831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.93333,14.94806,38.93333,14.94806",
+    "geom:latitude":14.94806,
+    "geom:longitude":38.93333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ad Finne",
+    "gn:country_code":"ER",
+    "gn:dem":1820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345340,
+    "gn:latitude":14.94806,
+    "gn:longitude":38.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ad Finne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi Finne",
+        "Ad Finne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345340
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"ae2e56a0a95eaa5e6eefb4ccc1bd8b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758395,
+            "locality_id":1242580831,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1242580831,
+    "wof:lastmodified":1537621315,
+    "wof:name":"Ad Finne",
+    "wof:parent_id":1108758395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.93333,
+    14.94806,
+    38.93333,
+    14.94806
+],
+  "geometry": {"coordinates":[38.93333,14.94806],"type":"Point"}
+}

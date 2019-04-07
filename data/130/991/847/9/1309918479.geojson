@@ -1,0 +1,67 @@
+{
+  "id": 1309918479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.14712,15.0199,39.14712,15.0199",
+    "geom:latitude":15.0199,
+    "geom:longitude":39.14712,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Anesti",
+    "gn:country_code":"ER",
+    "gn:dem":2114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391774,
+    "gn:latitude":15.0199,
+    "gn:longitude":39.14712,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Adi Anesti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391774
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"1020385e7be616fc0d685eaed12f556b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758397,
+            "locality_id":1309918479,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1309918479,
+    "wof:lastmodified":1536769080,
+    "wof:name":"Adi Anesti",
+    "wof:parent_id":1108758397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.14712,
+    15.0199,
+    39.14712,
+    15.0199
+],
+  "geometry": {"coordinates":[39.14712,15.0199],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259796697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.52778,14.79111,38.52778,14.79111",
+    "geom:latitude":14.79111,
+    "geom:longitude":38.52778,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Essaha",
+    "gn:country_code":"ER",
+    "gn:dem":2088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345211,
+    "gn:latitude":14.79111,
+    "gn:longitude":38.52778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Adi Essaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi Essakha",
+        "Adi Essaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345211
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"9e8b39a52a9802bc5f2082c0dd8aa891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758381,
+            "locality_id":1259796697,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1259796697,
+    "wof:lastmodified":1537621314,
+    "wof:name":"Adi Essaha",
+    "wof:parent_id":1108758381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.52778,
+    14.79111,
+    38.52778,
+    14.79111
+],
+  "geometry": {"coordinates":[38.52778,14.79111],"type":"Point"}
+}

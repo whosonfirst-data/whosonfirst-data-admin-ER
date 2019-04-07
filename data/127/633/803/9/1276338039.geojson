@@ -1,0 +1,67 @@
+{
+  "id": 1276338039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.57926,16.07967,38.57926,16.07967",
+    "geom:latitude":16.07967,
+    "geom:longitude":38.57926,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kelhamet",
+    "gn:country_code":"ER",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8382415,
+    "gn:latitude":16.07967,
+    "gn:longitude":38.57926,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Kelhamet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8382415
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"06b1de6a833a51b3fc6509cf28d5b748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758347,
+            "locality_id":1276338039,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1276338039,
+    "wof:lastmodified":1536772745,
+    "wof:name":"Kelhamet",
+    "wof:parent_id":1108758347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.57926,
+    16.07967,
+    38.57926,
+    16.07967
+],
+  "geometry": {"coordinates":[38.57926,16.07967],"type":"Point"}
+}

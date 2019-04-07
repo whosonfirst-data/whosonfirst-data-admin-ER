@@ -1,0 +1,70 @@
+{
+  "id": 1276456319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.02306,14.96944,39.02306,14.96944",
+    "geom:latitude":14.96944,
+    "geom:longitude":39.02306,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gudal'ti",
+    "gn:country_code":"ER",
+    "gn:dem":1961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6420316,
+    "gn:latitude":14.96944,
+    "gn:longitude":39.02306,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gudal\u2019ti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gudal\u2019ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6420316
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"49b2d3c163b19c3e2a88c551a0514e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758385,
+            "locality_id":1276456319,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1276456319,
+    "wof:lastmodified":1537621322,
+    "wof:name":"Gudal'ti",
+    "wof:parent_id":1108758385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.02306,
+    14.96944,
+    39.02306,
+    14.96944
+],
+  "geometry": {"coordinates":[39.02306,14.96944],"type":"Point"}
+}

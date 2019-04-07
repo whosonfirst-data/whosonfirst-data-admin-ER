@@ -1,0 +1,67 @@
+{
+  "id": 1343371759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.68861,14.97306,38.68861,14.97306",
+    "geom:latitude":14.97306,
+    "geom:longitude":38.68861,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Uatot",
+    "gn:country_code":"ER",
+    "gn:dem":2110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6419564,
+    "gn:latitude":14.97306,
+    "gn:longitude":38.68861,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Adi Uatot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6419564
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"7f117c20b538ace743fca974653d04b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758395,
+            "locality_id":1343371759,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1343371759,
+    "wof:lastmodified":1536873145,
+    "wof:name":"Adi Uatot",
+    "wof:parent_id":1108758395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.68861,
+    14.97306,
+    38.68861,
+    14.97306
+],
+  "geometry": {"coordinates":[38.68861,14.97306],"type":"Point"}
+}

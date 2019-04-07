@@ -1,0 +1,67 @@
+{
+  "id": 1243267009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.0305,16.36052,39.0305,16.36052",
+    "geom:latitude":16.36052,
+    "geom:longitude":39.0305,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"M'etr",
+    "gn:country_code":"ER",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8385326,
+    "gn:latitude":16.36052,
+    "gn:longitude":39.0305,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"M\u2019etr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8385326
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"c8c3a878fb4951632fd03d44eb3c1628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758347,
+            "locality_id":1243267009,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1243267009,
+    "wof:lastmodified":1537061436,
+    "wof:name":"M'etr",
+    "wof:parent_id":1108758347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.0305,
+    16.36052,
+    39.0305,
+    16.36052
+],
+  "geometry": {"coordinates":[39.0305,16.36052],"type":"Point"}
+}

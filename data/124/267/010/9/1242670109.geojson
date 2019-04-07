@@ -1,0 +1,68 @@
+{
+  "id": 1242670109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.01667,15.68333,40.01667,15.68333",
+    "geom:latitude":15.68333,
+    "geom:longitude":40.01667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dehalak' Kebir",
+    "gn:country_code":"ER",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":339563,
+    "gn:latitude":15.68333,
+    "gn:longitude":40.01667,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Dehalak\u2019 Keb\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dahlac Chebir",
+        "Dahlak Keb\u012br",
+        "Daalac Chebir",
+        "Dehalak\u2019 Keb\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":339563,
+        "wk:page":"Dahlak_Kebir"
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"2e7574aadba1f3d4ac22e2fb2ad59205",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242670109,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242670109,
+    "wof:lastmodified":1537621304,
+    "wof:name":"Dehalak' Kebir",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.01667,
+    15.68333,
+    40.01667,
+    15.68333
+],
+  "geometry": {"coordinates":[40.01667,15.68333],"type":"Point"}
+}

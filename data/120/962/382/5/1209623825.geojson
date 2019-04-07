@@ -1,0 +1,68 @@
+{
+  "id": 1209623825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.56583,14.92694,38.56583,14.92694",
+    "geom:latitude":14.92694,
+    "geom:longitude":38.56583,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Areza",
+    "gn:country_code":"ER",
+    "gn:dem":2008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343554,
+    "gn:latitude":14.92694,
+    "gn:longitude":38.56583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100reza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arresa",
+        "Aresa",
+        "Arreza",
+        "\u0100reza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343554,
+        "wk:page":"Areza"
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"c52d09ba86e37449564750c68e846c1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209623825
+        }
+    ],
+    "wof:id":1209623825,
+    "wof:lastmodified":1537621309,
+    "wof:name":"Areza",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.56583,
+    14.92694,
+    38.56583,
+    14.92694
+],
+  "geometry": {"coordinates":[38.56583,14.92694],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343765085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.32832,14.99857,39.32832,14.99857",
+    "geom:latitude":14.99857,
+    "geom:longitude":39.32832,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Halay",
+    "gn:country_code":"ER",
+    "gn:dem":2574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335235,
+    "gn:latitude":14.99857,
+    "gn:longitude":39.32832,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Halay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Halal",
+        "Halay",
+        "Khalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335235
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"b500a538f15e8a5453f60528fadc6e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758377,
+            "locality_id":1343765085,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1343765085,
+    "wof:lastmodified":1537621300,
+    "wof:name":"Halay",
+    "wof:parent_id":1108758377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.32832,
+    14.99857,
+    39.32832,
+    14.99857
+],
+  "geometry": {"coordinates":[39.32832,14.99857],"type":"Point"}
+}

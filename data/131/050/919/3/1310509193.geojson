@@ -1,0 +1,72 @@
+{
+  "id": 1310509193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.23585,14.47843,41.23585,14.47843",
+    "geom:latitude":14.47843,
+    "geom:longitude":41.23585,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Afahani",
+    "gn:country_code":"ER",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344777,
+    "gn:latitude":14.47843,
+    "gn:longitude":41.23585,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"\u0100fahan\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100fahan\u012b",
+        "Afakhani",
+        "Afahani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344777
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"c6f5d11a0e8cfad5b0d81c964fc5cfe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758367,
+            "locality_id":1310509193,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1310509193,
+    "wof:lastmodified":1537621310,
+    "wof:name":"Afahani",
+    "wof:parent_id":1108758367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.23585,
+    14.47843,
+    41.23585,
+    14.47843
+],
+  "geometry": {"coordinates":[41.23585,14.47843],"type":"Point"}
+}

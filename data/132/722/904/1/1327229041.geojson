@@ -1,0 +1,72 @@
+{
+  "id": 1327229041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.93778,15.70444,39.93778,15.70444",
+    "geom:latitude":15.70444,
+    "geom:longitude":39.93778,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nokra",
+    "gn:country_code":"ER",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":330071,
+    "gn:latitude":15.70444,
+    "gn:longitude":39.93778,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Nokra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noora",
+        "Nocra",
+        "Nokra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":330071
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"c9c02332915350033371b5f378da5b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758349,
+            "locality_id":1327229041,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1327229041,
+    "wof:lastmodified":1537621292,
+    "wof:name":"Nokra",
+    "wof:parent_id":1108758349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.93778,
+    15.70444,
+    39.93778,
+    15.70444
+],
+  "geometry": {"coordinates":[39.93778,15.70444],"type":"Point"}
+}

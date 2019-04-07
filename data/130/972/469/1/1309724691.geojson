@@ -1,0 +1,72 @@
+{
+  "id": 1309724691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.82664,15.00955,38.82664,15.00955",
+    "geom:latitude":15.00955,
+    "geom:longitude":38.82664,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tera-Emni",
+    "gn:country_code":"ER",
+    "gn:dem":1947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327688,
+    "gn:latitude":15.00955,
+    "gn:longitude":38.82664,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Tera-Emn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tera Imn\u012b",
+        "Teramni",
+        "Tera-Emn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327688
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"cb2e2379ccc9d0cd2c355b8e3c109878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758383,
+            "locality_id":1309724691,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1309724691,
+    "wof:lastmodified":1537621289,
+    "wof:name":"Tera-Emni",
+    "wof:parent_id":1108758383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.82664000000001,
+    15.00955,
+    38.82664000000001,
+    15.00955
+],
+  "geometry": {"coordinates":[38.82664000000001,15.00955],"type":"Point"}
+}

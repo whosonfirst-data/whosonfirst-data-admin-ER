@@ -1,0 +1,71 @@
+{
+  "id": 1360203095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.57861,14.915,37.57861,14.915",
+    "geom:latitude":14.915,
+    "geom:longitude":37.57861,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Fode",
+    "gn:country_code":"ER",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":337677,
+    "gn:latitude":14.915,
+    "gn:longitude":37.57861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fode",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fade",
+        "Fode"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":337677
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"76ef93a8ee5d4f25d5604192e33ee94d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758323,
+            "locality_id":1360203095,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1360203095,
+    "wof:lastmodified":1537621302,
+    "wof:name":"Fode",
+    "wof:parent_id":1108758323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.57861,
+    14.915,
+    37.57861,
+    14.915
+],
+  "geometry": {"coordinates":[37.57861,14.915],"type":"Point"}
+}

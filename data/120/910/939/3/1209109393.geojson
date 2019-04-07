@@ -1,0 +1,61 @@
+{
+  "id": 1209109393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.175,14.78889,39.175,14.78889",
+    "geom:latitude":14.78889,
+    "geom:longitude":39.175,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Gaad",
+    "gn:country_code":"ER",
+    "gn:dem":1854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345197,
+    "gn:latitude":14.78889,
+    "gn:longitude":39.175,
+    "gn:modification_date":"2007-02-14",
+    "gn:name":"Adi Gaad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345197
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"77ae1f46b0c6bbcd9535b2670bd7ceb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209109393
+        }
+    ],
+    "wof:id":1209109393,
+    "wof:lastmodified":1536297457,
+    "wof:name":"Adi Gaad",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.175,
+    14.78889,
+    39.175,
+    14.78889
+],
+  "geometry": {"coordinates":[39.175,14.78889],"type":"Point"}
+}

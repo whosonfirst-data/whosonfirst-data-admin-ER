@@ -1,0 +1,67 @@
+{
+  "id": 1293511683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.75,15.88333,38.75,15.88333",
+    "geom:latitude":15.88333,
+    "geom:longitude":38.75,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Abna",
+    "gn:country_code":"ER",
+    "gn:dem":1922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345721,
+    "gn:latitude":15.88333,
+    "gn:longitude":38.75,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Abna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345721
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"dfb683ac2ef802f93c7f83a99c592c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758279,
+            "locality_id":1293511683,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1293511683,
+    "wof:lastmodified":1536752157,
+    "wof:name":"Abna",
+    "wof:parent_id":1108758279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.75,
+    15.88333,
+    38.75,
+    15.88333
+],
+  "geometry": {"coordinates":[38.75,15.88333],"type":"Point"}
+}

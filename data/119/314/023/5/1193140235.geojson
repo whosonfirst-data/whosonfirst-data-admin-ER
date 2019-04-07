@@ -1,0 +1,72 @@
+{
+  "id": 1193140235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.80417,14.56194,38.80417,14.56194",
+    "geom:latitude":14.56194,
+    "geom:longitude":38.80417,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adis `Alem",
+    "gn:country_code":"ER",
+    "gn:dem":1681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344974,
+    "gn:latitude":14.56194,
+    "gn:longitude":38.80417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100d\u012bs \u2018Alem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100d\u012bs \u2018\u0100lem (1)",
+        "Addis Alem 1",
+        "\u0100d\u012bs \u2018Alem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344974
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"d0748a73189d5bb26a0257c0d4031e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758379,
+            "locality_id":1193140235,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1193140235,
+    "wof:lastmodified":1537621311,
+    "wof:name":"Adis `Alem",
+    "wof:parent_id":1108758379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.80417,
+    14.56194,
+    38.80417,
+    14.56194
+],
+  "geometry": {"coordinates":[38.80417,14.56194],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259475925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.48005,15.13582,39.48005,15.13582",
+    "geom:latitude":15.13582,
+    "geom:longitude":39.48005,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tukul' Massaylale",
+    "gn:country_code":"ER",
+    "gn:dem":1335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8391507,
+    "gn:latitude":15.13582,
+    "gn:longitude":39.48005,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Tukul\u2019 Massaylale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tukul\u2019 Massaylale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8391507
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"79ab29b4cce45bfb82376ebe172c71e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758351,
+            "locality_id":1259475925,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1259475925,
+    "wof:lastmodified":1537621323,
+    "wof:name":"Tukul' Massaylale",
+    "wof:parent_id":1108758351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.48005,
+    15.13582,
+    39.48005,
+    15.13582
+],
+  "geometry": {"coordinates":[39.48005,15.13582],"type":"Point"}
+}

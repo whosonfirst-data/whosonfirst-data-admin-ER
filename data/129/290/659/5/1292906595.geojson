@@ -1,0 +1,71 @@
+{
+  "id": 1292906595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.74667,14.78194,38.74667,14.78194",
+    "geom:latitude":14.78194,
+    "geom:longitude":38.74667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ad Zeban Sebao",
+    "gn:country_code":"ER",
+    "gn:dem":1760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344788,
+    "gn:latitude":14.78194,
+    "gn:longitude":38.74667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ad Zeban Sebao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi Zeban Sebas",
+        "Ad Zeban Sebao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344788
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"ea2fb3247ef35e7dbc2472b73f879c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758387,
+            "locality_id":1292906595,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1292906595,
+    "wof:lastmodified":1537621310,
+    "wof:name":"Ad Zeban Sebao",
+    "wof:parent_id":1108758387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.74667,
+    14.78194,
+    38.74667,
+    14.78194
+],
+  "geometry": {"coordinates":[38.74667,14.78194],"type":"Point"}
+}

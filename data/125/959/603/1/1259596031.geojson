@@ -1,0 +1,71 @@
+{
+  "id": 1259596031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.07103,15.04489,39.07103,15.04489",
+    "geom:latitude":15.04489,
+    "geom:longitude":39.07103,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Kharem",
+    "gn:country_code":"ER",
+    "gn:dem":2089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8380773,
+    "gn:latitude":15.04489,
+    "gn:longitude":39.07103,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Adi Kharem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100d\u012b Kharem",
+        "Adi Kharem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8380773
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"58f31441438b6acb3963528b43794b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758385,
+            "locality_id":1259596031,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1259596031,
+    "wof:lastmodified":1537621323,
+    "wof:name":"Adi Kharem",
+    "wof:parent_id":1108758385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.07103,
+    15.04489,
+    39.07103,
+    15.04489
+],
+  "geometry": {"coordinates":[39.07103,15.04489],"type":"Point"}
+}

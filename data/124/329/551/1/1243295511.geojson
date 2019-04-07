@@ -1,0 +1,73 @@
+{
+  "id": 1243295511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.82026,15.50948,38.82026,15.50948",
+    "geom:latitude":15.50948,
+    "geom:longitude":38.82026,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mebasit",
+    "gn:country_code":"ER",
+    "gn:dem":2292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331347,
+    "gn:latitude":15.50948,
+    "gn:longitude":38.82026,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Mebas\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad Accal\u00f2m",
+        "Ad Accolom",
+        "Mebas\u012bt",
+        "Akkalom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805925,
+        1108758311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331347
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"3a952196491a8e79d7479adeeb02d102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758311,
+            "locality_id":1243295511,
+            "region_id":1108805925
+        }
+    ],
+    "wof:id":1243295511,
+    "wof:lastmodified":1537621294,
+    "wof:name":"Mebasit",
+    "wof:parent_id":1108758311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.82026,
+    15.50948,
+    38.82026,
+    15.50948
+],
+  "geometry": {"coordinates":[38.82026,15.50948],"type":"Point"}
+}

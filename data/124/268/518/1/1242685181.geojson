@@ -1,0 +1,70 @@
+{
+  "id": 1242685181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.75655,12.83896,42.75655,12.83896",
+    "geom:latitude":12.83896,
+    "geom:longitude":42.75655,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Harsile",
+    "gn:country_code":"ER",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334901,
+    "gn:latitude":12.83896,
+    "gn:longitude":42.75655,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Harsile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hars\u012bl\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334901
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"b4de75cd98cd17aec2cd59dd53e2454c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758371,
+            "locality_id":1242685181,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1242685181,
+    "wof:lastmodified":1537621300,
+    "wof:name":"Harsile",
+    "wof:parent_id":1108758371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.75655,
+    12.83896,
+    42.75655,
+    12.83896
+],
+  "geometry": {"coordinates":[42.75655,12.83896],"type":"Point"}
+}

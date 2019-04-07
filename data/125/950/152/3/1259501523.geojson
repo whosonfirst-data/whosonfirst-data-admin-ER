@@ -1,0 +1,71 @@
+{
+  "id": 1259501523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.48,14.91861,38.48,14.91861",
+    "geom:latitude":14.91861,
+    "geom:longitude":38.48,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Adi Maharna",
+    "gn:country_code":"ER",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6417629,
+    "gn:latitude":14.91861,
+    "gn:longitude":38.48,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Adi Maharna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi Makharna",
+        "Adi Maharna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6417629
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"89895a83b595ae33f3128ac4dd3b6a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758381,
+            "locality_id":1259501523,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1259501523,
+    "wof:lastmodified":1537621318,
+    "wof:name":"Adi Maharna",
+    "wof:parent_id":1108758381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.48,
+    14.91861,
+    38.48,
+    14.91861
+],
+  "geometry": {"coordinates":[38.48,14.91861],"type":"Point"}
+}

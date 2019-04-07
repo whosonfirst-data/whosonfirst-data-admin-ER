@@ -1,0 +1,74 @@
+{
+  "id": 1242675433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.80506,15.29359,39.80506,15.29359",
+    "geom:latitude":15.29359,
+    "geom:longitude":39.80506,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Meka'enile",
+    "gn:country_code":"ER",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331838,
+    "gn:latitude":15.29359,
+    "gn:longitude":39.80506,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Meka\u2019enile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Macanille",
+        "Macanville",
+        "Macalille",
+        "Macannile",
+        "Meka\u2019enile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331838
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"5796dc119c50af159e66c5a3d9f483a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758353,
+            "locality_id":1242675433,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1242675433,
+    "wof:lastmodified":1537621296,
+    "wof:name":"Meka'enile",
+    "wof:parent_id":1108758353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.80506,
+    15.29359,
+    39.80506,
+    15.29359
+],
+  "geometry": {"coordinates":[39.80506,15.29359],"type":"Point"}
+}

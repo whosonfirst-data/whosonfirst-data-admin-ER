@@ -1,0 +1,67 @@
+{
+  "id": 1226460545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.55,17.16667,37.55,17.16667",
+    "geom:latitude":17.16667,
+    "geom:longitude":37.55,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hacal Todaro",
+    "gn:country_code":"ER",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":335339,
+    "gn:latitude":17.16667,
+    "gn:longitude":37.55,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Hacal Todaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335339
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"74c9a1a4ec3f6b9f7887a490f259c2ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758295,
+            "locality_id":1226460545,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1226460545,
+    "wof:lastmodified":1536622115,
+    "wof:name":"Hacal Todaro",
+    "wof:parent_id":1108758295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.55,
+    17.16667,
+    37.55,
+    17.16667
+],
+  "geometry": {"coordinates":[37.55,17.16667],"type":"Point"}
+}

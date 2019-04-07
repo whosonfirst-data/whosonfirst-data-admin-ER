@@ -1,0 +1,67 @@
+{
+  "id": 1277006209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.37665,15.15174,37.37665,15.15174",
+    "geom:latitude":15.15174,
+    "geom:longitude":37.37665,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mokoro",
+    "gn:country_code":"ER",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8382705,
+    "gn:latitude":15.15174,
+    "gn:longitude":37.37665,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Mokoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671101,
+        1108758323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8382705
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"2813816214ca6aef8e130be200fd6576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758323,
+            "locality_id":1277006209,
+            "region_id":85671101
+        }
+    ],
+    "wof:id":1277006209,
+    "wof:lastmodified":1536870756,
+    "wof:name":"Mokoro",
+    "wof:parent_id":1108758323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.37665,
+    15.15174,
+    37.37665,
+    15.15174
+],
+  "geometry": {"coordinates":[37.37665,15.15174],"type":"Point"}
+}

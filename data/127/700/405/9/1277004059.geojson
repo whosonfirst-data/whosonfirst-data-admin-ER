@@ -1,0 +1,67 @@
+{
+  "id": 1277004059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6023,14.91698,39.6023,14.91698",
+    "geom:latitude":14.91698,
+    "geom:longitude":39.6023,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ezeerto",
+    "gn:country_code":"ER",
+    "gn:dem":1985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6661546,
+    "gn:latitude":14.91698,
+    "gn:longitude":39.6023,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ezeerto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6661546
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"b6c18d77891eca90fc9e31548c20dd95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758351,
+            "locality_id":1277004059,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1277004059,
+    "wof:lastmodified":1536873811,
+    "wof:name":"Ezeerto",
+    "wof:parent_id":1108758351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6023,
+    14.91698,
+    39.6023,
+    14.91698
+],
+  "geometry": {"coordinates":[39.6023,14.91698],"type":"Point"}
+}

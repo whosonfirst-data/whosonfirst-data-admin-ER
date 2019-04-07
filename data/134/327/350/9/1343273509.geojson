@@ -1,0 +1,67 @@
+{
+  "id": 1343273509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.31381,14.4806,41.31381,14.4806",
+    "geom:latitude":14.4806,
+    "geom:longitude":41.31381,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hawra",
+    "gn:country_code":"ER",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334842,
+    "gn:latitude":14.4806,
+    "gn:longitude":41.31381,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"H\u0101wra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671111,
+        1108758367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334842
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"8e5986281d88519b272d7c04443bd063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758367,
+            "locality_id":1343273509,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":1343273509,
+    "wof:lastmodified":1537015297,
+    "wof:name":"Hawra",
+    "wof:parent_id":1108758367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.31381,
+    14.4806,
+    41.31381,
+    14.4806
+],
+  "geometry": {"coordinates":[41.31381,14.4806],"type":"Point"}
+}

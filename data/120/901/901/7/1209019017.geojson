@@ -1,0 +1,65 @@
+{
+  "id": 1209019017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83056,14.77333,36.83056,14.77333",
+    "geom:latitude":14.77333,
+    "geom:longitude":36.83056,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Angulei",
+    "gn:country_code":"ER",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":343830,
+    "gn:latitude":14.77333,
+    "gn:longitude":36.83056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Angulei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anguley",
+        "Angulei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":343830
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"f27a1683cef3d204c23db7e4d4a8dbb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209019017
+        }
+    ],
+    "wof:id":1209019017,
+    "wof:lastmodified":1537621309,
+    "wof:name":"Angulei",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83056,
+    14.77333,
+    36.83056,
+    14.77333
+],
+  "geometry": {"coordinates":[36.83056,14.77333],"type":"Point"}
+}

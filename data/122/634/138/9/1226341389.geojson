@@ -1,0 +1,67 @@
+{
+  "id": 1226341389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.77599,15.53261,38.77599,15.53261",
+    "geom:latitude":15.53261,
+    "geom:longitude":38.77599,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Grat Katin",
+    "gn:country_code":"ER",
+    "gn:dem":2045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8390887,
+    "gn:latitude":15.53261,
+    "gn:longitude":38.77599,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Grat Katin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390887
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"1e865fadc3b36b763f0c119ee6476d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758273,
+            "locality_id":1226341389,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1226341389,
+    "wof:lastmodified":1536795992,
+    "wof:name":"Grat Katin",
+    "wof:parent_id":1108758273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.77599,
+    15.53261,
+    38.77599,
+    15.53261
+],
+  "geometry": {"coordinates":[38.77599,15.53261],"type":"Point"}
+}

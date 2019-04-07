@@ -1,0 +1,71 @@
+{
+  "id": 1226155799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.25833,14.85056,39.25833,14.85056",
+    "geom:latitude":14.85056,
+    "geom:longitude":39.25833,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ambacocat",
+    "gn:country_code":"ER",
+    "gn:dem":1896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":344106,
+    "gn:latitude":14.85056,
+    "gn:longitude":39.25833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ambacocat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambakokat",
+        "Ambacocat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":344106
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"091d386737bdd737b1d6fb65b72f06bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758389,
+            "locality_id":1226155799,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1226155799,
+    "wof:lastmodified":1537621309,
+    "wof:name":"Ambacocat",
+    "wof:parent_id":1108758389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.25833,
+    14.85056,
+    39.25833,
+    14.85056
+],
+  "geometry": {"coordinates":[39.25833,14.85056],"type":"Point"}
+}

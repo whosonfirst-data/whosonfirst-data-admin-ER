@@ -1,0 +1,72 @@
+{
+  "id": 1193278911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.05389,14.98972,39.05389,14.98972",
+    "geom:latitude":14.98972,
+    "geom:longitude":39.05389,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mai Edaga",
+    "gn:country_code":"ER",
+    "gn:dem":1929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":331722,
+    "gn:latitude":14.98972,
+    "gn:longitude":39.05389,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Mai Edaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "May Edaga",
+        "Mai Egada",
+        "Mai Edago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":331722
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"840b1b25d64c38a6ef9d4b860352ff85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758385,
+            "locality_id":1193278911,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1193278911,
+    "wof:lastmodified":1537621296,
+    "wof:name":"Mai Edaga",
+    "wof:parent_id":1108758385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.05389,
+    14.98972,
+    39.05389,
+    14.98972
+],
+  "geometry": {"coordinates":[39.05389,14.98972],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209233011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.83111,15.44972,38.83111,15.44972",
+    "geom:latitude":15.44972,
+    "geom:longitude":38.83111,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Una Lanalay",
+    "gn:country_code":"ER",
+    "gn:dem":2348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":326879,
+    "gn:latitude":15.44972,
+    "gn:longitude":38.83111,
+    "gn:modification_date":"1997-10-28",
+    "gn:name":"Una Lanalay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":326879
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"16caab5391a9af1354ae9dbd154aecc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209233011
+        }
+    ],
+    "wof:id":1209233011,
+    "wof:lastmodified":1536293578,
+    "wof:name":"Una Lanalay",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.83111,
+    15.44972,
+    38.83111,
+    15.44972
+],
+  "geometry": {"coordinates":[38.83111,15.44972],"type":"Point"}
+}

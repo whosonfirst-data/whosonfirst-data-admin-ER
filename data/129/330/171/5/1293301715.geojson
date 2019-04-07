@@ -1,0 +1,73 @@
+{
+  "id": 1293301715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.80667,14.81389,38.80667,14.81389",
+    "geom:latitude":14.81389,
+    "geom:longitude":38.80667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Igri Mekel",
+    "gn:country_code":"ER",
+    "gn:dem":1946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":334431,
+    "gn:latitude":14.81389,
+    "gn:longitude":38.80667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Igr\u012b Mekel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Egri Makal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Igr\u012b Mekel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":334431
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"69482452d6fafe967ac132c7b7157353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758395,
+            "locality_id":1293301715,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1293301715,
+    "wof:lastmodified":1537621298,
+    "wof:name":"Igri Mekel",
+    "wof:parent_id":1108758395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.80667,
+    14.81389,
+    38.80667,
+    14.81389
+],
+  "geometry": {"coordinates":[38.80667,14.81389],"type":"Point"}
+}

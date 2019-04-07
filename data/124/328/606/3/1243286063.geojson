@@ -1,0 +1,67 @@
+{
+  "id": 1243286063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.87462,15.68914,38.87462,15.68914",
+    "geom:latitude":15.68914,
+    "geom:longitude":38.87462,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mrara",
+    "gn:country_code":"ER",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416435,
+    "gn:latitude":15.68914,
+    "gn:longitude":38.87462,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Mrara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671105,
+        1108758365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416435
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"96c12a5cdb9ef91f181a92335dc953c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758365,
+            "locality_id":1243286063,
+            "region_id":85671105
+        }
+    ],
+    "wof:id":1243286063,
+    "wof:lastmodified":1537035256,
+    "wof:name":"Mrara",
+    "wof:parent_id":1108758365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.87462,
+    15.68914,
+    38.87462,
+    15.68914
+],
+  "geometry": {"coordinates":[38.87462,15.68914],"type":"Point"}
+}

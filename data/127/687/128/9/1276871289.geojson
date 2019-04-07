@@ -1,0 +1,72 @@
+{
+  "id": 1276871289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.02972,15.25556,39.02972,15.25556",
+    "geom:latitude":15.25556,
+    "geom:longitude":39.02972,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Embela",
+    "gn:country_code":"ER",
+    "gn:dem":1724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327383,
+    "gn:latitude":15.25556,
+    "gn:longitude":39.02972,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Embela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adi Embela",
+        "Embela",
+        "Tred\u012bsh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805925,
+        1108758305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327383
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"0c64d983a270d1d6da0b4b615529e9cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758305,
+            "locality_id":1276871289,
+            "region_id":1108805925
+        }
+    ],
+    "wof:id":1276871289,
+    "wof:lastmodified":1537621288,
+    "wof:name":"Embela",
+    "wof:parent_id":1108758305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.02972000000001,
+    15.25556,
+    39.02972000000001,
+    15.25556
+],
+  "geometry": {"coordinates":[39.02972000000001,15.25556],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209022171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.5,15.91667,38.5,15.91667",
+    "geom:latitude":15.91667,
+    "geom:longitude":38.5,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Uasentet",
+    "gn:country_code":"ER",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":327026,
+    "gn:latitude":15.91667,
+    "gn:longitude":38.5,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Uasentet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":327026
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"06228098ec9ed157cb63a628c23cfb03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209022171
+        }
+    ],
+    "wof:id":1209022171,
+    "wof:lastmodified":1536300113,
+    "wof:name":"Uasentet",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.5,
+    15.916670000000002,
+    38.5,
+    15.916670000000002
+],
+  "geometry": {"coordinates":[38.5,15.91667],"type":"Point"}
+}

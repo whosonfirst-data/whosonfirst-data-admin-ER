@@ -1,0 +1,67 @@
+{
+  "id": 1226549867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.31016,15.82512,38.31016,15.82512",
+    "geom:latitude":15.82512,
+    "geom:longitude":38.31016,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ad Amer",
+    "gn:country_code":"ER",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345498,
+    "gn:latitude":15.82512,
+    "gn:longitude":38.31016,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ad Amer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        1108805927,
+        1108758283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345498
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"0d59489cd8063898e1d7d8ea1b3866de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758283,
+            "locality_id":1226549867,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":1226549867,
+    "wof:lastmodified":1536991192,
+    "wof:name":"Ad Amer",
+    "wof:parent_id":1108758283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.31016,
+    15.82512,
+    38.31016,
+    15.82512
+],
+  "geometry": {"coordinates":[38.31016,15.82512],"type":"Point"}
+}

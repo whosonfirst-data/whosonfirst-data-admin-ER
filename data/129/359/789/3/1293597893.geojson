@@ -1,0 +1,71 @@
+{
+  "id": 1293597893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.86472,14.60139,38.86472,14.60139",
+    "geom:latitude":14.60139,
+    "geom:longitude":38.86472,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Adi Habir",
+    "gn:country_code":"ER",
+    "gn:dem":2060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345131,
+    "gn:latitude":14.60139,
+    "gn:longitude":38.86472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100d\u012b H\u0101bir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Addi Khabir",
+        "\u0100d\u012b H\u0101bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632781,
+        85671109,
+        1108758379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345131
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"05eccd2837f22e743697f3455682a489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758379,
+            "locality_id":1293597893,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":1293597893,
+    "wof:lastmodified":1537621313,
+    "wof:name":"Adi Habir",
+    "wof:parent_id":1108758379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.86472,
+    14.60139,
+    38.86472,
+    14.60139
+],
+  "geometry": {"coordinates":[38.86472,14.60139],"type":"Point"}
+}

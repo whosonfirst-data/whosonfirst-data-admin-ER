@@ -1,0 +1,61 @@
+{
+  "id": 1209519587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.38938,16.53012,37.38938,16.53012",
+    "geom:latitude":16.53012,
+    "geom:longitude":37.38938,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Saatta",
+    "gn:country_code":"ER",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":329500,
+    "gn:latitude":16.53012,
+    "gn:longitude":37.38938,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Saatta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Asmara",
+    "iso:country":"ER",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":329500
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"550685218d0cf521d6f462bc182515fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632781,
+            "locality_id":1209519587
+        }
+    ],
+    "wof:id":1209519587,
+    "wof:lastmodified":1536284623,
+    "wof:name":"Saatta",
+    "wof:parent_id":85632781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.38938,
+    16.53012,
+    37.38938,
+    16.53012
+],
+  "geometry": {"coordinates":[37.38938,16.53012],"type":"Point"}
+}
