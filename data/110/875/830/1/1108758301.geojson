@@ -10,6 +10,12 @@
     "geom:latitude":15.306976,
     "geom:longitude":38.911365,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Debubawi Mierab Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":15.301641,
     "lbl:longitude":38.910899,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758301,
-    "wof:lastmodified":1536615732,
+    "wof:lastmodified":1553718697,
     "wof:name":"Debubawi Mierab",
     "wof:parent_id":1108805925,
     "wof:placetype":"county",

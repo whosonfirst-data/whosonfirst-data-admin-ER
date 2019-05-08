@@ -10,6 +10,12 @@
     "geom:latitude":15.803522,
     "geom:longitude":36.962657,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Forto Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":15.810661,
     "lbl:longitude":36.968505,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758319,
-    "wof:lastmodified":1536615732,
+    "wof:lastmodified":1553718697,
     "wof:name":"Forto",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

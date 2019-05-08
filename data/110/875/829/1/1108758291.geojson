@@ -10,6 +10,12 @@
     "geom:latitude":15.803943,
     "geom:longitude":38.417555,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Keren Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":15.791649,
     "lbl:longitude":38.429094,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758291,
-    "wof:lastmodified":1536615731,
+    "wof:lastmodified":1553718696,
     "wof:name":"Keren",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":16.020537,
     "geom:longitude":38.215596,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Halhal Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":16.022008,
     "lbl:longitude":38.218636,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758287,
-    "wof:lastmodified":1536615731,
+    "wof:lastmodified":1553718697,
     "wof:name":"Halhal",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

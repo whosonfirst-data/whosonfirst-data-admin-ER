@@ -10,6 +10,12 @@
     "geom:latitude":14.596701,
     "geom:longitude":38.848522,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Adi Quala Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":14.600071,
     "lbl:longitude":38.851151,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758379,
-    "wof:lastmodified":1536615735,
+    "wof:lastmodified":1553718700,
     "wof:name":"Adi Quala",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

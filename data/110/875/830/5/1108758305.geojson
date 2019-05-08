@@ -10,6 +10,12 @@
     "geom:latitude":15.256032,
     "geom:longitude":38.896379,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Galanefhi Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":15.230423,
     "lbl:longitude":38.922905,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758305,
-    "wof:lastmodified":1536615732,
+    "wof:lastmodified":1553718697,
     "wof:name":"Galanefhi",
     "wof:parent_id":1108805925,
     "wof:placetype":"county",

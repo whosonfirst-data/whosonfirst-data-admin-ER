@@ -10,6 +10,12 @@
     "geom:latitude":15.691886,
     "geom:longitude":38.563051,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Elabered Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":15.693047,
     "lbl:longitude":38.563021,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758277,
-    "wof:lastmodified":1536615731,
+    "wof:lastmodified":1553718696,
     "wof:name":"Elabered",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":15.833637,
     "geom:longitude":39.093847,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Shie'b Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":15.855847,
     "lbl:longitude":39.093846,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758365,
-    "wof:lastmodified":1536615734,
+    "wof:lastmodified":1553718699,
     "wof:name":"Shie'b",
     "wof:parent_id":85671105,
     "wof:placetype":"county",

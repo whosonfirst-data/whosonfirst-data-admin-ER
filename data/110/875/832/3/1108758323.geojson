@@ -10,6 +10,12 @@
     "geom:latitude":15.139854,
     "geom:longitude":37.393845,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Gogne Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":15.107708,
     "lbl:longitude":37.372164,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758323,
-    "wof:lastmodified":1536615732,
+    "wof:lastmodified":1553718697,
     "wof:name":"Gogne",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

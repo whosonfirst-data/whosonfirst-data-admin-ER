@@ -10,6 +10,12 @@
     "geom:latitude":15.904727,
     "geom:longitude":38.431756,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Hamelmalo Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":15.885885,
     "lbl:longitude":38.455378,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758289,
-    "wof:lastmodified":1536615731,
+    "wof:lastmodified":1553718697,
     "wof:name":"Hamelmalo",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

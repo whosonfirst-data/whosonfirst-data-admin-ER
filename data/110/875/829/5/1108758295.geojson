@@ -10,6 +10,12 @@
     "geom:latitude":16.797349,
     "geom:longitude":37.449773,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Sela' Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":16.748898,
     "lbl:longitude":37.449718,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758295,
-    "wof:lastmodified":1536615732,
+    "wof:lastmodified":1553718699,
     "wof:name":"Sela'",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

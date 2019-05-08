@@ -10,6 +10,12 @@
     "geom:latitude":15.641809,
     "geom:longitude":39.3918,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Massawa Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":15.644245,
     "lbl:longitude":39.384331,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758361,
-    "wof:lastmodified":1536615734,
+    "wof:lastmodified":1553718698,
     "wof:name":"Massawa",
     "wof:parent_id":85671105,
     "wof:placetype":"county",

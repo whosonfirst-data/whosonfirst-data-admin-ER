@@ -10,6 +10,12 @@
     "geom:latitude":15.750884,
     "geom:longitude":38.249998,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Hagaz Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":15.746376,
     "lbl:longitude":38.267268,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758283,
-    "wof:lastmodified":1536615731,
+    "wof:lastmodified":1553718697,
     "wof:name":"Hagaz",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

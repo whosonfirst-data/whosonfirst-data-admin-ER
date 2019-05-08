@@ -10,6 +10,12 @@
     "geom:latitude":12.956074,
     "geom:longitude":42.716516,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Asseb Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":12.961963,
     "lbl:longitude":42.669252,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758369,
-    "wof:lastmodified":1536615734,
+    "wof:lastmodified":1553718699,
     "wof:name":"Asseb",
     "wof:parent_id":85671111,
     "wof:placetype":"county",

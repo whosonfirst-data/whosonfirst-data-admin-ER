@@ -10,6 +10,12 @@
     "geom:latitude":14.650065,
     "geom:longitude":39.238638,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Tsorona Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":14.694515,
     "lbl:longitude":39.238656,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758401,
-    "wof:lastmodified":1536615735,
+    "wof:lastmodified":1553718701,
     "wof:name":"Tsorona",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

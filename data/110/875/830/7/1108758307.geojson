@@ -10,6 +10,12 @@
     "geom:latitude":15.351775,
     "geom:longitude":38.954678,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Semienawi Mibrak Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":15.352076,
     "lbl:longitude":38.955983,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758307,
-    "wof:lastmodified":1536615732,
+    "wof:lastmodified":1553718697,
     "wof:name":"Semienawi Mibrak",
     "wof:parent_id":1108805925,
     "wof:placetype":"county",

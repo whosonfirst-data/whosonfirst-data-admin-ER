@@ -10,6 +10,12 @@
     "geom:latitude":14.887611,
     "geom:longitude":38.820575,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Mendefera Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":14.896966,
     "lbl:longitude":38.81766,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758395,
-    "wof:lastmodified":1536615735,
+    "wof:lastmodified":1553718700,
     "wof:name":"Mendefera",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

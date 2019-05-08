@@ -10,6 +10,12 @@
     "geom:latitude":16.361751,
     "geom:longitude":37.973858,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Asmat Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":16.346604,
     "lbl:longitude":37.994822,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758275,
-    "wof:lastmodified":1536615731,
+    "wof:lastmodified":1553718696,
     "wof:name":"Asmat",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.958761,
     "geom:longitude":37.892636,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Shambuqo Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":15.034264,
     "lbl:longitude":37.908656,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758341,
-    "wof:lastmodified":1536615733,
+    "wof:lastmodified":1553718698,
     "wof:name":"Shambuqo",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

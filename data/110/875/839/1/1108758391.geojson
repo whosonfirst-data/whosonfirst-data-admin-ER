@@ -10,6 +10,12 @@
     "geom:latitude":14.565357,
     "geom:longitude":38.503795,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Maimine Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":14.557996,
     "lbl:longitude":38.52111,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758391,
-    "wof:lastmodified":1536615735,
+    "wof:lastmodified":1553718700,
     "wof:name":"Maimine",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

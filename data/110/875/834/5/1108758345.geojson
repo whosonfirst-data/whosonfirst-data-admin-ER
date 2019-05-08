@@ -10,6 +10,12 @@
     "geom:latitude":17.222135,
     "geom:longitude":38.082349,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Adobha Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":17.193241,
     "lbl:longitude":38.106105,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758345,
-    "wof:lastmodified":1536615733,
+    "wof:lastmodified":1553718698,
     "wof:name":"Adobha",
     "wof:parent_id":85671105,
     "wof:placetype":"county",

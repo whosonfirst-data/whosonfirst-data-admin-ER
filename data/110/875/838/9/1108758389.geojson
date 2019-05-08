@@ -10,6 +10,12 @@
     "geom:latitude":14.810163,
     "geom:longitude":39.069972,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Maiaini Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":14.826628,
     "lbl:longitude":39.051224,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758389,
-    "wof:lastmodified":1536615735,
+    "wof:lastmodified":1553718700,
     "wof:name":"Maiaini",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

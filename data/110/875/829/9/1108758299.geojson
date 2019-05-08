@@ -10,6 +10,12 @@
     "geom:latitude":15.321504,
     "geom:longitude":38.9522,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Debubawi Mibrak Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":15.318579,
     "lbl:longitude":38.947199,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758299,
-    "wof:lastmodified":1536615732,
+    "wof:lastmodified":1553718697,
     "wof:name":"Debubawi Mibrak",
     "wof:parent_id":1108805925,
     "wof:placetype":"county",

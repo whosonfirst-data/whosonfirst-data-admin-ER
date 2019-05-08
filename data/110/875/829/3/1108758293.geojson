@@ -10,6 +10,12 @@
     "geom:latitude":16.109222,
     "geom:longitude":37.574299,
     "iso:country":"ER",
+    "label:eng_x_preferred_longname":[
+        "Kerkebet Subregion"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "subregion"
+    ],
     "lbl:latitude":16.074425,
     "lbl:longitude":37.566488,
     "meso:adm0":"Eritrea",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108758293,
-    "wof:lastmodified":1536615731,
+    "wof:lastmodified":1553718697,
     "wof:name":"Kerkebet",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",
