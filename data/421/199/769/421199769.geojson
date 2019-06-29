@@ -23,9 +23,6 @@
     "name:afr_x_preferred":[
         "Asmara"
     ],
-    "name:alb_x_preferred":[
-        "Asmara"
-    ],
     "name:amh_x_preferred":[
         "\u12a0\u1235\u1218\u122b"
     ],
@@ -34,9 +31,6 @@
     ],
     "name:arg_x_preferred":[
         "Asmara"
-    ],
-    "name:arm_x_preferred":[
-        "\u0531\u057d\u0574\u0561\u0580\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0633\u0645\u0631\u0647"
@@ -49,9 +43,6 @@
     ],
     "name:aze_x_preferred":[
         "\u018fsm\u0259ra"
-    ],
-    "name:baq_x_preferred":[
-        "Asmara"
     ],
     "name:bar_x_preferred":[
         "Asmara"
@@ -92,9 +83,6 @@
     "name:che_x_preferred":[
         "\u0410\u0441\u043c\u044d\u0440\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u65af\u99ac\u62c9"
-    ],
     "name:chu_x_preferred":[
         "\u0410\u0441\u043c\u0454\u0440\u0430"
     ],
@@ -110,9 +98,6 @@
     "name:cym_x_preferred":[
         "Asmara"
     ],
-    "name:cze_x_preferred":[
-        "Asmara"
-    ],
     "name:dan_x_preferred":[
         "Asmara"
     ],
@@ -120,9 +105,6 @@
         "Asmara"
     ],
     "name:diq_x_preferred":[
-        "Asmara"
-    ],
-    "name:dut_x_preferred":[
         "Asmara"
     ],
     "name:ell_x_preferred":[
@@ -149,9 +131,6 @@
     "name:fra_x_preferred":[
         "Asmara"
     ],
-    "name:fre_x_preferred":[
-        "Asmara"
-    ],
     "name:frp_x_preferred":[
         "Asmara"
     ],
@@ -164,12 +143,6 @@
     "name:fur_x_preferred":[
         "Asmara"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e1\u10db\u10d4\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Asmara"
-    ],
     "name:gla_x_preferred":[
         "Asmara"
     ],
@@ -178,9 +151,6 @@
     ],
     "name:glg_x_preferred":[
         "Asmara"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c3\u03bc\u03ac\u03c1\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Asmara"
@@ -214,9 +184,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u057d\u0574\u0561\u0580\u0561"
-    ],
-    "name:ice_x_preferred":[
-        "Asmara"
     ],
     "name:ido_x_preferred":[
         "Asmara"
@@ -290,17 +257,11 @@
     "name:ltz_x_preferred":[
         "Asmara"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0441\u043c\u0430\u0440\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d05\u0d38\u0d4d\u0d2e\u0d3e\u0d31"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0938\u094d\u092e\u093e\u0930\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Asmara"
     ],
     "name:min_x_preferred":[
         "Asmara"
@@ -316,6 +277,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u0410\u0441\u043c\u044d\u0440\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Asmara"
     ],
     "name:nah_x_preferred":[
         "Asmara"
@@ -362,9 +326,6 @@
     "name:pcd_x_preferred":[
         "Asmara"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u0645\u0631\u0647"
-    ],
     "name:pms_x_preferred":[
         "Asmara"
     ],
@@ -383,9 +344,6 @@
     "name:ron_x_preferred":[
         "Asmara"
     ],
-    "name:rum_x_preferred":[
-        "Asmara"
-    ],
     "name:rup_x_preferred":[
         "Asmara"
     ],
@@ -402,9 +360,6 @@
         "\u0d85\u0dc3\u0dca\u0db8\u0dcf\u0dbb\u0dcf"
     ],
     "name:slk_x_preferred":[
-        "Asmara"
-    ],
-    "name:slo_x_preferred":[
         "Asmara"
     ],
     "name:slv_x_preferred":[
@@ -449,9 +404,6 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e2d\u0e2a\u0e21\u0e32\u0e23\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f71\u0f0b\u0f66\u0f72\u0f0b\u0f58\u0f72\u0f0b\u0f62\u0f0d"
-    ],
     "name:tir_x_preferred":[
         "\u12a3\u1235\u1218\u122b"
     ],
@@ -495,9 +447,6 @@
         "Asmara"
     ],
     "name:war_x_preferred":[
-        "Asmara"
-    ],
-    "name:wel_x_preferred":[
         "Asmara"
     ],
     "name:wln_x_preferred":[
@@ -675,7 +624,7 @@
         }
     ],
     "wof:id":421199769,
-    "wof:lastmodified":1552689274,
+    "wof:lastmodified":1561828530,
     "wof:name":"Asmara",
     "wof:parent_id":1108758301,
     "wof:placetype":"locality",

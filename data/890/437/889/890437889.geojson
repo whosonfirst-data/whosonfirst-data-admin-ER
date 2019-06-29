@@ -18,22 +18,19 @@
     "name:ara_x_preferred":[
         "\u0639\u062f\u064a \u0642\u064a\u062d"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u8fea\u514b\u4f0a\u8d6b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Adi Keyh"
     ],
     "name:eng_x_preferred":[
         "Adi Keyh"
     ],
+    "name:fas_x_preferred":[
+        "\u02bf\u0101\u012b \u1e33\u1e25"
+    ],
     "name:fin_x_preferred":[
         "Adi Keyh"
     ],
-    "name:fre_x_preferred":[
-        "Adi Keyh"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Adi Keyh"
     ],
     "name:ita_x_preferred":[
@@ -45,11 +42,11 @@
     "name:lit_x_preferred":[
         "Adi Keihas"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Adi Keyh"
     ],
-    "name:per_x_preferred":[
-        "\u02bf\u0101\u012b \u1e33\u1e25"
+    "name:nob_x_preferred":[
+        "Adi Keyh"
     ],
     "name:pol_x_preferred":[
         "Adi Kejh"
@@ -71,6 +68,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u062f\u06cc \u06a9\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8fea\u514b\u4f0a\u8d6b"
     ],
     "qs:name":"Adi Keyh",
     "qs:photos_9r":0,
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":890437889,
-    "wof:lastmodified":1527729748,
+    "wof:lastmodified":1561828530,
     "wof:name":"Adi Keyh",
     "wof:parent_id":1108758377,
     "wof:placetype":"locality",

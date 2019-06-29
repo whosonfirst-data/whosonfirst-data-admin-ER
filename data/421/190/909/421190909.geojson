@@ -17,17 +17,11 @@
     "name:ara_x_preferred":[
         "\u0639\u0635\u0628"
     ],
-    "name:baq_x_preferred":[
-        "Assab"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u09b8\u09b8\u09be\u09ac"
     ],
     "name:cat_x_preferred":[
         "Assab"
-    ],
-    "name:chi_x_preferred":[
-        "\u963f\u8428\u5e03"
     ],
     "name:dan_x_preferred":[
         "Assab"
@@ -35,11 +29,17 @@
     "name:deu_x_preferred":[
         "Assab"
     ],
-    "name:dut_x_preferred":[
-        "Assab"
+    "name:ell_x_preferred":[
+        "\u0386\u03c3\u03c3\u03b1\u03bc\u03c0"
     ],
     "name:eng_x_preferred":[
         "Assab"
+    ],
+    "name:eus_x_preferred":[
+        "Assab"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0635\u0628"
     ],
     "name:fin_x_preferred":[
         "Aseb"
@@ -47,20 +47,8 @@
     "name:fra_x_preferred":[
         "Assab"
     ],
-    "name:fre_x_preferred":[
-        "Assab"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e1\u10d4\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Assab"
-    ],
     "name:glg_x_preferred":[
         "Assab"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03c3\u03c3\u03b1\u03bc\u03c0"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab8\u0abe\u0aac"
@@ -89,6 +77,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0cb8\u0ccd\u0cb8\u0cbe\u0cac\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e1\u10d4\u10d1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc0ac\ube0c"
     ],
@@ -101,7 +92,10 @@
     "name:mar_x_preferred":[
         "\u0906\u0938\u093e\u092c"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Assab"
+    ],
+    "name:nld_x_preferred":[
         "Assab"
     ],
     "name:nob_x_preferred":[
@@ -110,16 +104,13 @@
     "name:nor_x_preferred":[
         "Assab"
     ],
-    "name:per_x_preferred":[
-        "\u0639\u0635\u0628"
-    ],
     "name:pol_x_preferred":[
         "Assab"
     ],
     "name:por_x_preferred":[
         "Assab"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aseb"
     ],
     "name:rus_x_preferred":[
@@ -313,7 +304,7 @@
         }
     ],
     "wof:id":421190909,
-    "wof:lastmodified":1553816379,
+    "wof:lastmodified":1561828530,
     "wof:name":"Aseb",
     "wof:parent_id":1108758369,
     "wof:placetype":"locality",
