@@ -22,19 +22,13 @@
     "name:ceb_x_preferred":[
         "Edd"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u5fb7"
-    ],
-    "name:dut_x_preferred":[
-        "Edd"
-    ],
     "name:eng_x_preferred":[
         "Edd"
     ],
-    "name:fra_x_preferred":[
-        "\u00c9dd"
+    "name:fas_x_preferred":[
+        "\u0627\u062f\u060c \u0627\u0631\u06cc\u062a\u0631\u0647"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9dd"
     ],
     "name:ita_x_preferred":[
@@ -43,14 +37,14 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30c7\u30a3"
     ],
+    "name:nld_x_preferred":[
+        "Edd"
+    ],
     "name:nob_x_preferred":[
         "Edi"
     ],
     "name:nor_x_preferred":[
         "Edi"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u062f\u060c \u0627\u0631\u06cc\u062a\u0631\u0647"
     ],
     "name:pol_x_preferred":[
         "Edd"
@@ -123,7 +117,7 @@
         }
     ],
     "wof:id":421200253,
-    "wof:lastmodified":1527716428,
+    "wof:lastmodified":1561828530,
     "wof:name":"Idi",
     "wof:parent_id":1108758373,
     "wof:placetype":"locality",

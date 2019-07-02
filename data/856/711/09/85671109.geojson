@@ -41,14 +41,14 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Debub"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u90e8\u5340"
-    ],
     "name:dan_x_preferred":[
         "Debub"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Debub"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b5\u03bc\u03c0\u03bf\u03cd\u03bc\u03c0"
     ],
     "name:eng_x_preferred":[
         "Debub"
@@ -59,17 +59,8 @@
     "name:fin_x_preferred":[
         "Etel\u00e4inen alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Debub"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d4\u10d1\u10e3\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Debub"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b5\u03bc\u03c0\u03bf\u03cd\u03bc\u03c0"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aac\u0ac1\u0aac \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -92,6 +83,9 @@
     "name:kan_x_preferred":[
         "\u0ca1\u0cc6\u0cac\u0cac\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d4\u10d1\u10e3\u10d1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub0a8\ubd80 \uc8fc"
     ],
@@ -104,8 +98,11 @@
     "name:mar_x_preferred":[
         "\u0921\u0947\u092c\u0942\u092c \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Debub Region"
+    ],
+    "name:nld_x_preferred":[
+        "Debub"
     ],
     "name:nob_x_preferred":[
         "Debub"
@@ -116,7 +113,7 @@
     "name:por_x_preferred":[
         "Debub"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Debub"
     ],
     "name:rus_x_preferred":[
@@ -169,6 +166,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u5e03\u535c"
+    ],
+    "name:zho_x_variant":[
+        "\u5357\u90e8\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ERI",
@@ -295,7 +295,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1553550357,
+    "wof:lastmodified":1561828522,
     "wof:name":"Maekel",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

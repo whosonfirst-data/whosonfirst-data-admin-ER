@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.944227,
-    "geom:area_square_m":34961816417.071144,
+    "geom:area_square_m":34961816417.068298,
     "geom:bbox":"37.8508792774,14.2992155068,40.859584808,18.020413782",
     "geom:latitude":16.164337,
     "geom:longitude":39.067235,
@@ -41,17 +41,17 @@
     "name:cat_x_preferred":[
         "Regi\u00f3 de Semenawi Keyih Bahri"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u7d05\u6d77\u5340"
-    ],
     "name:dan_x_preferred":[
         "Semenawi Keyih Bahri"
     ],
     "name:deu_x_preferred":[
         "Region des n\u00f6rdlichen Roten Meeres"
     ],
-    "name:dut_x_preferred":[
-        "Semenawi Keyih Bahri"
+    "name:deu_x_variant":[
+        "Semienawi Kayih Bahri"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u0395\u03c1\u03c5\u03b8\u03c1\u03ac\u03c2 \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Semien-Keih-Bahri"
@@ -64,17 +64,8 @@
     "name:fin_x_preferred":[
         "Pohjoinen Punaisenmeren alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Semien-Keih-Bahri"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10db\u10d8\u10d4\u10dc\u10d0\u10d5\u10d8-\u10d9\u10d4\u10d8-\u10d1\u10d0\u10f0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Semienawi Kayih Bahri"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u0395\u03c1\u03c5\u03b8\u03c1\u03ac\u03c2 \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa4\u0acd\u0aa4\u0ab0\u0ac0\u0aaf \u0ab2\u0abe\u0ab2 \u0ab8\u0aae\u0ac1\u0aa6\u0acd\u0ab0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -97,6 +88,9 @@
     "name:kan_x_preferred":[
         "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0c95\u0cc6\u0c82\u0caa\u0cc1 \u0cb8\u0cae\u0cc1\u0ca6\u0ccd\u0cb0 \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10db\u10d8\u10d4\u10dc\u10d0\u10d5\u10d8-\u10d9\u10d4\u10d8-\u10d1\u10d0\u10f0\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud64d\ud574 \ubd81\ubd80 \uc8fc"
     ],
@@ -109,8 +103,11 @@
     "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930\u0947\u091a\u093e \u0932\u093e\u0932 \u0938\u092e\u0941\u0926\u094d\u0930 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Northern Red Sea Region"
+    ],
+    "name:nld_x_preferred":[
+        "Semenawi Keyih Bahri"
     ],
     "name:nob_x_preferred":[
         "Semenawi Keyih Bahri"
@@ -168,6 +165,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Ph\u00eda B\u1eafc Bi\u1ec3n \u0110\u1ecf"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u7d05\u6d77\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ERI",
@@ -294,7 +294,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1553814769,
+    "wof:lastmodified":1561828521,
     "wof:name":"Debub",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

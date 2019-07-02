@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Keren"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09b0\u09c7\u09a8"
     ],
@@ -29,19 +26,10 @@
     "name:ces_x_preferred":[
         "Keren"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u4f26"
-    ],
-    "name:cze_x_preferred":[
-        "Keren"
-    ],
     "name:dan_x_preferred":[
         "Keren"
     ],
     "name:deu_x_preferred":[
-        "Keren"
-    ],
-    "name:dut_x_preferred":[
         "Keren"
     ],
     "name:ell_x_preferred":[
@@ -64,18 +52,6 @@
     ],
     "name:fra_x_preferred":[
         "Keren"
-    ],
-    "name:fre_x_preferred":[
-        "Keren"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d4\u10e0\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Keren"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03c1\u03ad\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0ab0\u0ac7\u0aa8"
@@ -119,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u0915\u0947\u0930\u0947\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Keren"
     ],
     "name:nld_x_preferred":[
@@ -131,9 +107,6 @@
     "name:nor_x_preferred":[
         "Keren"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u0646"
-    ],
     "name:pol_x_preferred":[
         "Keren"
     ],
@@ -141,9 +114,6 @@
         "Keren"
     ],
     "name:ron_x_preferred":[
-        "Keren"
-    ],
-    "name:rum_x_preferred":[
         "Keren"
     ],
     "name:rus_x_preferred":[
@@ -343,7 +313,7 @@
         }
     ],
     "wof:id":421205145,
-    "wof:lastmodified":1553816391,
+    "wof:lastmodified":1561828530,
     "wof:name":"Keren",
     "wof:parent_id":1108758291,
     "wof:placetype":"locality",

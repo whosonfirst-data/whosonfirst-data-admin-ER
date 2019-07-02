@@ -20,17 +20,11 @@
     "name:ara_x_preferred":[
         "\u0645\u0635\u0648\u0639"
     ],
-    "name:baq_x_preferred":[
-        "Massawa"
-    ],
     "name:cat_x_preferred":[
         "Massaua"
     ],
     "name:ceb_x_preferred":[
         "Massawa"
-    ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u8428\u74e6"
     ],
     "name:dan_x_preferred":[
         "Massaua"
@@ -41,14 +35,17 @@
     "name:deu_x_variant":[
         "Massawa"
     ],
-    "name:dut_x_preferred":[
-        "Massawa"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c3\u03ac\u03bf\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
         "Massawa"
+    ],
+    "name:eus_x_preferred":[
+        "Massawa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0635\u0648\u0639"
     ],
     "name:fin_x_preferred":[
         "Massawa"
@@ -56,26 +53,14 @@
     "name:fra_x_preferred":[
         "Massaoua"
     ],
-    "name:fre_x_preferred":[
-        "Massaoua"
-    ],
     "name:fry_x_preferred":[
         "Massawa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e1\u10d0\u10e3\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Massaua"
     ],
     "name:gle_x_preferred":[
         "Massawa"
     ],
     "name:glg_x_preferred":[
         "Massaua"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c3\u03ac\u03bf\u03c5\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05e1\u05d0\u05d5\u05d5\u05d4"
@@ -125,9 +110,6 @@
     "name:nor_x_preferred":[
         "Massawa"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0635\u0648\u0639"
-    ],
     "name:pol_x_preferred":[
         "Massaua"
     ],
@@ -138,9 +120,6 @@
         "Ma\u00e7u\u00e1"
     ],
     "name:ron_x_preferred":[
-        "Massawa"
-    ],
-    "name:rum_x_preferred":[
         "Massawa"
     ],
     "name:rus_x_preferred":[
@@ -332,7 +311,7 @@
         }
     ],
     "wof:id":421201465,
-    "wof:lastmodified":1527716434,
+    "wof:lastmodified":1561828530,
     "wof:name":"Massawa",
     "wof:parent_id":1108758361,
     "wof:placetype":"locality",
