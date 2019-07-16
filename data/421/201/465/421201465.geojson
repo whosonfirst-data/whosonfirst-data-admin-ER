@@ -20,14 +20,26 @@
     "name:ara_x_preferred":[
         "\u0645\u0635\u0648\u0639"
     ],
+    "name:ast_x_preferred":[
+        "Massawa"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0635\u0648\u0639"
+    ],
     "name:cat_x_preferred":[
         "Massaua"
+    ],
+    "name:cat_x_variant":[
+        "Massawa"
     ],
     "name:ceb_x_preferred":[
         "Massawa"
     ],
     "name:dan_x_preferred":[
         "Massaua"
+    ],
+    "name:dan_x_variant":[
+        "Massawa"
     ],
     "name:deu_x_preferred":[
         "Massaua"
@@ -49,6 +61,9 @@
     ],
     "name:fin_x_preferred":[
         "Massawa"
+    ],
+    "name:fin_x_variant":[
+        "Massaua"
     ],
     "name:fra_x_preferred":[
         "Massaoua"
@@ -91,6 +106,9 @@
     ],
     "name:lat_x_preferred":[
         "Massaua"
+    ],
+    "name:lat_x_variant":[
+        "Massawa"
     ],
     "name:lit_x_preferred":[
         "Masava"
@@ -311,7 +329,7 @@
         }
     ],
     "wof:id":421201465,
-    "wof:lastmodified":1561828530,
+    "wof:lastmodified":1563248348,
     "wof:name":"Massawa",
     "wof:parent_id":1108758361,
     "wof:placetype":"locality",

@@ -17,10 +17,19 @@
     "name:ara_x_preferred":[
         "\u0639\u0635\u0628"
     ],
+    "name:azb_x_preferred":[
+        "\u0639\u0635\u0628"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u044d\u0431"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b8\u09b8\u09be\u09ac"
     ],
     "name:cat_x_preferred":[
+        "Assab"
+    ],
+    "name:ceb_x_preferred":[
         "Assab"
     ],
     "name:dan_x_preferred":[
@@ -107,6 +116,9 @@
     "name:pol_x_preferred":[
         "Assab"
     ],
+    "name:pol_x_variant":[
+        "Asab"
+    ],
     "name:por_x_preferred":[
         "Assab"
     ],
@@ -124,6 +136,9 @@
     ],
     "name:spa_x_preferred":[
         "Assab"
+    ],
+    "name:spa_x_variant":[
+        "Asab"
     ],
     "name:swe_x_preferred":[
         "Assab"
@@ -304,7 +319,7 @@
         }
     ],
     "wof:id":421190909,
-    "wof:lastmodified":1561828530,
+    "wof:lastmodified":1563248344,
     "wof:name":"Aseb",
     "wof:parent_id":1108758369,
     "wof:placetype":"locality",

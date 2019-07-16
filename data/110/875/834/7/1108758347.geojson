@@ -34,8 +34,14 @@
     "mps:longitude":38.874564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Af'abet"
+    ],
     "name:eng_x_preferred":[
         "Af'abet"
+    ],
+    "name:eng_x_variant":[
+        "Afabet Subregion"
     ],
     "name:fra_x_preferred":[
         "Afabet"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1108758347,
-    "wof:lastmodified":1561828529,
+    "wof:lastmodified":1563248303,
     "wof:name":"Afa'bet",
     "wof:parent_id":85671105,
     "wof:placetype":"county",
