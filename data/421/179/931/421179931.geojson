@@ -205,6 +205,9 @@
     "name:swe_x_preferred":[
         "Ghinda'e"
     ],
+    "name:swe_x_variant":[
+        "Ghinda"
+    ],
     "name:tir_x_preferred":[
         "\u130a\u1295\u12f3\u12d5"
     ],
@@ -293,7 +296,7 @@
         }
     ],
     "wof:id":421179931,
-    "wof:lastmodified":1561828530,
+    "wof:lastmodified":1563248349,
     "wof:name":"Ginda",
     "wof:parent_id":1108758355,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062c\u0646\u0648\u0628"
     ],
+    "name:ast_x_preferred":[
+        "Debub"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09c7\u09ac\u09c1\u09ac \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 de Debub"
+    ],
+    "name:ceb_x_preferred":[
+        "Debub Region"
     ],
     "name:dan_x_preferred":[
         "Debub"
@@ -55,6 +61,9 @@
     ],
     "name:eng_x_variant":[
         "Debub Region"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u062c\u0646\u0648\u0628\u06cc"
     ],
     "name:fin_x_preferred":[
         "Etel\u00e4inen alue"
@@ -88,6 +97,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub0a8\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub0a8\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Debubas zoba"
@@ -163,6 +175,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Debub"
+    ],
+    "name:yue_x_preferred":[
+        "\u5357\u90e8\u5730\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u5e03\u535c"
@@ -295,7 +310,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1561828522,
+    "wof:lastmodified":1563248211,
     "wof:name":"Maekel",
     "wof:parent_id":85632781,
     "wof:placetype":"region",
