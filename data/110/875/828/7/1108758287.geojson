@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Halhal"
     ],
+    "name:nno_x_preferred":[
+        "Halhal"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108758287,
-    "wof:lastmodified":1553718697,
+    "wof:lastmodified":1564211546,
     "wof:name":"Halhal",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

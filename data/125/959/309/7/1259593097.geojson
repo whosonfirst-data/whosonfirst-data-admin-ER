@@ -25,6 +25,9 @@
     "iso:country":"ER",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sco_x_preferred":[
+        "Bitama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1259593097,
-    "wof:lastmodified":1537562641,
+    "wof:lastmodified":1564211621,
     "wof:name":"Bitama",
     "wof:parent_id":1108758325,
     "wof:placetype":"locality",

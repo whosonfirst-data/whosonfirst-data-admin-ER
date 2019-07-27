@@ -37,6 +37,12 @@
     "name:eng_x_preferred":[
         "Hagaz"
     ],
+    "name:fra_x_preferred":[
+        "Hagaz"
+    ],
+    "name:pol_x_preferred":[
+        "Hageza"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108758283,
-    "wof:lastmodified":1553718697,
+    "wof:lastmodified":1564211546,
     "wof:name":"Hagaz",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

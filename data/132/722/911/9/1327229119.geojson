@@ -25,6 +25,18 @@
     "iso:country":"ER",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kafa"
+    ],
+    "name:ceb_x_preferred":[
+        "Kafa"
+    ],
+    "name:swe_x_preferred":[
+        "Kafa"
+    ],
+    "name:tur_x_preferred":[
+        "Kafa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1327229119,
-    "wof:lastmodified":1536973913,
+    "wof:lastmodified":1564211421,
     "wof:name":"Kafa",
     "wof:parent_id":1108758289,
     "wof:placetype":"locality",

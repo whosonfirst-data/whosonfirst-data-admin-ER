@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Areza"
     ],
+    "name:pol_x_preferred":[
+        "Areza"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108758381,
-    "wof:lastmodified":1553718699,
+    "wof:lastmodified":1564211551,
     "wof:name":"Areza",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

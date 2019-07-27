@@ -25,8 +25,35 @@
     "iso:country":"ER",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sitona"
+    ],
+    "name:deu_x_preferred":[
+        "Blattrandk\u00e4fer"
+    ],
+    "name:fin_x_preferred":[
+        "Hernek\u00e4rs\u00e4kk\u00e4\u00e4t"
+    ],
+    "name:fra_x_preferred":[
+        "Sitona"
+    ],
+    "name:hun_x_preferred":[
+        "Sitona"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0433\u043e\u043d\u043e\u0441\u0438\u043a\u0438 \u043a\u043b\u0443\u0431\u0435\u043d\u044c\u043a\u043e\u0432\u044b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Sitona"
+    ],
     "name:und_x_variant":[
         "Sittona",
+        "Sitona"
+    ],
+    "name:vie_x_preferred":[
+        "Sitona"
+    ],
+    "name:war_x_preferred":[
         "Sitona"
     ],
     "src:geom":"geonames",
@@ -62,7 +89,7 @@
         }
     ],
     "wof:id":1293395943,
-    "wof:lastmodified":1537621289,
+    "wof:lastmodified":1564211466,
     "wof:name":"Sitona",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

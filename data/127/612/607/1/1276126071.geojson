@@ -25,6 +25,15 @@
     "iso:country":"ER",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0622\u0628\u0627\u0686\u0631\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u0627\u0686\u0631\u06cc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d0\u30c1\u30a7\u30ea"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1276126071,
-    "wof:lastmodified":1537562642,
+    "wof:lastmodified":1564211507,
     "wof:name":"Abacheri",
     "wof:parent_id":1108758367,
     "wof:placetype":"locality",

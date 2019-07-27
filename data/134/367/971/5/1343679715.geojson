@@ -25,6 +25,9 @@
     "iso:country":"ER",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Elaberet"
+    ],
     "name:und_x_variant":[
         "\u2018\u012alaber\u2019id",
         "Elaberet",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343679715,
-    "wof:lastmodified":1537621303,
+    "wof:lastmodified":1564211452,
     "wof:name":"Ela Beridi",
     "wof:parent_id":1108758277,
     "wof:placetype":"locality",

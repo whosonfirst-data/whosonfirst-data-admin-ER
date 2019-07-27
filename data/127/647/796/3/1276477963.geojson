@@ -25,6 +25,15 @@
     "iso:country":"ER",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:gom_x_preferred":[
+        "\u092c\u0916\u0930"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0916\u0930"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06a9\u06be\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276477963,
-    "wof:lastmodified":1537079052,
+    "wof:lastmodified":1564211505,
     "wof:name":"Bakhar",
     "wof:parent_id":1108758317,
     "wof:placetype":"locality",

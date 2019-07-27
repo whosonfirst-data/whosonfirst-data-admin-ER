@@ -25,6 +25,9 @@
     "iso:country":"ER",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tole"
+    ],
     "name:und_x_variant":[
         "Pozzi di Tole",
         "Tole"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260104241,
-    "wof:lastmodified":1537621288,
+    "wof:lastmodified":1564211543,
     "wof:name":"Tole",
     "wof:parent_id":1108758341,
     "wof:placetype":"locality",

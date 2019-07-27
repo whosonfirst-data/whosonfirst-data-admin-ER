@@ -24,6 +24,9 @@
     "iso:country":"ER",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gulomahda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276996559,
-    "wof:lastmodified":1536884024,
+    "wof:lastmodified":1564211511,
     "wof:name":"Gulomahda",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

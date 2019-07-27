@@ -37,6 +37,12 @@
     "name:eng_x_preferred":[
         "Asmat"
     ],
+    "name:fra_x_preferred":[
+        "Asmat"
+    ],
+    "name:ind_x_preferred":[
+        "Asmat"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1108758275,
-    "wof:lastmodified":1553718696,
+    "wof:lastmodified":1564211545,
     "wof:name":"Asmat",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",
