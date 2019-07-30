@@ -37,6 +37,15 @@
     "name:eng_x_preferred":[
         "Haykota"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30a4\u30b3\u30bf"
+    ],
+    "name:nor_x_preferred":[
+        "Haykota"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0439\u043a\u043e\u0442\u0430"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1108758325,
-    "wof:lastmodified":1553718698,
+    "wof:lastmodified":1564211548,
     "wof:name":"Haykota",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

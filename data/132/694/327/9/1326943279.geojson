@@ -25,6 +25,51 @@
     "iso:country":"ER",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Bambuco"
+    ],
+    "name:cat_x_preferred":[
+        "Bambuco"
+    ],
+    "name:deu_x_preferred":[
+        "Bambuco"
+    ],
+    "name:epo_x_preferred":[
+        "Bambuko"
+    ],
+    "name:eus_x_preferred":[
+        "Bambuco"
+    ],
+    "name:fra_x_preferred":[
+        "Bambuco"
+    ],
+    "name:glg_x_preferred":[
+        "Bambuco"
+    ],
+    "name:ina_x_preferred":[
+        "Bambuco"
+    ],
+    "name:ita_x_preferred":[
+        "Bambuco"
+    ],
+    "name:lat_x_preferred":[
+        "Bambucum"
+    ],
+    "name:nap_x_preferred":[
+        "Bambuco"
+    ],
+    "name:nld_x_preferred":[
+        "Bambuco"
+    ],
+    "name:por_x_preferred":[
+        "Bambuco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043c\u0431\u0443\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Bambuco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1326943279,
-    "wof:lastmodified":1536888391,
+    "wof:lastmodified":1564211418,
     "wof:name":"Bambuco",
     "wof:parent_id":1108758383,
     "wof:placetype":"locality",

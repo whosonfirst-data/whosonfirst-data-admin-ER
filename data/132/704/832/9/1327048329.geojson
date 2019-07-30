@@ -25,6 +25,18 @@
     "iso:country":"ER",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Matara"
+    ],
+    "name:pol_x_preferred":[
+        "Matara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044d\u0442\u044d\u0440\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Matara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1327048329,
-    "wof:lastmodified":1537562643,
+    "wof:lastmodified":1564211429,
     "wof:name":"Matara",
     "wof:parent_id":1108758399,
     "wof:placetype":"locality",

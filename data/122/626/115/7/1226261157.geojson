@@ -25,6 +25,30 @@
     "iso:country":"ER",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Halay"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0642\u0635 \u0647\u0627\u0644\u0627\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Halay"
+    ],
+    "name:hye_x_preferred":[
+        "\u0545\u0561\u0575\u056c\u056b"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30e9\u30a4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10da\u10d0\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u0430\u0439"
+    ],
+    "name:tur_x_preferred":[
+        "Halay"
+    ],
     "name:und_x_variant":[
         "Khalay",
         "Halay"
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1226261157,
-    "wof:lastmodified":1537621316,
+    "wof:lastmodified":1564211630,
     "wof:name":"Halay",
     "wof:parent_id":1108758377,
     "wof:placetype":"locality",

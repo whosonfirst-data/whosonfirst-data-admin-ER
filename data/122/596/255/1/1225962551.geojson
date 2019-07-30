@@ -25,6 +25,9 @@
     "iso:country":"ER",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30c1\u30d0\u30dc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1225962551,
-    "wof:lastmodified":1537562641,
+    "wof:lastmodified":1564211636,
     "wof:name":"Chibabo",
     "wof:parent_id":1108758333,
     "wof:placetype":"locality",

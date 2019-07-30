@@ -37,6 +37,39 @@
     "name:eng_x_preferred":[
         "Karura"
     ],
+    "name:fra_x_preferred":[
+        "Karura"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0930\u0941\u0921\u093c"
+    ],
+    "name:hrv_x_preferred":[
+        "Karura"
+    ],
+    "name:ind_x_preferred":[
+        "Karura"
+    ],
+    "name:ita_x_preferred":[
+        "Karura"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8fe6\u697c\u7f85\u5929"
+    ],
+    "name:nor_x_preferred":[
+        "Karura"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0443\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Karura"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb0\u0bc2\u0bb0\u0bbe"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fe6\u6a13\u7f85"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -70,7 +103,7 @@
         }
     ],
     "wof:id":1108758359,
-    "wof:lastmodified":1553718699,
+    "wof:lastmodified":1564211547,
     "wof:name":"Karura",
     "wof:parent_id":85671105,
     "wof:placetype":"county",

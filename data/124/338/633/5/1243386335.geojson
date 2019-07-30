@@ -25,6 +25,9 @@
     "iso:country":"ER",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Zazzega"
+    ],
     "name:und_x_variant":[
         "Zazega",
         "Zazzega",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1243386335,
-    "wof:lastmodified":1537621287,
+    "wof:lastmodified":1564211588,
     "wof:name":"Tse'azega",
     "wof:parent_id":1108758297,
     "wof:placetype":"locality",

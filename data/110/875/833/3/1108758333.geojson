@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Mogolo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30fc\u30b4\u30ed"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108758333,
-    "wof:lastmodified":1553718698,
+    "wof:lastmodified":1564211549,
     "wof:name":"Mogolo",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "Omhajer"
     ],
+    "name:pol_x_preferred":[
+        "Om Hajer"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108758337,
-    "wof:lastmodified":1555092024,
+    "wof:lastmodified":1564211549,
     "wof:name":"Omhajer",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

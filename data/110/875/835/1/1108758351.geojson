@@ -34,7 +34,22 @@
     "mps:longitude":39.497386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Foru"
+    ],
     "name:eng_x_preferred":[
+        "Foro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a9\u30ed"
+    ],
+    "name:por_x_preferred":[
+        "Foro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
         "Foro"
     ],
     "src:geom":"meso",
@@ -70,7 +85,7 @@
         }
     ],
     "wof:id":1108758351,
-    "wof:lastmodified":1553718698,
+    "wof:lastmodified":1564211547,
     "wof:name":"Foro",
     "wof:parent_id":85671105,
     "wof:placetype":"county",
