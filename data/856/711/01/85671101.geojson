@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GB"
+    ],
     "lbl:latitude":15.22071,
     "lbl:longitude":37.339591,
     "meso:name_alt1":"Gash-Barka",
@@ -294,9 +297,6 @@
         }
     ],
     "wof:id":85671101,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tir",
         "eng",
@@ -307,7 +307,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1563248212,
+    "wof:lastmodified":1565673389,
     "wof:name":"Gash Barka",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

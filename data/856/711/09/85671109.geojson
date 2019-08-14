@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DU"
+    ],
     "lbl:latitude":14.852911,
     "lbl:longitude":38.774188,
     "meso:name_alt1":"Southern",
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85671109,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tir",
         "eng",
@@ -310,7 +310,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1563248211,
+    "wof:lastmodified":1565673389,
     "wof:name":"Maekel",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

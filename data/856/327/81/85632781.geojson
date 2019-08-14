@@ -15,6 +15,9 @@
     "itu:country_code":[
         "291"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ER"
+    ],
     "lbl:latitude":15.817362,
     "lbl:longitude":38.267404,
     "mps:latitude":15.817362,
@@ -1019,9 +1022,6 @@
         }
     ],
     "wof:id":85632781,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tir",
         "eng",
@@ -1032,7 +1032,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1563248205,
+    "wof:lastmodified":1565673386,
     "wof:name":"Eritrea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

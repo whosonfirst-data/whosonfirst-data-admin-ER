@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DK"
+    ],
     "lbl:latitude":13.637158,
     "lbl:longitude":41.734577,
     "meso:name_alt1":"Southern Red Sea",
@@ -299,9 +302,6 @@
         }
     ],
     "wof:id":85671111,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tir",
         "eng",
@@ -312,7 +312,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1563248209,
+    "wof:lastmodified":1565673389,
     "wof:name":"Debubawi Keyih Bahri",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

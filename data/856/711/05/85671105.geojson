@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SK"
+    ],
     "lbl:latitude":17.092727,
     "lbl:longitude":38.480103,
     "meso:name_alt1":"Northern Red Sea",
@@ -284,9 +287,6 @@
         }
     ],
     "wof:id":85671105,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tir",
         "eng",
@@ -297,7 +297,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1563248208,
+    "wof:lastmodified":1565673388,
     "wof:name":"Debub",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

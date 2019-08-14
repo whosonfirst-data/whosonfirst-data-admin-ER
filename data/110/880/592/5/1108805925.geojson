@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":15.356381,
     "lbl:longitude":38.884011,
     "meso:name_alt1":"Central",
@@ -287,7 +290,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1563248298,
+    "wof:lastmodified":1565673399,
     "wof:name":"Central",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

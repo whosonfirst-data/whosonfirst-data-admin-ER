@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":16.355306,
     "lbl:longitude":37.678222,
     "meso:name_alt1":"Anseba",
@@ -235,7 +238,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1563248297,
+    "wof:lastmodified":1565673399,
     "wof:name":"Anseba",
     "wof:parent_id":85632781,
     "wof:placetype":"region",
