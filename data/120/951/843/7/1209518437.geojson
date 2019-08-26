@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"39.0411,15.15113,39.0811,15.19113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632781
@@ -34,7 +38,7 @@
         "gn:id":342443
     },
     "wof:country":"ER",
-    "wof:geomhash":"878a6a4cc92e92ebeab6824211bc7813",
+    "wof:geomhash":"913d25dc9c5d94bfbdd51e3773394c7e",
     "wof:hierarchy":[
         {
             "country_id":85632781,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209518437,
-    "wof:lastmodified":1536284657,
+    "wof:lastmodified":1566587019,
     "wof:name":"Belec",
     "wof:parent_id":85632781,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     39.0611,
-    15.171129999999998,
+    15.17113,
     39.0611,
-    15.171129999999998
+    15.17113
 ],
   "geometry": {"coordinates":[39.0611,15.17113],"type":"Point"}
 }

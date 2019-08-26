@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.446777,
     "lbl:longitude":38.241687,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm0":"Eritrea",
     "meso:adm1_en":"Gash-Barka",
     "meso:dissme":"Gash-BarkaMensura",
@@ -34,11 +36,12 @@
     "mps:longitude":38.241687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Mensura"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632781,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1108758331,
-    "wof:lastmodified":1555092024,
+    "wof:lastmodified":1566587042,
     "wof:name":"Mensura",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

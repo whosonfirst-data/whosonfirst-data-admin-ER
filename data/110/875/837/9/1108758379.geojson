@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.600071,
     "lbl:longitude":38.851151,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm0":"Eritrea",
     "meso:adm1_en":"Southern",
     "meso:dissme":"SouthernAdi Quala",
@@ -34,6 +36,7 @@
     "mps:longitude":38.851151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0627\u062f\u06cc \u06a9\u0648\u0627\u0644\u0627"
     ],
@@ -80,7 +83,7 @@
         "\u963f\u8fea\u5938\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Adi Qwala",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1108758379,
-    "wof:lastmodified":1564211555,
+    "wof:lastmodified":1566587050,
     "wof:name":"Adi Quala",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

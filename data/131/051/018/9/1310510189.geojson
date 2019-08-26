@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"38.75528,14.85278,38.79528,14.89278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Addekiginnet",
         "\u0100dek\u2019e Ginet"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310510189,
-    "wof:lastmodified":1537621315,
+    "wof:lastmodified":1566587067,
     "wof:name":"Adek'e Ginet",
     "wof:parent_id":1108758395,
     "wof:placetype":"locality",

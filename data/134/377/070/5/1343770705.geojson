@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"38.62114,16.32979,38.66114,16.36979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cub Cub",
         "Kubkub",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343770705,
-    "wof:lastmodified":1537621297,
+    "wof:lastmodified":1566586952,
     "wof:name":"Kubkub",
     "wof:parent_id":1108758347,
     "wof:placetype":"locality",

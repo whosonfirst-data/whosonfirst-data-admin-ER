@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"38.43182,14.43453,38.47182,14.47453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Adi Ghella",
         "Adi Gella",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259885939,
-    "wof:lastmodified":1537621313,
+    "wof:lastmodified":1566587107,
     "wof:name":"Adi-Ghela'e",
     "wof:parent_id":1108758391,
     "wof:placetype":"locality",

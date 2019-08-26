@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.826628,
     "lbl:longitude":39.051224,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm0":"Eritrea",
     "meso:adm1_en":"Southern",
     "meso:dissme":"SouthernMaiaini",
@@ -34,11 +36,12 @@
     "mps:longitude":39.051224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Mai-Aini"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Mai-Aini",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108758389,
-    "wof:lastmodified":1553718700,
+    "wof:lastmodified":1566587046,
     "wof:name":"Maiaini",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

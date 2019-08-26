@@ -10,8 +10,12 @@
     "geom:latitude":15.10582,
     "geom:longitude":37.59067,
     "iso:country":"ER",
+    "lbl:bbox":"37.57067,15.08582,37.61067,15.12582",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0646\u062a\u0648"
@@ -91,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0435\u043d\u0442\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mai Tsada"
     ],
     "name:urd_x_preferred":[
@@ -139,7 +143,7 @@
     "wof:concordances":{
         "gn:id":342711,
         "gp:id":1312152,
-        "qs:id":124267,
+        "qs_pg:id":124267,
         "wd:id":"Q808100",
         "wk:page":"Barentu, Eritrea"
     },
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":421167089,
-    "wof:lastmodified":1563248342,
+    "wof:lastmodified":1566587077,
     "wof:name":"Barentu",
     "wof:parent_id":1108758315,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.436349,
     "lbl:longitude":38.680713,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm0":"Eritrea",
     "meso:adm1_en":"Gash-Barka",
     "meso:dissme":"Gash-BarkaLogo Anseba",
@@ -34,11 +36,12 @@
     "mps:longitude":38.680713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Logo Anseba"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Meqerka",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108758329,
-    "wof:lastmodified":1553718698,
+    "wof:lastmodified":1566587041,
     "wof:name":"Logo Anseba",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

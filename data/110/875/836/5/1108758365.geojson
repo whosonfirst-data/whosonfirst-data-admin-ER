@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.855847,
     "lbl:longitude":39.093846,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm0":"Eritrea",
     "meso:adm1_en":"Northern Red Sea",
     "meso:dissme":"Northern Red SeaShie'b",
@@ -34,11 +36,12 @@
     "mps:longitude":39.093846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "She'eb"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"She'eb",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108758365,
-    "wof:lastmodified":1553718699,
+    "wof:lastmodified":1566587049,
     "wof:name":"Shie'b",
     "wof:parent_id":85671105,
     "wof:placetype":"county",

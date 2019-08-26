@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"40.80864,14.70493,40.84864,14.74493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lelissa",
         "Sahl\u012b"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310413409,
-    "wof:lastmodified":1537621291,
+    "wof:lastmodified":1566587055,
     "wof:name":"Sahli",
     "wof:parent_id":1108758367,
     "wof:placetype":"locality",

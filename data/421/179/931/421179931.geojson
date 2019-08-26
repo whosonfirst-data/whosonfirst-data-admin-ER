@@ -10,8 +10,12 @@
     "geom:latitude":15.44917,
     "geom:longitude":39.08861,
     "iso:country":"ER",
+    "lbl:bbox":"39.06861,15.42917,39.10861,15.46917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Ghinda"
@@ -217,9 +221,6 @@
     "name:tur_x_preferred":[
         "Ghinda"
     ],
-    "name:unk_x_variant":[
-        "Ghinda"
-    ],
     "name:urd_x_preferred":[
         "\u06af\u06c1\u06cc\u0646\u062f\u0627"
     ],
@@ -279,7 +280,7 @@
     "wof:concordances":{
         "gn:id":336474,
         "gp:id":1312325,
-        "qs:id":266854,
+        "qs_pg:id":266854,
         "wd:id":"Q732759",
         "wk:page":"Ghinda"
     },
@@ -296,7 +297,7 @@
         }
     ],
     "wof:id":421179931,
-    "wof:lastmodified":1563248349,
+    "wof:lastmodified":1566587079,
     "wof:name":"Ginda",
     "wof:parent_id":1108758355,
     "wof:placetype":"locality",

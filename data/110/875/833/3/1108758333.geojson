@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.293634,
     "lbl:longitude":37.73347,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm0":"Eritrea",
     "meso:adm1_en":"Gash-Barka",
     "meso:dissme":"Gash-BarkaMogolo",
@@ -34,6 +36,7 @@
     "mps:longitude":37.73347,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Mogolo"
     ],
@@ -41,7 +44,7 @@
         "\u30e2\u30fc\u30b4\u30ed"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Mogolo",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108758333,
-    "wof:lastmodified":1564211549,
+    "wof:lastmodified":1566587042,
     "wof:name":"Mogolo",
     "wof:parent_id":85671101,
     "wof:placetype":"county",
