@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"39.50498,14.91603,39.54498,14.95603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mayam",
         "Maiam"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327434567,
-    "wof:lastmodified":1537621296,
+    "wof:lastmodified":1566586948,
     "wof:name":"Maiam",
     "wof:parent_id":1108758377,
     "wof:placetype":"locality",

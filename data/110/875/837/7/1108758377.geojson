@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.894261,
     "lbl:longitude":39.402592,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm0":"Eritrea",
     "meso:adm1_en":"Southern",
     "meso:dissme":"SouthernAdi Keih",
@@ -34,11 +36,12 @@
     "mps:longitude":39.402592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Adi Keih"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Adi Keih",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108758377,
-    "wof:lastmodified":1553718699,
+    "wof:lastmodified":1566587050,
     "wof:name":"Adi Keih",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

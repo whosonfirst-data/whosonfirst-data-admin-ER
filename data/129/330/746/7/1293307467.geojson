@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"38.84028,14.89083,38.88028,14.93083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293307467,
-    "wof:lastmodified":1537044627,
+    "wof:lastmodified":1566586975,
     "wof:name":"Adi Amanu'el",
     "wof:parent_id":1108758395,
     "wof:placetype":"locality",

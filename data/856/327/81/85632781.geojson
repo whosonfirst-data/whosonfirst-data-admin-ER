@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":15.817362,
     "lbl:longitude":38.267404,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":15.817362,
     "mps:longitude":38.267404,
     "mz:hierarchy_label":1,
@@ -800,12 +802,6 @@
     "name:ukr_x_variant":[
         "\u0415\u0440\u0456\u0442\u0440\u0435\u044f"
     ],
-    "name:und_x_preferred":[
-        "Eritreja"
-    ],
-    "name:unk_x_variant":[
-        "Erythraea"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u062a\u0631\u06cc\u0627"
     ],
@@ -962,7 +958,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"291",
     "statoids:ds":"ER",
@@ -1007,7 +1003,7 @@
         "mzb:id":"eritrea",
         "ne:adm0_a3":"ERI",
         "nyt:id":"66240057725410374241",
-        "qs:id":547787,
+        "qs_pg:id":547787,
         "uncrt:id":"ER",
         "wd:id":"Q986",
         "wk:page":"Eritrea"
@@ -1032,7 +1028,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1565673386,
+    "wof:lastmodified":1566586966,
     "wof:name":"Eritrea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

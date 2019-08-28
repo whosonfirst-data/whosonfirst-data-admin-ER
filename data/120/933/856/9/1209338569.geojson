@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"37.48694,14.88667,37.52694,14.92667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632781
@@ -34,7 +38,7 @@
         "gn:id":6415646
     },
     "wof:country":"ER",
-    "wof:geomhash":"f80284fcce73f0df75a917c1ed904e8c",
+    "wof:geomhash":"ae66bc2416885076f355973283d55c48",
     "wof:hierarchy":[
         {
             "country_id":85632781,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209338569,
-    "wof:lastmodified":1536290136,
+    "wof:lastmodified":1566587020,
     "wof:name":"Markosudi",
     "wof:parent_id":85632781,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     37.50694,
-    14.906670000000002,
+    14.90667,
     37.50694,
-    14.906670000000002
+    14.90667
 ],
   "geometry": {"coordinates":[37.50694,14.90667],"type":"Point"}
 }

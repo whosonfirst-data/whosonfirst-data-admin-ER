@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"39.09253,14.96648,39.13253,15.00648",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mai Aha",
         "Mayh\u0101"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260298023,
-    "wof:lastmodified":1537621295,
+    "wof:lastmodified":1566587032,
     "wof:name":"Mayha",
     "wof:parent_id":1108758397,
     "wof:placetype":"locality",

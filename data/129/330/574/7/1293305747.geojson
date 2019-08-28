@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"38.76176,14.999,38.80176,15.039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293305747,
-    "wof:lastmodified":1537046999,
+    "wof:lastmodified":1566586975,
     "wof:name":"Adi Hizba",
     "wof:parent_id":1108758383,
     "wof:placetype":"locality",

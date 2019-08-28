@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"39.4582,16.047,39.4982,16.087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242972703,
-    "wof:lastmodified":1536990729,
+    "wof:lastmodified":1566587093,
     "wof:name":"D'yurrum Segir",
     "wof:parent_id":1108758347,
     "wof:placetype":"locality",

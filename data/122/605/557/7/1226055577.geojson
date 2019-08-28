@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"39.22111,14.42472,39.26111,14.46472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hye_x_preferred":[
         "\u053f\u056b\u0576\u057f\u0578"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226055577,
-    "wof:lastmodified":1564211633,
+    "wof:lastmodified":1566587112,
     "wof:name":"Kinto",
     "wof:parent_id":1108758401,
     "wof:placetype":"locality",

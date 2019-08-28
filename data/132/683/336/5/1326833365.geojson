@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"38.72639,14.725,38.76639,14.765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Argezanna",
         "Arghezana"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326833365,
-    "wof:lastmodified":1537621309,
+    "wof:lastmodified":1566586943,
     "wof:name":"Arghezana",
     "wof:parent_id":1108758387,
     "wof:placetype":"locality",

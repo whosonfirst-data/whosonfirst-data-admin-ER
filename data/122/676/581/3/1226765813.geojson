@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"38.04111,13.42806,38.08111,13.46806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Adi Arkai",
         "Adi Arcai",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226765813,
-    "wof:lastmodified":1537621314,
+    "wof:lastmodified":1566587115,
     "wof:name":"Adi Ark'ay",
     "wof:parent_id":1108695193,
     "wof:placetype":"locality",

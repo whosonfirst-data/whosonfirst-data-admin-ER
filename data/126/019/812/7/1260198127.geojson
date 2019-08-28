@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"39.40018,14.68871,39.44018,14.72871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1260198127,
-    "wof:lastmodified":1536826798,
+    "wof:lastmodified":1566587033,
     "wof:name":"Awliee Hahayle",
     "wof:parent_id":1108758399,
     "wof:placetype":"locality",

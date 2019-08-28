@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Asmara",
     "iso:country":"ER",
+    "lbl:bbox":"38.92114,15.38113,38.96114,15.42113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ad Nefas",
         "Az Nefas",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326534665,
-    "wof:lastmodified":1537621311,
+    "wof:lastmodified":1566586946,
     "wof:name":"Az Nefas",
     "wof:parent_id":1108758309,
     "wof:placetype":"locality",
