@@ -642,6 +642,9 @@
     },
     "wof:country":"ER",
     "wof:created":1459010000,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9cd696d37cad171d5bd9d7f921ffd4d2",
     "wof:hierarchy":[
         {
@@ -653,7 +656,7 @@
         }
     ],
     "wof:id":421199769,
-    "wof:lastmodified":1566587078,
+    "wof:lastmodified":1582355608,
     "wof:name":"Asmara",
     "wof:parent_id":1108758301,
     "wof:placetype":"locality",

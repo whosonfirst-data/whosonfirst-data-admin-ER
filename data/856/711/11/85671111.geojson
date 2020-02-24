@@ -288,6 +288,9 @@
         "wk:page":"Southern Red Sea Region"
     },
     "wof:country":"ER",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1d5e0b9b09b20833ceb34c83a09fc169",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1566586971,
+    "wof:lastmodified":1582355604,
     "wof:name":"Debubawi Keyih Bahri",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

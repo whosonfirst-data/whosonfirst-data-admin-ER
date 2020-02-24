@@ -289,6 +289,9 @@
         "wk:page":"Southern Region (Eritrea)"
     },
     "wof:country":"ER",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8225f070eb1f884d4ec0155b65fdff5d",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1566586971,
+    "wof:lastmodified":1582355605,
     "wof:name":"Maekel",
     "wof:parent_id":85632781,
     "wof:placetype":"region",
