@@ -276,6 +276,9 @@
         "wk:page":"Northern Red Sea Region"
     },
     "wof:country":"ER",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c2e79d2b69268349b946cdf8aa40079",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1566586969,
+    "wof:lastmodified":1582355604,
     "wof:name":"Debub",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

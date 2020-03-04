@@ -286,6 +286,9 @@
         "wk:page":"Gash-Barka Region"
     },
     "wof:country":"ER",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"86069dd832468458484bd126c27d2752",
     "wof:hierarchy":[
         {
@@ -305,7 +308,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1566586972,
+    "wof:lastmodified":1582355605,
     "wof:name":"Gash Barka",
     "wof:parent_id":85632781,
     "wof:placetype":"region",
