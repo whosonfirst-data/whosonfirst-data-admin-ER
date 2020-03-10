@@ -987,9 +987,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Eritrea",
-        "digitalenvoy:country_code":[
-            232
-        ],
+        "digitalenvoy:country_code":232,
         "fb:id":"en.eritrea",
         "fifa:id":"ERI",
         "fips:code":"ER",
@@ -1036,7 +1034,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1583529125,
+    "wof:lastmodified":1583797330,
     "wof:name":"Eritrea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
