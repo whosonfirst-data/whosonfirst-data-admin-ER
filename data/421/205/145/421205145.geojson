@@ -74,6 +74,9 @@
     "name:hrv_x_preferred":[
         "Keren"
     ],
+    "name:hun_x_preferred":[
+        "Keren"
+    ],
     "name:ind_x_preferred":[
         "Keren"
     ],
@@ -322,7 +325,7 @@
         }
     ],
     "wof:id":421205145,
-    "wof:lastmodified":1566587077,
+    "wof:lastmodified":1636502502,
     "wof:name":"Keren",
     "wof:parent_id":1108758291,
     "wof:placetype":"locality",

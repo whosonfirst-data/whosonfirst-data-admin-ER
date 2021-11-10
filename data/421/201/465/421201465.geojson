@@ -29,6 +29,9 @@
     "name:azb_x_preferred":[
         "\u0645\u0635\u0648\u0639"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b8\u09b8\u09be\u0993\u09df\u09be"
+    ],
     "name:cat_x_preferred":[
         "Massaua"
     ],
@@ -82,6 +85,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05e1\u05d0\u05d5\u05d5\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0938\u093e\u0935\u093e"
     ],
     "name:hrv_x_preferred":[
         "Massawa"
@@ -332,7 +338,7 @@
         }
     ],
     "wof:id":421201465,
-    "wof:lastmodified":1566587078,
+    "wof:lastmodified":1636502503,
     "wof:name":"Massawa",
     "wof:parent_id":1108758361,
     "wof:placetype":"locality",
