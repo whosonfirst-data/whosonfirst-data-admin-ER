@@ -31,6 +31,9 @@
     "name:aar_x_preferred":[
         "Eretria"
     ],
+    "name:abk_x_preferred":[
+        "\u0415\u0440\u0438\u0442\u0440\u0435\u0438\u0430"
+    ],
     "name:ace_x_preferred":[
         "Eritrea"
     ],
@@ -52,8 +55,14 @@
     "name:amh_x_preferred":[
         "\u12a4\u122d\u1275\u122b"
     ],
+    "name:ami_x_preferred":[
+        "Eritrea"
+    ],
     "name:ang_x_preferred":[
         "\u00c6ri\u00ferea"
+    ],
+    "name:anp_x_preferred":[
+        "\u0907\u0930\u0940\u091f\u094d\u0930\u093f\u092f\u093e"
     ],
     "name:ara_x_preferred":[
         "\u0625\u0631\u064a\u062a\u0631\u064a\u0627"
@@ -74,6 +83,9 @@
     "name:ast_x_preferred":[
         "Eritrea"
     ],
+    "name:avk_x_preferred":[
+        "Ertra"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0631\u06cc\u062a\u0631\u0647"
     ],
@@ -92,6 +104,9 @@
     "name:ban_x_preferred":[
         "\u00c9ritr\u00e9a"
     ],
+    "name:bar_x_preferred":[
+        "Eritrea"
+    ],
     "name:bcl_x_preferred":[
         "Eritreya"
     ],
@@ -109,6 +124,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0907\u0930\u0940\u091f\u094d\u0930\u093f\u092f\u093e"
+    ],
+    "name:bis_x_preferred":[
+        "Eritrea"
     ],
     "name:bjn_x_preferred":[
         "Eritrea"
@@ -155,6 +173,9 @@
     "name:chu_x_preferred":[
         "\u0404\u0440\u0477\u0473\u0440\u0457\ua657"
     ],
+    "name:chv_x_preferred":[
+        "\u042d\u0440\u0438\u0442\u0440\u0435\u044f"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u06ce\u0631\u06cc\u062a\u0631\u06cc\u0627"
     ],
@@ -164,10 +185,16 @@
     "name:cor_x_preferred":[
         "Eritrea"
     ],
+    "name:cos_x_preferred":[
+        "Eritrea"
+    ],
     "name:crh_x_preferred":[
         "Eritreya"
     ],
     "name:cym_x_preferred":[
+        "Eritrea"
+    ],
+    "name:dag_x_preferred":[
         "Eritrea"
     ],
     "name:dan_x_preferred":[
@@ -306,6 +333,9 @@
     "name:gom_x_preferred":[
         "\u0907\u0930\u093f\u091f\u094d\u0930\u093f\u092f\u093e"
     ],
+    "name:gpe_x_preferred":[
+        "Eritrea"
+    ],
     "name:grn_x_preferred":[
         "Erityr\u00e9a"
     ],
@@ -434,6 +464,9 @@
     "name:kbp_x_preferred":[
         "Eriitree"
     ],
+    "name:kcg_x_preferred":[
+        "Eritrea"
+    ],
     "name:khm_x_preferred":[
         "\u17a2\u17c1\u179a\u17b8\u1791\u17d2\u179a\u17b6"
     ],
@@ -491,6 +524,9 @@
     "name:lit_x_preferred":[
         "Eritr\u0117ja"
     ],
+    "name:lld_x_preferred":[
+        "Eritrea"
+    ],
     "name:lmo_x_preferred":[
         "Eritrea"
     ],
@@ -515,6 +551,9 @@
     "name:lzh_x_preferred":[
         "\u5384\u5229\u5782\u4e9e"
     ],
+    "name:mad_x_preferred":[
+        "Eritrea"
+    ],
     "name:mai_x_preferred":[
         "\u090f\u0930\u093f\u091f\u094d\u0930\u093f\u092f\u093e"
     ],
@@ -526,6 +565,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0907\u0930\u093f\u091f\u094d\u0930\u093f\u092f\u093e"
+    ],
+    "name:mdf_x_preferred":[
+        "\u042d\u0440\u0438\u0442\u0440\u044d\u044f"
     ],
     "name:mhr_x_preferred":[
         "\u042d\u0440\u0438\u0442\u0440\u0435\u0439"
@@ -544,6 +586,9 @@
     ],
     "name:mlt_x_variant":[
         "Eritreja"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd1\uabe6\uabd4\uabe4\uabc7\uabed\uabd4\uabe4\uabcc\uabe5"
     ],
     "name:mon_x_preferred":[
         "\u042d\u0440\u0438\u0442\u0440\u0435\u0439"
@@ -567,6 +612,9 @@
         "Eritrea"
     ],
     "name:nan_x_preferred":[
+        "Eritrea"
+    ],
+    "name:nap_x_preferred":[
         "Eritrea"
     ],
     "name:nau_x_preferred":[
@@ -692,6 +740,9 @@
     "name:san_x_preferred":[
         "\u0907\u0930\u0940\u091f\u094d\u0930\u093f\u092f\u093e"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6e\u1c68\u1c64\u1c5b\u1c68\u1c64\u1c6d\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Eritria"
     ],
@@ -701,8 +752,17 @@
     "name:sgs_x_preferred":[
         "Eritr\u0117j\u0117"
     ],
+    "name:shi_x_preferred":[
+        "Eritrea"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1022\u1084\u1087\u101b\u102e\u1087\u1011\u101b\u102e\u1038\u101a\u1083\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0d91\u0dbb\u0dd2\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0"
+    ],
+    "name:skr_x_preferred":[
+        "\u0627\u0631\u06cc\u0679\u0631\u06cc\u0627"
     ],
     "name:slk_x_preferred":[
         "Eritrea"
@@ -713,7 +773,13 @@
     "name:sme_x_preferred":[
         "Eritrea"
     ],
+    "name:smn_x_preferred":[
+        "Eritrea"
+    ],
     "name:smo_x_preferred":[
+        "Eritrea"
+    ],
+    "name:sms_x_preferred":[
         "Eritrea"
     ],
     "name:sna_x_preferred":[
@@ -814,14 +880,23 @@
         "Hagere Iertra",
         "Iertra"
     ],
+    "name:tok_x_preferred":[
+        "ma Eliteja"
+    ],
     "name:ton_x_preferred":[
         "\u02bbElitulia"
+    ],
+    "name:trv_x_preferred":[
+        "Eritrea"
     ],
     "name:tso_x_preferred":[
         "Eritreya"
     ],
     "name:tuk_x_preferred":[
         "Eritre\u00fda"
+    ],
+    "name:tum_x_preferred":[
+        "Eritrea"
     ],
     "name:tur_x_preferred":[
         "Eritre"
@@ -924,7 +999,8 @@
         "\u5384\u7acb\u7279\u91cc\u4e9a"
     ],
     "name:zho_x_variant":[
-        "\u5384\u5229\u5782\u4e9e"
+        "\u5384\u5229\u5782\u4e9e",
+        "\u5384\u7acb\u7279\u91cc\u4e9e"
     ],
     "name:zho_yue_x_preferred":[
         "\u5384\u7acb\u7279\u91cc\u4e9e"
@@ -1153,7 +1229,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1617827597,
+    "wof:lastmodified":1690877004,
     "wof:name":"Eritrea",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

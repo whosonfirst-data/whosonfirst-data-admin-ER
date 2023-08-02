@@ -75,11 +75,17 @@
     "name:fra_x_preferred":[
         "Debub"
     ],
+    "name:frr_x_preferred":[
+        "S\u00fc\u00fcd"
+    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aac\u0ac1\u0aac \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05e4\u05d0\u05d3\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d4\u05d3\u05e8\u05d5\u05dd"
     ],
     "name:hin_x_preferred":[
         "\u0921\u0940\u092c\u0941\u092c \u092a\u094d\u0930\u0926\u0947\u0936"
@@ -191,6 +197,9 @@
     ],
     "name:zho_x_variant":[
         "\u5357\u90e8\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Debub Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ERI",
@@ -317,7 +326,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1636502501,
+    "wof:lastmodified":1690877006,
     "wof:name":"Maekel",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

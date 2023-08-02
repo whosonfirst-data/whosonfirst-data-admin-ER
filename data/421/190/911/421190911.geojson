@@ -20,13 +20,25 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u062f\u064a\u0641\u064a\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0646\u062f\u064a\u0641\u064a\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Mendefera"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0646\u062f\u0641\u0631\u0627"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0435\u043d\u0434\u0435\u0444\u0435\u0440\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Mendefera"
+    ],
     "name:ceb_x_preferred":[
+        "Mendefera"
+    ],
+    "name:ces_x_preferred":[
         "Mendefera"
     ],
     "name:dan_x_preferred":[
@@ -95,6 +107,9 @@
     "name:spa_x_preferred":[
         "Mendefera"
     ],
+    "name:swa_x_preferred":[
+        "Mendefera"
+    ],
     "name:swe_x_preferred":[
         "Mendefera"
     ],
@@ -121,6 +136,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9580\u5fb7\u8cbb\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Mendefera"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Eritrea",
@@ -261,7 +279,7 @@
         }
     ],
     "wof:id":421190911,
-    "wof:lastmodified":1566587078,
+    "wof:lastmodified":1690877009,
     "wof:name":"Adi Ugri",
     "wof:parent_id":1108758395,
     "wof:placetype":"locality",

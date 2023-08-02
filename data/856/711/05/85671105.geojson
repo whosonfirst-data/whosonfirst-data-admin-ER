@@ -104,6 +104,9 @@
     "name:kor_x_preferred":[
         "\ud64d\ud574 \ubd81\ubd80 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubd81\ud64d\ud574\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Semenavi Kejihbahri zoba"
     ],
@@ -304,7 +307,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1636502500,
+    "wof:lastmodified":1690877005,
     "wof:name":"Debub",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

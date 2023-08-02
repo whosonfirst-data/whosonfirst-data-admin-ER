@@ -83,6 +83,9 @@
     "name:fra_x_preferred":[
         "Debub-Keih-Bahri"
     ],
+    "name:frr_x_preferred":[
+        "S\u00fc\u00fcdelk Ruad Sia"
+    ],
     "name:guj_x_preferred":[
         "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3\u0ac0 \u0ab2\u0abe\u0ab2 \u0ab8\u0aae\u0ac1\u0aa6\u0acd\u0ab0 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -118,6 +121,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud64d\ud574 \ub0a8\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub0a8\ud64d\ud574\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Debubavi Kejihbahri zoba"
@@ -167,6 +173,9 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0bb0\u0bc6\u0b9f\u0bcd \u0bb8\u0bc0 \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
+    "name:tam_x_variant":[
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0bb0\u0bc6\u0b9f\u0bcd \u0bb8\u0bc0 \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c0e\u0c30\u0c4d\u0c30 \u0c38\u0c2e\u0c41\u0c26\u0c4d\u0c30 \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
     ],
@@ -193,6 +202,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5357\u7d05\u6d77\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Southern Red Sea Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ERI",
@@ -319,7 +331,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1636502500,
+    "wof:lastmodified":1690877005,
     "wof:name":"Debubawi Keyih Bahri",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

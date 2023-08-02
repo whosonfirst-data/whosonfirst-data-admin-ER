@@ -35,6 +35,9 @@
     "name:ceb_x_preferred":[
         "Assab"
     ],
+    "name:ces_x_preferred":[
+        "Assab"
+    ],
     "name:dan_x_preferred":[
         "Assab"
     ],
@@ -143,6 +146,9 @@
     "name:spa_x_variant":[
         "Asab"
     ],
+    "name:swa_x_preferred":[
+        "Assab"
+    ],
     "name:swe_x_preferred":[
         "Assab"
     ],
@@ -168,6 +174,9 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0441\u0430\u0431"
     ],
+    "name:ukr_x_variant":[
+        "\u0410\u0441\u0435\u0431"
+    ],
     "name:urd_x_preferred":[
         "\u0639\u0635\u0628"
     ],
@@ -179,6 +188,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u8428\u5e03"
+    ],
+    "name:zul_x_preferred":[
+        "Assab"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Eritrea",
@@ -319,7 +331,7 @@
         }
     ],
     "wof:id":421190909,
-    "wof:lastmodified":1566587077,
+    "wof:lastmodified":1690877009,
     "wof:name":"Aseb",
     "wof:parent_id":1108758369,
     "wof:placetype":"locality",

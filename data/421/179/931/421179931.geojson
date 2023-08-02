@@ -26,6 +26,9 @@
     "name:arg_x_preferred":[
         "Ghinda"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0646\u062f\u0639"
+    ],
     "name:ast_x_preferred":[
         "Ghinda"
     ],
@@ -297,7 +300,7 @@
         }
     ],
     "wof:id":421179931,
-    "wof:lastmodified":1566587079,
+    "wof:lastmodified":1690877010,
     "wof:name":"Ginda",
     "wof:parent_id":1108758355,
     "wof:placetype":"locality",
