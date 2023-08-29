@@ -81,6 +81,9 @@
     "name:fra_x_preferred":[
         "Anseba"
     ],
+    "name:frr_x_preferred":[
+        "Anseba"
+    ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0ab8\u0ac7\u0aac\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
     ],
@@ -114,6 +117,9 @@
     "name:kor_x_preferred":[
         "\uc548\uc138\ubc14 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc548\uc138\ubc14\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Ansebas zoba"
     ],
@@ -143,6 +149,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0441\u044d\u0431\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0410\u043d\u0441\u044d\u0431\u0430"
     ],
     "name:sco_x_preferred":[
         "Anseba Region"
@@ -197,6 +206,9 @@
     "name:zho_x_preferred":[
         "\u5b89\u585e\u5df4\u5340"
     ],
+    "name:zul_x_preferred":[
+        "Anseba Region"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -245,7 +257,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1636502501,
+    "wof:lastmodified":1690877007,
     "wof:name":"Anseba",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

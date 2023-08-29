@@ -25,6 +25,9 @@
     "name:afr_x_preferred":[
         "Asmara"
     ],
+    "name:aka_x_preferred":[
+        "Asmara"
+    ],
     "name:amh_x_preferred":[
         "\u12a0\u1235\u1218\u122b"
     ],
@@ -34,10 +37,16 @@
     "name:arg_x_preferred":[
         "Asmara"
     ],
+    "name:ary_x_preferred":[
+        "\u0623\u0633\u0645\u0627\u0631\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0633\u0645\u0631\u0647"
     ],
     "name:ast_x_preferred":[
+        "Asmara"
+    ],
+    "name:avk_x_preferred":[
         "Asmara"
     ],
     "name:azb_x_preferred":[
@@ -45,6 +54,9 @@
     ],
     "name:aze_x_preferred":[
         "\u018fsm\u0259ra"
+    ],
+    "name:ban_x_preferred":[
+        "Asmara"
     ],
     "name:bar_x_preferred":[
         "Asmara"
@@ -91,6 +103,9 @@
     "name:chu_x_preferred":[
         "\u0410\u0441\u043c\u0454\u0440\u0430"
     ],
+    "name:chv_x_preferred":[
+        "\u0410\u0441\u043c\u044d\u0440\u0430"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u06d5\u0633\u0645\u06d5\u0631\u06d5"
     ],
@@ -123,6 +138,9 @@
     ],
     "name:epo_x_preferred":[
         "Asmaro"
+    ],
+    "name:epo_x_variant":[
+        "Asmero"
     ],
     "name:est_x_preferred":[
         "Asmara"
@@ -283,6 +301,9 @@
     "name:mar_x_preferred":[
         "\u0905\u0938\u094d\u092e\u093e\u0930\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0410\u0441\u043c\u0430\u0440\u0430"
+    ],
     "name:min_x_preferred":[
         "Asmara"
     ],
@@ -300,6 +321,9 @@
     ],
     "name:msa_x_preferred":[
         "Asmara"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0633\u0645\u0631\u0647"
     ],
     "name:nah_x_preferred":[
         "Asmara"
@@ -334,6 +358,9 @@
     "name:oci_x_preferred":[
         "Asmara"
     ],
+    "name:olo_x_preferred":[
+        "Asmera"
+    ],
     "name:oss_x_preferred":[
         "\u0410\u0441\u043c\u044d\u0440\u00e6"
     ],
@@ -361,6 +388,9 @@
     "name:pus_x_preferred":[
         "\u0627\u0633\u0645\u0631\u0647"
     ],
+    "name:que_x_preferred":[
+        "Asmara"
+    ],
     "name:roh_x_preferred":[
         "Asmara"
     ],
@@ -372,6 +402,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u0441\u043c\u044d\u0440\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c5f\u1c65\u1c62\u1c5f\u1c68\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Asmara"
@@ -386,6 +419,9 @@
         "Asmara"
     ],
     "name:slv_x_preferred":[
+        "Asmara"
+    ],
+    "name:smn_x_preferred":[
         "Asmara"
     ],
     "name:sna_x_preferred":[
@@ -410,6 +446,9 @@
         "Asmara"
     ],
     "name:swe_x_preferred":[
+        "Asmara"
+    ],
+    "name:szl_x_preferred":[
         "Asmara"
     ],
     "name:tam_x_preferred":[
@@ -444,6 +483,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0441\u043c\u0430\u0440\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0410\u0441\u043c\u0435\u0440\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u0645\u0627\u0631\u0627"
@@ -628,8 +670,8 @@
     "wof:belongsto":[
         102191573,
         85632781,
-        1108758301,
-        1108805925
+        1108805925,
+        1108758301
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -658,7 +700,7 @@
         }
     ],
     "wof:id":421199769,
-    "wof:lastmodified":1607390877,
+    "wof:lastmodified":1690877009,
     "wof:name":"Asmara",
     "wof:parent_id":1108758301,
     "wof:placetype":"locality",

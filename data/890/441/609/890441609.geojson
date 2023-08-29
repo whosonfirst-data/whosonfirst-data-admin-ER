@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0633\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0633\u0646\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Teseney"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0633\u0646\u06cc"
     ],
@@ -35,6 +41,9 @@
     ],
     "name:deu_x_preferred":[
         "Tesseney"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03c3\u03b5\u03bd\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
         "Teseney"
@@ -78,6 +87,9 @@
     "name:spa_x_preferred":[
         "Teseney"
     ],
+    "name:swa_x_preferred":[
+        "Teseney"
+    ],
     "name:swe_x_preferred":[
         "Teseney"
     ],
@@ -89,6 +101,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7279\u745f\u5167"
+    ],
+    "name:zul_x_preferred":[
+        "Teseney"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Eritrea",
@@ -217,7 +232,7 @@
         }
     ],
     "wof:id":890441609,
-    "wof:lastmodified":1566587079,
+    "wof:lastmodified":1690877010,
     "wof:name":"Teseney",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

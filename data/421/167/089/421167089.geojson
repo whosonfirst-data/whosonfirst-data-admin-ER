@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0646\u062a\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0631\u0646\u062a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Barentu"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0627\u0631\u0646\u062a\u0648"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:deu_x_preferred":[
         "Barentu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c1\u03ad\u03bd\u03c4\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Barentu"
@@ -110,6 +119,9 @@
     "name:zho_x_preferred":[
         "\u5df4\u502b\u5716"
     ],
+    "name:zul_x_preferred":[
+        "Barentu"
+    ],
     "qs:gn_country":"ER",
     "qs:gn_fcode":"PPLA",
     "qs:gn_id":342711,
@@ -160,7 +172,7 @@
         }
     ],
     "wof:id":421167089,
-    "wof:lastmodified":1566587077,
+    "wof:lastmodified":1690877008,
     "wof:name":"Barentu",
     "wof:parent_id":1108758315,
     "wof:placetype":"locality",

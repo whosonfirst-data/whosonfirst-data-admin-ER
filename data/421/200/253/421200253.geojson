@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0625\u062f"
     ],
+    "name:ast_x_preferred":[
+        "Edd"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u062f"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:ceb_x_preferred":[
         "Edd"
+    ],
+    "name:deu_x_preferred":[
+        "Iddi"
     ],
     "name:eng_x_preferred":[
         "Edd"
@@ -59,14 +65,23 @@
     "name:pol_x_preferred":[
         "Edd"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u0434\u0434"
+    ],
     "name:spa_x_preferred":[
         "Edd"
+    ],
+    "name:swa_x_preferred":[
+        "Ed"
     ],
     "name:swe_x_preferred":[
         "Edd"
     ],
     "name:tir_x_preferred":[
         "\u2018Id\u012b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0434\u0434"
     ],
     "name:urd_x_preferred":[
         "\u0627\u062f\u060c \u0627\u0631\u062a\u0631\u06cc\u0627"
@@ -76,6 +91,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57c3\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "Edd"
     ],
     "qs:gn_country":"ER",
     "qs:gn_fcode":"PPL",
@@ -127,7 +145,7 @@
         }
     ],
     "wof:id":421200253,
-    "wof:lastmodified":1566587078,
+    "wof:lastmodified":1690877010,
     "wof:name":"Idi",
     "wof:parent_id":1108758373,
     "wof:placetype":"locality",

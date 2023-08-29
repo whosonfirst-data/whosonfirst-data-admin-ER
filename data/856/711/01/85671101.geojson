@@ -34,7 +34,8 @@
         "\u063a\u0627\u0634-\u0628\u0627\u0631\u0643\u0627"
     ],
     "name:ara_x_variant":[
-        "\u0625\u0642\u0644\u064a\u0645 \u063a\u0627\u0634-\u0628\u0627\u0631\u0643\u0627"
+        "\u0625\u0642\u0644\u064a\u0645 \u063a\u0627\u0634-\u0628\u0627\u0631\u0643\u0627",
+        "\u0627\u0644\u0642\u0627\u0634 \u0648\u0628\u0631\u0643\u0629"
     ],
     "name:ast_x_preferred":[
         "Gash-Barka"
@@ -70,6 +71,9 @@
         "Gash-Barka Region",
         "Gash Barka"
     ],
+    "name:epo_x_preferred":[
+        "Ga\u015d-Barka"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u06af\u0627\u0634-\u0628\u0627\u0631\u06a9\u0627"
     ],
@@ -78,6 +82,9 @@
     ],
     "name:fra_x_preferred":[
         "Gash-Barka"
+    ],
+    "name:frr_x_preferred":[
+        "Gasch-Barka"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ab6-\u0aac\u0abe\u0ab0\u0acd\u0a95\u0abe \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -111,6 +118,9 @@
     ],
     "name:kor_x_preferred":[
         "\uac00\uc2dc\ubc14\ub974\uce74 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uac00\uc2dc\ubc14\ub974\uce74\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Ga\u0161as-Barkas zoba"
@@ -189,6 +199,9 @@
     ],
     "name:zho_x_preferred":[
         "\u52a0\u4ec0-\u5df4\u723e\u5361\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Gash-Barka Region"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"ERI",
@@ -317,7 +330,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1636502501,
+    "wof:lastmodified":1690877006,
     "wof:name":"Gash Barka",
     "wof:parent_id":85632781,
     "wof:placetype":"region",
