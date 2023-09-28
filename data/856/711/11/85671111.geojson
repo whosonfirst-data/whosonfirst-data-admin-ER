@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.782102,
-    "geom:area_square_m":21414473380.683739,
+    "geom:area_square_m":21414472543.618343,
     "geom:bbox":"40.477716,12.387868,43.137048,15.022083",
     "geom:latitude":13.626164,
     "geom:longitude":41.719581,
@@ -303,16 +303,18 @@
         "gn:id":448499,
         "gp:id":24549685,
         "hasc:id":"ER.DK",
+        "iso:code":"ER-DK",
         "iso:id":"ER-DK",
         "qs_pg:id":888271,
         "wd:id":"Q27928",
         "wk:page":"Southern Red Sea Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ER",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"de63f52f7a8ae5e228aad6d2a276cc9e",
+    "wof:geomhash":"11388e83154cb0e0c0912fec44ad3a08",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -331,7 +333,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1690877005,
+    "wof:lastmodified":1695884934,
     "wof:name":"Debubawi Keyih Bahri",
     "wof:parent_id":85632781,
     "wof:placetype":"region",
