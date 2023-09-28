@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067247,
-    "geom:area_square_m":799224290.792307,
+    "geom:area_square_m":799224416.092629,
     "geom:bbox":"38.046971,15.849844,38.366134,16.208848",
     "geom:latitude":16.020537,
     "geom:longitude":38.215596,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"ER.AN.HH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310316,
-    "wof:geomhash":"c40258cae9af8f7e26b199e161d7b06e",
+    "wof:geomhash":"d18d450df52a72ca61c0f63c3cafb48f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108758287,
-    "wof:lastmodified":1627522107,
+    "wof:lastmodified":1695886581,
     "wof:name":"Halhal",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

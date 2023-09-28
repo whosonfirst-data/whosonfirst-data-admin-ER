@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22732,
-    "geom:area_square_m":2712685416.133004,
+    "geom:area_square_m":2712685348.186629,
     "geom:bbox":"39.191993,14.834026,39.831072,15.537917",
     "geom:latitude":15.186206,
     "geom:longitude":39.528788,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"ER.SK.FO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310354,
-    "wof:geomhash":"f8afe97c4a0112866d9ce32bd3aa89d2",
+    "wof:geomhash":"2f43143f89b561e14b725c0be9aaab41",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108758351,
-    "wof:lastmodified":1627522106,
+    "wof:lastmodified":1695886580,
     "wof:name":"Foro",
     "wof:parent_id":85671105,
     "wof:placetype":"county",

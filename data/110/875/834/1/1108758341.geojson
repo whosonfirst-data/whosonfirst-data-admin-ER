@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139941,
-    "geom:area_square_m":1671762012.703785,
+    "geom:area_square_m":1671762315.217,
     "geom:bbox":"37.668827,14.652653,38.139521,15.188762",
     "geom:latitude":14.958761,
     "geom:longitude":37.892636,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.GB.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310348,
-    "wof:geomhash":"6a5af5f879c0eee5054a10bab829150f",
+    "wof:geomhash":"4e47a375b762a0cbf7d57c0afc1bb60f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758341,
-    "wof:lastmodified":1627522109,
+    "wof:lastmodified":1695886584,
     "wof:name":"Shambuqo",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

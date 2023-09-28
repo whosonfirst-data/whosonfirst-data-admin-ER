@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000528,
-    "geom:area_square_m":6292268.381973,
+    "geom:area_square_m":6292384.011891,
     "geom:bbox":"38.93493,15.338313,38.973223,15.368047",
     "geom:latitude":15.351775,
     "geom:longitude":38.954678,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.MA.NE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310326,
-    "wof:geomhash":"2776f48ac64a0790a9d3e782b03af3db",
+    "wof:geomhash":"7f68cc834d43d6938865f26dfa8bae4f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758307,
-    "wof:lastmodified":1627522108,
+    "wof:lastmodified":1695886583,
     "wof:name":"Semienawi Mibrak",
     "wof:parent_id":1108805925,
     "wof:placetype":"county",

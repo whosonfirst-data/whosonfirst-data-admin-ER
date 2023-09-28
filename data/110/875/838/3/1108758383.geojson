@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080236,
-    "geom:area_square_m":957840391.242034,
+    "geom:area_square_m":957840486.717623,
     "geom:bbox":"38.38361,14.976044,38.921094,15.234907",
     "geom:latitude":15.107962,
     "geom:longitude":38.711238,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.DU.DB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310373,
-    "wof:geomhash":"0087eef9c67bbe1ef3c988fd5e5a2d21",
+    "wof:geomhash":"42c6d77f9795ebfe2b058a46d7e7d5d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758383,
-    "wof:lastmodified":1627522105,
+    "wof:lastmodified":1695886579,
     "wof:name":"Dbarwa",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.609094,
-    "geom:area_square_m":7225884768.270886,
+    "geom:area_square_m":7225884831.946918,
     "geom:bbox":"38.432188,15.87318,39.537569,16.927388",
     "geom:latitude":16.377843,
     "geom:longitude":38.848512,
@@ -98,9 +98,10 @@
         "hasc:id":"ER.SK.AF",
         "wd:id":"Q2081367"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310352,
-    "wof:geomhash":"d2b2307045d4bc197b184b0345b8088b",
+    "wof:geomhash":"cdf2e249425462bdda8c935708797f88",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108758347,
-    "wof:lastmodified":1690877007,
+    "wof:lastmodified":1695886661,
     "wof:name":"Afa'bet",
     "wof:parent_id":85671105,
     "wof:placetype":"county",

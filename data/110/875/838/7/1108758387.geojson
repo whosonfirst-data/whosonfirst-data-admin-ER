@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034617,
-    "geom:area_square_m":413979372.766129,
+    "geom:area_square_m":413979377.915304,
     "geom:bbox":"38.608402,14.575017,38.822607,14.859165",
     "geom:latitude":14.728693,
     "geom:longitude":38.713446,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.DU.EH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310375,
-    "wof:geomhash":"794f9dcd02c92455d334f6c709c1b176",
+    "wof:geomhash":"a753c1be478dd35d7d0a12307820407e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758387,
-    "wof:lastmodified":1627522106,
+    "wof:lastmodified":1695886581,
     "wof:name":"Emni Haili",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

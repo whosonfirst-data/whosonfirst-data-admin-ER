@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052516,
-    "geom:area_square_m":625970097.522869,
+    "geom:area_square_m":625970006.909876,
     "geom:bbox":"38.520457,15.211367,38.769814,15.591964",
     "geom:latitude":15.429594,
     "geom:longitude":38.661849,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.GB.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310343,
-    "wof:geomhash":"69b63f6353d2dbb592a0b6b3cfd24055",
+    "wof:geomhash":"e6d990436609ce74521afff8c882e027",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758329,
-    "wof:lastmodified":1627522107,
+    "wof:lastmodified":1695886582,
     "wof:name":"Logo Anseba",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

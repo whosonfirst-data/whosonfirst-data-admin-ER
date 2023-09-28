@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030052,
-    "geom:area_square_m":357981010.845735,
+    "geom:area_square_m":357981284.135675,
     "geom:bbox":"37.80797,15.471103,38.059646,15.64603",
     "geom:latitude":15.555997,
     "geom:longitude":37.923126,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.GB.AC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310334,
-    "wof:geomhash":"a8395f3c0cc3ea7435b77b7ee5900dbd",
+    "wof:geomhash":"05ed730a5f65147b6f83c1ba6b7ccfa7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758313,
-    "wof:lastmodified":1627522104,
+    "wof:lastmodified":1695886577,
     "wof:name":"Akurdet",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

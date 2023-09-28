@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.580227,
-    "geom:area_square_m":6949844531.645112,
+    "geom:area_square_m":6949844432.430688,
     "geom:bbox":"40.477716,13.799927,41.534304,15.022083",
     "geom:latitude":14.377947,
     "geom:longitude":40.955461,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.DK.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310364,
-    "wof:geomhash":"b76dbf2fe3e5f856617be29f42362607",
+    "wof:geomhash":"c928865d7e94f79533c16ef303c627f4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758367,
-    "wof:lastmodified":1627522104,
+    "wof:lastmodified":1695886577,
     "wof:name":"Ara'eta",
     "wof:parent_id":85671111,
     "wof:placetype":"county",

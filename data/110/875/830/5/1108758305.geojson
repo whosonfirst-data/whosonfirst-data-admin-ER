@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032739,
-    "geom:area_square_m":390560632.952841,
+    "geom:area_square_m":390560637.372971,
     "geom:bbox":"38.695835,15.168501,39.046215,15.359898",
     "geom:latitude":15.256032,
     "geom:longitude":38.896379,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.MA.GN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310325,
-    "wof:geomhash":"45f7df27ceb3fec1575a7341d36a16cf",
+    "wof:geomhash":"1ae0ef7e4e8547e885385c214884e16c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758305,
-    "wof:lastmodified":1627522106,
+    "wof:lastmodified":1695886580,
     "wof:name":"Galanefhi",
     "wof:parent_id":1108805925,
     "wof:placetype":"county",

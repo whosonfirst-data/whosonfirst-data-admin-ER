@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085949,
-    "geom:area_square_m":1028615040.543979,
+    "geom:area_square_m":1028615070.876227,
     "geom:bbox":"38.265342,14.407522,38.693465,14.698062",
     "geom:latitude":14.565357,
     "geom:longitude":38.503795,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.DU.MM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310377,
-    "wof:geomhash":"e7e64fac64045656239eb7ab1bbb7f69",
+    "wof:geomhash":"4070fbdabaf4e50b0bb032cc40dec64f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758391,
-    "wof:lastmodified":1627522107,
+    "wof:lastmodified":1695886582,
     "wof:name":"Maimine",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00334,
-    "geom:area_square_m":39824429.681487,
+    "geom:area_square_m":39824351.662523,
     "geom:bbox":"38.901961,15.338294,38.96406,15.417084",
     "geom:latitude":15.378317,
     "geom:longitude":38.933141,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.MA.NW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310332,
-    "wof:geomhash":"599fdd1a6a0cc46cb31345a3404919b4",
+    "wof:geomhash":"b2ad817d8bf18971363090a2fbcf7727",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758309,
-    "wof:lastmodified":1627522108,
+    "wof:lastmodified":1695886583,
     "wof:name":"Semienawi Mierab",
     "wof:parent_id":1108805925,
     "wof:placetype":"county",

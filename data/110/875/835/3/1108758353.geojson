@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.57642,
-    "geom:area_square_m":6890419534.641509,
+    "geom:area_square_m":6890418840.203008,
     "geom:bbox":"39.605054,14.299216,40.572149,15.582084",
     "geom:latitude":14.818505,
     "geom:longitude":40.088122,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.SK.GL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310356,
-    "wof:geomhash":"7deb6070b5458066237ed32989c12c36",
+    "wof:geomhash":"efbdf176bd380b2345d86b959edab942",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758353,
-    "wof:lastmodified":1627522106,
+    "wof:lastmodified":1695886580,
     "wof:name":"Ghelae'lo",
     "wof:parent_id":85671105,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087467,
-    "geom:area_square_m":1040931644.153497,
+    "geom:area_square_m":1040931644.15346,
     "geom:bbox":"38.0158968472,15.5446813046,38.5226812605,15.9648043837",
     "geom:latitude":15.750884,
     "geom:longitude":38.249998,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"ER.AN.HG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310314,
-    "wof:geomhash":"9fbe4d5a15af1ac822af964dd48c8b1a",
+    "wof:geomhash":"748e6510efcd2993a3278500c2dcf426",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108758283,
-    "wof:lastmodified":1566587038,
+    "wof:lastmodified":1695886661,
     "wof:name":"Hagaz",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

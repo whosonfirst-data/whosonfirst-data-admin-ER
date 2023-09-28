@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036133,
-    "geom:area_square_m":429684485.000871,
+    "geom:area_square_m":429684502.038255,
     "geom:bbox":"38.310748,15.809878,38.571646,16.028438",
     "geom:latitude":15.904727,
     "geom:longitude":38.431756,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.AN.HM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310317,
-    "wof:geomhash":"9bd8ece0c70a7e1cd4b53dbfd435b448",
+    "wof:geomhash":"43274bf02b7b95731f9b56afd39f8d3c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758289,
-    "wof:lastmodified":1627522107,
+    "wof:lastmodified":1695886581,
     "wof:name":"Hamelmalo",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

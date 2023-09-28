@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007789,
-    "geom:area_square_m":92665907.348347,
+    "geom:area_square_m":92665915.332678,
     "geom:bbox":"38.337539,15.755265,38.490169,15.846783",
     "geom:latitude":15.803943,
     "geom:longitude":38.417555,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"ER.AN.KC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310318,
-    "wof:geomhash":"90d9d079d682e685c15af72541ac6355",
+    "wof:geomhash":"76d5a7f3b62104cfda476a5db496210d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108758291,
-    "wof:lastmodified":1636502502,
+    "wof:lastmodified":1695886064,
     "wof:name":"Keren",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

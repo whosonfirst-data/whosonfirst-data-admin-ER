@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.351123,
-    "geom:area_square_m":4216932364.547247,
+    "geom:area_square_m":4216932004.340996,
     "geom:bbox":"41.130928,13.321913,42.037083,14.164686",
     "geom:latitude":13.768986,
     "geom:longitude":41.540861,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.DK.CS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310367,
-    "wof:geomhash":"5a860dc11ddd3414398405c4bb1d19ab",
+    "wof:geomhash":"529cc67fab005daa3cc36dbba6dcab24",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758373,
-    "wof:lastmodified":1627522107,
+    "wof:lastmodified":1695886582,
     "wof:name":"Maekel Debubawi Keih Bahri",
     "wof:parent_id":85671111,
     "wof:placetype":"county",

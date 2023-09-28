@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.262191,
-    "geom:area_square_m":3104428936.203398,
+    "geom:area_square_m":3104428936.203383,
     "geom:bbox":"37.9676877034,16.3619711215,38.5892087961,17.0973259272",
     "geom:latitude":16.752487,
     "geom:longitude":38.322913,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"ER.SK.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310361,
-    "wof:geomhash":"7bea33f8b106940e99c7746dccc1f168",
+    "wof:geomhash":"6b4446be859af2d63413f0eda27f1eab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108758363,
-    "wof:lastmodified":1566587049,
+    "wof:lastmodified":1695886661,
     "wof:name":"Nakfa",
     "wof:parent_id":85671105,
     "wof:placetype":"county",

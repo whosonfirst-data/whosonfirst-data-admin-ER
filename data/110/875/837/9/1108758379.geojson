@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05957,
-    "geom:area_square_m":712815118.032207,
+    "geom:area_square_m":712815091.57345,
     "geom:bbox":"38.67815,14.46003,39.02699,14.763952",
     "geom:latitude":14.596701,
     "geom:longitude":38.848522,
@@ -106,9 +106,10 @@
     "wof:concordances":{
         "hasc:id":"ER.DU.AQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310369,
-    "wof:geomhash":"e081f31d4ba4ffd992189a4f455d9788",
+    "wof:geomhash":"bc8b9f800c6cd3b3d0cb1bf3d2571860",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108758379,
-    "wof:lastmodified":1627522104,
+    "wof:lastmodified":1695886578,
     "wof:name":"Adi Quala",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

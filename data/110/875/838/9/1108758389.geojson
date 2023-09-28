@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066485,
-    "geom:area_square_m":794791018.727368,
+    "geom:area_square_m":794790921.11908,
     "geom:bbox":"38.901462,14.633866,39.282568,14.932987",
     "geom:latitude":14.810163,
     "geom:longitude":39.069972,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.DU.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310376,
-    "wof:geomhash":"6a40a8c251c001c5ffe4042eeebefb38",
+    "wof:geomhash":"27f14d735f59d45a98fda3cbc7999232",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758389,
-    "wof:lastmodified":1627522107,
+    "wof:lastmodified":1695886582,
     "wof:name":"Maiaini",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

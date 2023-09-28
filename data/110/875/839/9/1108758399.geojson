@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08176,
-    "geom:area_square_m":977944066.061616,
+    "geom:area_square_m":977944220.506255,
     "geom:bbox":"39.314882,14.483501,39.654795,14.92675",
     "geom:latitude":14.686169,
     "geom:longitude":39.49282,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.DU.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310382,
-    "wof:geomhash":"9a7abfef218ab3a843d1c2d414e5ea1c",
+    "wof:geomhash":"2a593fdbe7d93fb622ef44eb15b25e96",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758399,
-    "wof:lastmodified":1627522108,
+    "wof:lastmodified":1695886584,
     "wof:name":"Sena'fe",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

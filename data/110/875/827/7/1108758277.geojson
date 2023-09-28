@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053069,
-    "geom:area_square_m":631757475.254975,
+    "geom:area_square_m":631757285.208873,
     "geom:bbox":"38.380188,15.548653,38.78139,15.823137",
     "geom:latitude":15.691886,
     "geom:longitude":38.563051,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.AN.EL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310311,
-    "wof:geomhash":"e7e7ac92b48065e03fb63176704f1c26",
+    "wof:geomhash":"1824db479534ad4ddef17c62bce7bdef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758277,
-    "wof:lastmodified":1627522105,
+    "wof:lastmodified":1695886578,
     "wof:name":"Elabered",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

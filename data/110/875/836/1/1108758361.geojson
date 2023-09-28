@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027443,
-    "geom:area_square_m":326773657.520587,
+    "geom:area_square_m":326773780.382287,
     "geom:bbox":"39.29083,15.513518,39.482082,15.772908",
     "geom:latitude":15.641809,
     "geom:longitude":39.3918,
@@ -196,9 +196,10 @@
     "wof:concordances":{
         "hasc:id":"ER.SK.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310360,
-    "wof:geomhash":"b2f57d1f0d6eef85ed5d5aae84e40e59",
+    "wof:geomhash":"d197c4370293dde2f0bd1c963876de27",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -208,7 +209,7 @@
         }
     ],
     "wof:id":1108758361,
-    "wof:lastmodified":1636502502,
+    "wof:lastmodified":1695886064,
     "wof:name":"Massawa",
     "wof:parent_id":85671105,
     "wof:placetype":"county",
