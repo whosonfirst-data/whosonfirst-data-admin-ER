@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.163149,
-    "geom:area_square_m":1940818997.726908,
+    "geom:area_square_m":1940819183.032683,
     "geom:bbox":"38.748451,15.601663,39.443722,16.034057",
     "geom:latitude":15.833637,
     "geom:longitude":39.093847,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.SK.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310362,
-    "wof:geomhash":"e9fc44e423f93b72d71a17162efaaf2e",
+    "wof:geomhash":"d98250fbdaccd82b714f57b121054ff4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758365,
-    "wof:lastmodified":1627522109,
+    "wof:lastmodified":1695886584,
     "wof:name":"Shie'b",
     "wof:parent_id":85671105,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.791062,
-    "geom:area_square_m":9364171571.116982,
+    "geom:area_square_m":9364170844.972815,
     "geom:bbox":"36.859015,16.274681,37.990057,17.505165",
     "geom:latitude":16.797349,
     "geom:longitude":37.449773,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.AN.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310320,
-    "wof:geomhash":"5bdf5f3ea5ae3f1d7b4e1e4cdc8c8c12",
+    "wof:geomhash":"a4238e51f9de5603ad78ba90fcc11116",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758295,
-    "wof:lastmodified":1627522108,
+    "wof:lastmodified":1695886582,
     "wof:name":"Sela'",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

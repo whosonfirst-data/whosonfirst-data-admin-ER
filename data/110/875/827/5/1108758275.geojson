@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.23582,
-    "geom:area_square_m":2797858835.764728,
+    "geom:area_square_m":2797858835.764802,
     "geom:bbox":"37.7446190031,16.0022108639,38.2626904199,16.7349508797",
     "geom:latitude":16.361751,
     "geom:longitude":37.973858,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"ER.AN.AS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310310,
-    "wof:geomhash":"943defc9135a9bccde32bfdc69c48fed",
+    "wof:geomhash":"06d891fbd0810911ebf15faf29199f60",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108758275,
-    "wof:lastmodified":1566587035,
+    "wof:lastmodified":1695886660,
     "wof:name":"Asmat",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

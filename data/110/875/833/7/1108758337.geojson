@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.425156,
-    "geom:area_square_m":5086049664.485719,
+    "geom:area_square_m":5086049936.474463,
     "geom:bbox":"36.460058,14.252015,37.1363,15.045467",
     "geom:latitude":14.655829,
     "geom:longitude":36.792015,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"ER.GS.OM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310347,
-    "wof:geomhash":"a4725e2602d50532a47887952876352c",
+    "wof:geomhash":"6b3c01a0734d32549d59111ff61fd8d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108758337,
-    "wof:lastmodified":1627522108,
+    "wof:lastmodified":1695886583,
     "wof:name":"Omhajer",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

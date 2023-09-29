@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087625,
-    "geom:area_square_m":1044830637.781505,
+    "geom:area_square_m":1044830943.530071,
     "geom:bbox":"38.695835,15.168501,39.046215,15.570337",
     "geom:latitude":15.35277,
     "geom:longitude":38.880665,
@@ -279,12 +279,14 @@
         "gn:id":448501,
         "gp:id":24549682,
         "hasc:id":"ER.MA",
+        "iso:code":"ER-MA",
         "iso:id":"ER-MA",
         "wd:id":"Q27710"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ER",
     "wof:created":1485912888,
-    "wof:geomhash":"0592873de8630ed5d7dfdf512fa42f16",
+    "wof:geomhash":"6f38274e9842384df99e202d79edecc0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -303,7 +305,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1690877007,
+    "wof:lastmodified":1695884935,
     "wof:name":"Central",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052729,
-    "geom:area_square_m":630119208.497356,
+    "geom:area_square_m":630119067.860596,
     "geom:bbox":"38.667433,14.731685,38.973568,14.996931",
     "geom:latitude":14.887611,
     "geom:longitude":38.820575,
@@ -163,9 +163,10 @@
     "wof:concordances":{
         "hasc:id":"ER.DU.MF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310380,
-    "wof:geomhash":"82816a47240f561f89ac8282add46c6e",
+    "wof:geomhash":"c120a88353493557e48325dd01d9bdcf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":1108758395,
-    "wof:lastmodified":1636502502,
+    "wof:lastmodified":1695886064,
     "wof:name":"Mendefera",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

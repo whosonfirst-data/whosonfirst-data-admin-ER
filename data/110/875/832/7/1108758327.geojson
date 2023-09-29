@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.342815,
-    "geom:area_square_m":4101473032.052612,
+    "geom:area_square_m":4101472570.638507,
     "geom:bbox":"37.060161,14.180792,37.781877,15.062882",
     "geom:latitude":14.632721,
     "geom:longitude":37.404775,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.GB.UG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310342,
-    "wof:geomhash":"a152f8e7096a7a1fd17d46fd3ed18392",
+    "wof:geomhash":"f8f78be08b95286c5862a4454c66bbfc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758327,
-    "wof:lastmodified":1627522107,
+    "wof:lastmodified":1695886581,
     "wof:name":"Lae'lay Gash",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

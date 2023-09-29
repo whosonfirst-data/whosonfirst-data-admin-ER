@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.944227,
-    "geom:area_square_m":34961816417.068298,
+    "geom:area_square_m":34961815738.0877,
     "geom:bbox":"37.850879,14.299216,40.859585,18.020414",
     "geom:latitude":16.164337,
     "geom:longitude":39.067235,
@@ -279,16 +279,18 @@
         "gn:id":448502,
         "gp:id":24549686,
         "hasc:id":"ER.SK",
+        "iso:code":"ER-SK",
         "iso:id":"ER-SK",
         "qs_pg:id":1287877,
         "wd:id":"Q27910",
         "wk:page":"Northern Red Sea Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"ER",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f19d7ddb15ee2417e905c812ff08c9eb",
+    "wof:geomhash":"902d9bfceba2369efa30c1a689acc3be",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -307,7 +309,7 @@
         "eng",
         "ara"
     ],
-    "wof:lastmodified":1690877005,
+    "wof:lastmodified":1695884934,
     "wof:name":"Debub",
     "wof:parent_id":85632781,
     "wof:placetype":"region",

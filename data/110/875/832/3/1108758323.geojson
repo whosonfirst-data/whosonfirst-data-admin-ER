@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.217401,
-    "geom:area_square_m":2594882354.662866,
+    "geom:area_square_m":2594882971.048202,
     "geom:bbox":"37.167388,14.776681,37.687299,15.513758",
     "geom:latitude":15.139854,
     "geom:longitude":37.393845,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.GB.GG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310339,
-    "wof:geomhash":"d27eed4431c872c1749444f3ceb9c518",
+    "wof:geomhash":"5d35b8167cf843e53870a362a5513d3e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758323,
-    "wof:lastmodified":1627522106,
+    "wof:lastmodified":1695886580,
     "wof:name":"Gogne",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

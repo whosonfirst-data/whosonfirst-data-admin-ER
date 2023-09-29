@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.384164,
-    "geom:area_square_m":4570660842.233804,
+    "geom:area_square_m":4570661571.471078,
     "geom:bbox":"36.572257,15.321785,37.356038,16.321411",
     "geom:latitude":15.803522,
     "geom:longitude":36.962657,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"ER.GB.FO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310338,
-    "wof:geomhash":"2e8e1ebf83026fb2afd2fe9dc7d396a9",
+    "wof:geomhash":"64560c7763827e9597ee3266b3577a2c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108758319,
-    "wof:lastmodified":1627522106,
+    "wof:lastmodified":1695886580,
     "wof:name":"Forto",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

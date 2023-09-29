@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057171,
-    "geom:area_square_m":683951919.508961,
+    "geom:area_square_m":683951724.126309,
     "geom:bbox":"39.04158,14.409358,39.371579,14.802746",
     "geom:latitude":14.650065,
     "geom:longitude":39.238638,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.DU.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310384,
-    "wof:geomhash":"fa5ebb6cfd7e80372510a8fae27806ea",
+    "wof:geomhash":"24880f5de1d2a9df196d13a273f1b90f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758401,
-    "wof:lastmodified":1627522109,
+    "wof:lastmodified":1695886584,
     "wof:name":"Tsorona",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

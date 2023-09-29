@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248539,
-    "geom:area_square_m":2935432339.393561,
+    "geom:area_square_m":2935432735.244671,
     "geom:bbox":"37.850879,16.82115,38.328208,17.584718",
     "geom:latitude":17.222135,
     "geom:longitude":38.082349,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.SK.AD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310351,
-    "wof:geomhash":"d629a7e90d2fe63094ddebc54d11a7de",
+    "wof:geomhash":"6c5a083e26198935580d269ba4956ba3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758345,
-    "wof:lastmodified":1627522104,
+    "wof:lastmodified":1695886577,
     "wof:name":"Adobha",
     "wof:parent_id":85671105,
     "wof:placetype":"county",

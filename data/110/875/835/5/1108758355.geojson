@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.168445,
-    "geom:area_square_m":2007158305.932185,
+    "geom:area_square_m":2007158387.971943,
     "geom:bbox":"38.867138,15.215135,39.43713,15.740871",
     "geom:latitude":15.493661,
     "geom:longitude":39.15172,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.SK.GD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310357,
-    "wof:geomhash":"dba57696cb32ca7c50470e118f9f532e",
+    "wof:geomhash":"4f59054f1b2fe4063885cb52003bfbb1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758355,
-    "wof:lastmodified":1627522106,
+    "wof:lastmodified":1695886581,
     "wof:name":"Ghinda'e",
     "wof:parent_id":85671105,
     "wof:placetype":"county",

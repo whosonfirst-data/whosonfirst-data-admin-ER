@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040284,
-    "geom:area_square_m":485438523.960533,
+    "geom:area_square_m":485438719.802656,
     "geom:bbox":"42.581096,12.820416,43.068753,13.096647",
     "geom:latitude":12.956074,
     "geom:longitude":42.716516,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.DK.AC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310365,
-    "wof:geomhash":"c472d6e675c111da6e17bd0da04bc670",
+    "wof:geomhash":"0738a6b2d9341a185daddfef51a39378",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758369,
-    "wof:lastmodified":1627522105,
+    "wof:lastmodified":1695886579,
     "wof:name":"Asseb",
     "wof:parent_id":85671111,
     "wof:placetype":"county",

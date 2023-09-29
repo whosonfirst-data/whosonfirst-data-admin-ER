@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242039,
-    "geom:area_square_m":2884747300.536111,
+    "geom:area_square_m":2884747776.959724,
     "geom:bbox":"37.93148,15.155366,38.622106,15.800875",
     "geom:latitude":15.446507,
     "geom:longitude":38.241708,
@@ -54,9 +54,10 @@
     "wof:concordances":{
         "hasc:id":"ER.BA.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310344,
-    "wof:geomhash":"6bb8c93a05cc4a1d16791f574258e49e",
+    "wof:geomhash":"f1cab28d95a34fe04d0af7971bfba2f9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108758331,
-    "wof:lastmodified":1627522107,
+    "wof:lastmodified":1695886582,
     "wof:name":"Mensura",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

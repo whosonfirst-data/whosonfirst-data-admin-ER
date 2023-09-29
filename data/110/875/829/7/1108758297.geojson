@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022716,
-    "geom:area_square_m":270831749.022156,
+    "geom:area_square_m":270831699.679994,
     "geom:bbox":"38.735513,15.284015,38.911404,15.48719",
     "geom:latitude":15.374573,
     "geom:longitude":38.825182,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.MA.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310322,
-    "wof:geomhash":"2f5d76f589f61325d1b45400388aedbd",
+    "wof:geomhash":"9b808ddf9e7fb79b91dd2937d6799456",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758297,
-    "wof:lastmodified":1627522105,
+    "wof:lastmodified":1695886578,
     "wof:name":"Berik",
     "wof:parent_id":1108805925,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.307928,
-    "geom:area_square_m":3658069952.932269,
+    "geom:area_square_m":3658070041.166842,
     "geom:bbox":"37.035845,15.796982,38.061769,16.429606",
     "geom:latitude":16.109222,
     "geom:longitude":37.574299,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"ER.AN.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310319,
-    "wof:geomhash":"70e58ac50f4945539d1c675a030fa9f6",
+    "wof:geomhash":"d8d0aa06155815298103cb85b5e994a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108758293,
-    "wof:lastmodified":1627522107,
+    "wof:lastmodified":1695886581,
     "wof:name":"Kerkebet",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

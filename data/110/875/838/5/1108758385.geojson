@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058384,
-    "geom:area_square_m":697025076.494465,
+    "geom:area_square_m":697025076.494474,
     "geom:bbox":"38.9036854642,14.920269334,39.1784574443,15.264019199",
     "geom:latitude":15.091366,
     "geom:longitude":39.029659,
@@ -127,9 +127,10 @@
     "wof:concordances":{
         "hasc:id":"ER.DU.DE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310374,
-    "wof:geomhash":"43b35934deb22c80862ac3d4c6da40ac",
+    "wof:geomhash":"253c599e3b47c1159246b2e7daabc459",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1108758385,
-    "wof:lastmodified":1566587047,
+    "wof:lastmodified":1695886661,
     "wof:name":"Dekemhare",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

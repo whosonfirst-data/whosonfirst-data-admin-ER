@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093089,
-    "geom:area_square_m":1111101161.469318,
+    "geom:area_square_m":1111100764.876458,
     "geom:bbox":"36.433348,14.989201,36.930998,15.366918",
     "geom:latitude":15.141574,
     "geom:longitude":36.640064,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.GB.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310350,
-    "wof:geomhash":"644744fce20a3513de238ba107855d0f",
+    "wof:geomhash":"d7bbf840bcf1b70d89cb13e2560f3877",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758343,
-    "wof:lastmodified":1627522109,
+    "wof:lastmodified":1695886584,
     "wof:name":"Tesseney",
     "wof:parent_id":85671101,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037344,
-    "geom:area_square_m":444304500.187061,
+    "geom:area_square_m":444304354.885336,
     "geom:bbox":"38.543374,15.695826,38.863248,15.898489",
     "geom:latitude":15.808962,
     "geom:longitude":38.719048,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.AN.GH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310312,
-    "wof:geomhash":"91aaa8887e8ca27feab3c616738788b9",
+    "wof:geomhash":"bb89c7a25c7ba6046d56045960f0915c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758279,
-    "wof:lastmodified":1627522106,
+    "wof:lastmodified":1695886580,
     "wof:name":"Gheleb",
     "wof:parent_id":1108805927,
     "wof:placetype":"county",

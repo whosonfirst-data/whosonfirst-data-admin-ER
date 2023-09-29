@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051734,
-    "geom:area_square_m":617794084.884051,
+    "geom:area_square_m":617794253.161011,
     "geom:bbox":"39.078698,14.876097,39.322202,15.243285",
     "geom:latitude":15.039041,
     "geom:longitude":39.202918,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"ER.DU.SG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310381,
-    "wof:geomhash":"9b28ccf58707350be8b5bbe7f6fa10b5",
+    "wof:geomhash":"35e32eacfb37fccabf520a0d85d4ffcd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108758397,
-    "wof:lastmodified":1627522108,
+    "wof:lastmodified":1695886583,
     "wof:name":"Segheneity",
     "wof:parent_id":85671109,
     "wof:placetype":"county",

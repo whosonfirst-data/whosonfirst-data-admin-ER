@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094402,
-    "geom:area_square_m":1123178915.988053,
+    "geom:area_square_m":1123178993.826911,
     "geom:bbox":"39.532055,15.371222,40.859585,16.549583",
     "geom:latitude":15.801442,
     "geom:longitude":40.148201,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"ER.SK.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"ER",
     "wof:created":1481310353,
-    "wof:geomhash":"3c8b9f90acbf1941ee6d3cd58ee9a0f7",
+    "wof:geomhash":"b21b979fdb6350cf33b74c37a9955255",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1108758349,
-    "wof:lastmodified":1627522105,
+    "wof:lastmodified":1695886579,
     "wof:name":"Dahlak",
     "wof:parent_id":85671105,
     "wof:placetype":"county",
