@@ -67,6 +67,11 @@
     "wof:concordances":{
         "gn:id":409492
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            335235
+        ]
+    },
     "wof:country":"ER",
     "wof:geomhash":"c1d7174ba8a9e76eb32ea20950d78134",
     "wof:hierarchy":[
@@ -79,13 +84,15 @@
         }
     ],
     "wof:id":1226261157,
-    "wof:lastmodified":1566587110,
+    "wof:lastmodified":1706239507,
     "wof:name":"Halay",
     "wof:parent_id":1108758377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-er",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343765085
+    ],
     "wof:tags":[]
 },
   "bbox": [
